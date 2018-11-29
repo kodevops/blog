@@ -1,0 +1,73 @@
+---
+author: kodeveloper
+comments: true
+date: 2016-10-21 15:54:42+00:00
+layout: post
+link: http://kodeveloper.com/2016/10/22/struggle-3/
+slug: struggle-3
+title: 제3차 고군분투기
+wordpress_id: 97
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![3-0](http://kodeveloper.com/wp-content/uploads/2016/10/3-0-768x431.png)
+
+### 일정
+
+제목 : 제3차 Kodeveloper 고군분투기  
+일시 : 2016년10월21일 19시  
+장소 : (株)ユナイテッドブレイズ (大会議室)
+
+### 발표자
+
+@db-lee: Healthy Body, Healthy Code  
+@chatmate: IT 커리어 관리 실패기  
+@ninetin: MVVM Of .Net Framework
+
+### 발표 자료
+
+##### @db-lee: Healthy Body, Healthy Code
+
+* * *
+
+##### @chatmate: IT 커리어 관리 실패기
+
+-- 비공개 --
+
+* * *
+
+##### @ninetin: MVVM Of .Net Framework
+
+ 
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+@db-lee → @ninetin  
+@chatmate → @db-lee  
+@ninetin → @
+
+ 
+
+### 사진
+
+[smartslider3 slider=5]
+
+ 
+
+ 
+
+### 후원
+
+**장소** 
+
+[![logo_unitedblades](http://kodeveloper.com/wp-content/uploads/2016/08/logo_unitedblades-300x62.png)](http://www.unitedblades.co.jp/)

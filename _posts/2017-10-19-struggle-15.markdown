@@ -1,0 +1,81 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-10-19 07:41:11+00:00
+layout: post
+link: http://kodeveloper.com/2017/10/19/struggle-15/
+slug: struggle-15
+title: 제15차 고군분투기
+wordpress_id: 461
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- Struggle
+- 고군분투기
+---
+
+![15struggle](http://kodeveloper.com/wp-content/uploads/2017/10/15struggle.png)
+
+### 일정
+
+제목 : 제15차 Kodeveloper 고군분투기  
+일시 : 2017년10월19일 20시 00분  
+장소 : 라인
+
+### 발표자
+
+@sangjun : Resize EBS(Amazon Elastic Block Store)  
+@ninetin : DDD(Domain Driven Design)  
+@rickyl1126 : Bad Practices using BLE  
+@ahn-soohan : 코딩인터뷰
+
+### 발표 자료
+
+##### @sangjun : Resize EBS(Amazon Elastic Block Store) [-링크](https://docs.google.com/presentation/d/1Twyp4e-J8c4v7BJC7bXRwOLjEFbH1tXN0dPhsHdYyrc/edit#slide=id.g150ec625ef_0_45)![resize_ebs](http://kodeveloper.com/wp-content/uploads/2017/10/resize_ebs.png)
+
+* * *
+
+##### @ninetin : DDD(Domain Driven Design) - [링크](https://docs.google.com/presentation/d/1tLsus2z3bjJcWc0K9vQev5FSahgCM6WkTFCagkrmRh0/edit#slide=id.p)
+
+![Domain Driven Design](http://kodeveloper.com/wp-content/uploads/2017/10/ddd_19.png)
+
+* * *
+
+##### @rickyl1126 : Bad Practices using BLE - [링크](https://www.icloud.com/#iclouddrive/0NNhOyn0z5fC8W9MW7G1nr6Ow)
+
+![bad_ble](http://kodeveloper.com/wp-content/uploads/2017/10/bad_ble.png)
+
+* * *
+
+##### @ahn-soohan : 코딩 인터뷰 맛보기
+
+** [Coding interview](//www.slideshare.net/SoohanAhn/coding-interview-80973672) ** from **[Soohan Ahn](https://www.slideshare.net/SoohanAhn)**
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ 
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1978906592354076&type=3)
+
+![22491841_1710439625693102_5530743230994029804_n](http://kodeveloper.com/wp-content/uploads/2017/10/22491841_1710439625693102_5530743230994029804_n.jpg)
+
+### 후원
+
+**장소**
+
+![line_logo](http://kodeveloper.com/wp-content/uploads/2017/10/line_logo-300x105.png)
+
+ 

@@ -1,0 +1,54 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-08-21 12:31:07+00:00
+layout: post
+link: http://kodeveloper.com/2018/08/21/struggle-24/
+slug: struggle-24
+title: 제24차 고군분투기
+wordpress_id: 591
+categories:
+- 고군분투기
+tags:
+- SRE
+---
+
+![スクリーンショット 2018-08-21 21.29.39](http://kodeveloper.com/wp-content/uploads/2018/08/スクリーンショット-2018-08-21-21.29.39.png)
+
+### 일정
+
+제목 : 제24차 Kodeveloper 고군분투기  
+일시 : 2018년08월16일 20시00분 ~
+
+### 발표자
+
+@kimsuhyuk : SRE홅아보기 
+
+### 발표 자료
+
+##### @kimsuhyuk : SRE홅아보기   
+![39229078_1874162206213841_8200839941148639232_n](http://kodeveloper.com/wp-content/uploads/2018/08/39229078_1874162206213841_8200839941148639232_n.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2164427673801966&type=3)
+
+ 
+
+### 후원
+
+![「repro logo」の画像検索結果](https://connpass-tokyo.s3.amazonaws.com/thumbs/22/2d/222daa70cd52a43f61dfe249d62087c1.png)
+
+ 

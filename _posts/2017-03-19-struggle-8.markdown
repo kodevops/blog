@@ -1,0 +1,74 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-03-19 16:52:46+00:00
+layout: post
+link: http://kodeveloper.com/2017/03/20/struggle-8/
+slug: struggle-8
+title: 제8차 고군분투기
+wordpress_id: 318
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![](http://kodeveloper.com/wp-content/uploads/2017/03/00.png)
+
+### 일정
+
+제목 : 제8차 Kodeveloper 고군분투기  
+일시 : 2017년03월15일 20시 00분  
+장소 : Wanted(일본 지사)
+
+### 발표자
+
+@riverleo: 사내 시스템 소개  
+@nari: 비공개  
+@laby0525: 일본 문과생은 어떻게 살아남나? 그리고 채용에 관해   
+@jun: About E-Mail
+
+### 발표 자료
+
+##### @riverleo: 사내 시스템 소개
+
+준비중
+
+* * *
+
+##### @nari: 비공개
+
+비공개
+
+* * *
+
+##### @laby0525: 일본 문과생은 어떻게 살아남나? 그리고 채용에 관해
+
+* * *
+
+##### @jun: About E-Mail
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+[smartslider3 slider=14]
+
+ 
+
+### 후원
+
+**장소**
+
+![logo_referme](http://kodeveloper.com/wp-content/uploads/2017/03/logo_referme-300x300.png)

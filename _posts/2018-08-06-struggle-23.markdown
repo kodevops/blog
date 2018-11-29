@@ -1,0 +1,64 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-08-06 21:24:42+00:00
+layout: post
+link: http://kodeveloper.com/2018/08/07/struggle-23/
+slug: struggle-23
+title: 제23차 고군분투기
+wordpress_id: 589
+categories:
+- 고군분투기
+tags:
+- ELK
+- GDPR
+---
+
+![スクリーンショット 2018-08-07 5.52.08](http://kodeveloper.com/wp-content/uploads/2018/08/スクリーンショット-2018-08-07-5.52.08.png)
+
+### 일정
+
+제목 : 제23차 Kodeveloper 고군분투기  
+일시 : 2018년07월19일 20시00분 ~
+
+### 발표자
+
+@manggu : ELK2
+
+@daebum-lee : Hello, GDPR!
+
+### 발표 자료
+
+##### @manggu : ELK part 2
+
+![37395515_1845959612367434_4453983198799462400_n](http://kodeveloper.com/wp-content/uploads/2018/08/37395515_1845959612367434_4453983198799462400_n.jpg)
+
+* * *
+
+##### @daebum-lee : Hello, GDPR!
+
+![37607908_1846981038931958_5877329906085396480_n](http://kodeveloper.com/wp-content/uploads/2018/08/37607908_1846981038931958_5877329906085396480_n.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2133830396861694&type=3)
+
+![37326223_1846057009024361_969244479414337536_n](http://kodeveloper.com/wp-content/uploads/2018/08/37326223_1846057009024361_969244479414337536_n.jpg)
+
+### 후원
+
+ ![cyberagent](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABPCAMAAADRLKcJAAAAwFBMVEX///8AAAAtjDyCvij39/fS0tL6+vrZ2dnW1taenp50dHQwMDDd3d3JyckkJCTj4+NCQkK7u7vr6+ttbW1SUlIqKiqMjIyuzbLx8fGWlpY7OzsfiDFLS0t8fHynp6dfX18PDw94ugAYGBixsbG72pgihz59vBg3kTwMhCYAfAedw6Ll8Ne91sFusDNToDpkqjfT57zU5NZ2tjD4+/NmpW7e7c1XnmE1kiVFlVHG4KmQxU2CtIlssRmfzGbj7eRwqngcW6T0AAADaElEQVRoge2WC3OaQBCAb/FARUAQBQQBEU1MqnnZpE2f//9fdffOZ9NYk0kn05n9ZlBmbsf72N1bFIJhGIZhGIZhGIZhGIZ5EavVan1nWe8qcsBjo6qqxiNKPcwRQ763kOZL1SCqxk08N5Ds63sbKb6cNdZU3wzNZikZjkZRbxfqRu3nculGUXB0m14UJS/ReqwaO86V1nzdYyYo3G1sGwbPeaUYeHSfFkDvaMBv7GstZ9rrVq0kY/DqwIdizyuVm4NxeEB69ADdw5VdhNReL8nXPXndnc+Ma52uLMMrVktDgBb+piNcO7REYOeUrxAgp/3aHnQC0Q2jbtnHPNTg+9AmmWEHoD+0VMQgEE6Yd31IW+QVhubJXtOzdflmV9f4Nb9czI3sp1rqQ6ljAgALLT30ghGKRUKEkOZYmBZMPICmECUMC0gF3UxyH8aJsFWExF7ACOiQF8DxFtznO3rdzYwtQjxgwmhFdkhgz6uDXp4UOYyp80jBbQLmpO6KZAKmQ4VyAUyM99BnLPHJXEpT18YaY6jbPL2S5LXcetGIuMyM+Q9cSTwYPvFKJW0tIwhFU+VLnwqXPCdQi4iSVqNXBLlqqRY1g6m9XtL3h/miCqJXtqB8pfjTf/DCTZISOn1ADdzVoQgbSgez0hd0kZfVVxEFRTuv8VL9dTUzZufLO2r7y5j0PtJSCP7WSxx4YQn9KOiJjZc10BMFMF/+xktHvNbrg5oTyys6jktDn0f8lFoHT5ir6mFiJpSXhbumenux9cIy2raNbR44MG7hqidzSpywnni5xYk91ngyVmmCqUlRAvgj7FvhwyQF5TVwzVRXJ3QLX669In1ycwxtq1CP+gojxjsvPBZl4CTtwj2qs+V+b7BebfJlGDSjpE21KSVVpqQ61qpY1HVtulG74pCwJnr2qj5swQj1Ex0BlMqWlivVnBgWp86wabWfr5X4vEuY6AXUI0J6qSjQS0izDvRUT4LaRHep3kty/Xaib7+DLtiGBxHqw61dS8/+07ipqrOzqlp+yrKLSyEWFxnexPsROU6DYnMKjjPEnAQwept/cTfT6c3KWsSxejHexnG8OFinauWbaXYcHKXYbvabaP2VEQzsE4+5DRN7PdT+PT08lf5pe0ls7/T01zPDMAzDMAzDMAzDMAzzP/ILIFs68BeMITQAAAAASUVORK5CYII=)
+
+ 

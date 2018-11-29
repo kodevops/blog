@@ -1,0 +1,96 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-11-18 10:48:05+00:00
+layout: post
+link: http://kodeveloper.com/2018/11/18/struggle-26/
+slug: struggle-26
+title: 제26차 고군분투기
+wordpress_id: 626
+categories:
+- 고군분투기
+tags:
+- architecture
+---
+
+### 일정
+
+제목 : 제26차 Kodeveloper 고군분투기  
+일시 : 2018년11월15일 20시00분 ~ 22시00분
+
+### 발표자
+
+**@manggu : Rakuten Travel Tag System Architecture**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/46279537_2009809242391052_4349729821241114624_n.jpg?_nc_cat=104&_nc_eui2=AeHWH1lCTr2s6fR6MXG1xdFyi6D7mZhrW7oA-P3D4v6q0zGu48xdYqA6pzCZnVlz_h0vQYBbpLDWM9AXr1QOGxGtCm3gn_5kd_g9T7m4aEDbbQ&_nc_ht=scontent-nrt1-1.xx&oh=1cefc747aae35bf70d95315089e8cb77&oe=5C72D046)
+
+>Rakuten Travel 에서 Tech쪽 매니저질 하고 있습니다.
+최근 관심은 microservice와 Elastic Stack관련입니다.
+특기는 입고팅과 Oracle SQL 튜닝, ELK관련 설치 튜닝은 무리.
+어플리쪽은 Java가 메인. DB쪽은 Oracle, Mongodb, Redis?, Elasticsearch 웹서버는 Tomcat메인에 Nginx는 잘하고 싶은 열망만 있습니다.
+
+<ul class="list-inline text-center">
+    <li>
+    <a href="">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+    </li>
+    <li>
+    <a target="_blank" href="">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+    </li>
+    <li>
+    <a target="_blank" href="">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+    </li>
+    <li>
+    <a target="_blank" href="">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-slack fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+    </li>
+</ul>
+
+---
+
+**@daebum-lee : 훑어보는 아키텍처 설계이야기**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/46463503_2009810139057629_4839559408146972672_n.jpg?_nc_cat=110&_nc_eui2=AeECtPJVRN8CcRt2zXPQUE0AMCSzAFvMnpKfQ1_5ftkCvkTUHp6FHdUKJO0fgjkYE9aonVrmKc3RH0iF3XEVZ5onYOVGq0ojBKlXW-SaP-QojA&_nc_ht=scontent-nrt1-1.xx&oh=4ca01be40e1acb2ca077d2c875f4e054&oe=5C6F217C)
+
+>관심분야는 Blockchain / 시스템 설계 / k8s / container / 여행 / 맥주 / 라면 / 교자 / 등등
+
+
+### 발표 자료
+
+**@manggu : Rakuten Travel Tag System Architecture**([자료](https://www.slideshare.net/minsoojun/2018-tech-conftag))
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4a9XJaEhiLCUhN" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+---
+
+**@daebum-lee : 훑어보는 아키텍처 설계이야기**
+
+TODO
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2220374948207238&type=3)
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/46294188_2009812252390751_6349132003421454336_n.jpg?_nc_cat=106&_nc_eui2=AeErBMWReBSnjH8RLHBNk0VHRI1iFhUA5msa1D5Hl--M7wMfIj5g6Y5-6qMlYy8R5mEf4fkz3fU45R--3H7y5dIAcx_lAfqEYZaaMZOU6W8dgA&_nc_ht=scontent-nrt1-1.xx&oh=7c871613e9bee224c0189c6b5b1a0221&oe=5C6E948D)
+
+### 후원
+
+株式会社LIFULL

@@ -1,0 +1,88 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-01-18 13:18:16+00:00
+layout: post
+link: http://kodeveloper.com/2018/01/18/struggle-17/
+slug: struggle-17
+title: 제17차 고군분투기
+wordpress_id: 511
+categories:
+- 고군분투기
+tags:
+- encryption
+- hacking
+- introduction
+- kodeveloper
+- kubernetes
+- nikon
+- postgresql
+---
+
+![17struggle](http://kodeveloper.com/wp-content/uploads/2018/01/17struggle.png)
+
+### 일정
+
+제목 : 제17차 Kodeveloper 고군분투기  
+일시 : 2018년01월18일 20시 00분
+
+### 발표자
+
+@ike: 카메라&렌즈 스펙 파헤치기 (니콘위주)  
+@johnzon3: 해킹 입문  
+@daebum-lee: Kubernetes Introduction  
+@tsukiwamoon: Encryption In PostgreSQL
+
+### 발표 자료
+
+##### @ike: 카메라&렌즈 스펙 파헤치기 (니콘위주) 
+
+자료비공개
+
+* * *
+
+##### @johnzon3: 해킹 입문
+
+자료비공개
+
+* * *
+
+##### @daebum-lee: kubernetes입문
+
+자료비공개
+
+* * *
+
+##### @tsukiwamoon: Encryption In PostgreSQL
+
+자료비공개
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ 
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2022621387982596&type=3)
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/26731640_1757064297923633_3901986910011354223_n.jpg?oh=dd6e21f3874e7b8c3e0fb2b9355ea210&oe=5AEF931C)
+
+ 
+
+### 후원
+
+**장소**
+
+ 
+
+![logo_primary_orange](http://kodeveloper.com/wp-content/uploads/2018/01/logo_primary_orange-300x225.png)

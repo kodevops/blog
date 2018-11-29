@@ -1,0 +1,66 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-10-11 03:38:44+00:00
+layout: post
+link: http://kodeveloper.com/2017/10/11/struggle-13/
+slug: struggle-13
+title: 제13차 고군분투기
+wordpress_id: 440
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![13struggle](http://kodeveloper.com/wp-content/uploads/2017/09/13struggle-1024x573.png)
+
+### 일정
+
+제목 : 제13차 Kodeveloper 고군분투기  
+일시 : 2017년08월24일 20시 00분  
+장소 : PR TIMES
+
+### 발표자
+
+@lee19 :  spotinst로 spot instance를 사용해서 AWS 비용 절감하기  
+@doil6317 : ARKit + Unity를 이용한 iOS AR어플개발
+
+### 발표 자료
+
+##### @lee19 :spotinst로 spot instance를 사용해서 AWS 비용 절감하기
+
+자료 비공개
+
+* * *
+
+##### @doil6317 :ARKit + Unity를 이용한 iOS AR어플개발
+
+자료 비공개
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ 
+
+요번에는 사진이 없네요 ㅠ.ㅠ
+
+### 후원
+
+**장소**
+
+PR TIMES
+
+ ![logo_prtimes](http://kodeveloper.com/wp-content/uploads/2017/10/logo_prtimes.png)

@@ -1,0 +1,18 @@
+---
+layout: page
+title: "About"
+description: "Kodeveloper"
+header-img: "img/about-bg.jpg"
+multilingual: true
+---
+
+<!-- Language Selector -->
+<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 한국어 </option>
+</select>
+
+<!-- Korean Version -->
+<div class="ko post-container">
+    {% capture about_ko %}{% include about/ko.md %}{% endcapture %}
+    {{ about_ko | markdownify }}
+</div>

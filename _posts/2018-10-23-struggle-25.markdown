@@ -1,0 +1,61 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-10-23 12:18:21+00:00
+layout: post
+link: http://kodeveloper.com/2018/10/23/struggle-25/
+slug: struggle-25
+title: 제25차 고군분투기
+wordpress_id: 615
+categories:
+- 고군분투기
+tags:
+- android
+- ios
+- mobile
+---
+
+![スクリーンショット 2018-10-23 20.41.07](http://kodeveloper.com/wp-content/uploads/2018/10/スクリーンショット-2018-10-23-20.41.07.png)
+
+### 일정
+
+제목 : 제25차 Kodeveloper 고군분투기  
+일시 : 2018년10월23일 20시00분 ~
+
+### 발표자
+
+IBM Japan 이정우님 : iOS UITest Introduction and Best Practice.
+
+강사룡님 : 극한직업: 6개의 legacy Android / iOS 앱을 8개월만에 리뉴얼 한 이야기(최근의 모바일 기술에 대한 소감: 아키텍처(MVP, MVVM), 언어(Swift, Kotlin), 기타(Rx, DI, AAC, coroutine))
+
+### 발표 자료
+
+##### IBM Japan 이정우님 : iOS UITest Introduction and Best Practice.![44664313_1908420026121392_5792373730688630784_n](http://kodeveloper.com/wp-content/uploads/2018/10/44664313_1908420026121392_5792373730688630784_n.jpg)  
+  
+
+
+##### 강사룡 님 : 6개의 legacy Android / iOS 앱을 8개월만에 리뉴얼 한 이야기![44549809_1908425059454222_6017286616630951936_n](http://kodeveloper.com/wp-content/uploads/2018/10/44549809_1908425059454222_6017286616630951936_n.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2206033656308034&type=3)
+
+ ![44802432_1908631016100293_5569266590731468800_n](http://kodeveloper.com/wp-content/uploads/2018/10/44802432_1908631016100293_5569266590731468800_n.jpg)
+
+### 후원
+
+IBM Japan 
+
+ 

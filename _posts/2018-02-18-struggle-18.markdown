@@ -1,0 +1,74 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-02-18 05:20:24+00:00
+layout: post
+link: http://kodeveloper.com/2018/02/18/struggle-18/
+slug: struggle-18
+title: 제18차 고군분투기
+wordpress_id: 526
+categories:
+- 고군분투기
+tags:
+- chaosengineering
+- chrome
+- oracle
+- Struggle
+---
+
+![スクリーンショット 2018-02-18 14.19.21](http://kodeveloper.com/wp-content/uploads/2018/02/スクリーンショット-2018-02-18-14.19.21.png)
+
+### 일정
+
+제목 : 제18차 Kodeveloper 고군분투기  
+일시 : 2018년02월15일 20시 00분 ~
+
+### 발표자
+
+@daebum-lee: Chaos Engineering  
+@sangjun: chrome extenstion   
+@manggu: Oracle Tips
+
+### 발표 자료
+
+##### @daebum-lee: Chaos Engineering (자료링크)
+
+![chaos_engineering](http://kodeveloper.com/wp-content/uploads/2018/02/chaos_engineering.png)
+
+* * *
+
+##### @sangjun: chrome extenstion ([자료링크](https://docs.google.com/presentation/d/1Jvld2X56ptBnpkVRLGbp32IQVo8zZpQGK5zotZ08IyU/edit#slide=id.g33472d7f6b_0_101))
+
+![Image uploaded from iOS (8)](http://kodeveloper.com/wp-content/uploads/2018/02/Image-uploaded-from-iOS-8.jpg)
+
+* * *
+
+##### @manggu: Oracle TIps ([자료링크](https://drive.google.com/drive/u/0/folders/1W4hfPTMuoj22qncgCsd650zp4FR5iIQv))
+
+![27867841_1767539806876082_2213852567091795300_n](http://kodeveloper.com/wp-content/uploads/2018/02/27867841_1767539806876082_2213852567091795300_n.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2037640673147334&type=3)
+
+![struggle18](http://kodeveloper.com/wp-content/uploads/2018/02/struggle18.jpg)
+
+### 후원
+
+**장소**
+
+ ![logo_freakout](http://kodeveloper.com/wp-content/uploads/2016/08/logo_freakout.png)
+
+ 

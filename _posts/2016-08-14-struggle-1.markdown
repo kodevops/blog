@@ -1,0 +1,74 @@
+---
+author: kodeveloper
+comments: true
+date: 2016-08-14 14:25:05+00:00
+layout: post
+link: http://kodeveloper.com/2016/08/14/struggle-1/
+slug: struggle-1
+title: 제1차 고군분투기
+wordpress_id: 27
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![제1차 고군분투기](http://kodeveloper.com/wp-content/uploads/2016/08/0-768x576.jpg)
+
+### 일정
+
+제목 : 제1차 Kodeveloper 고군분투기  
+일시 : 2016년7월15일 20시  
+장소 : (株)ユナイテッドブレイズ (大会議室)
+
+### 발표자
+
+@manggu: MongoDB 고군분투기  
+[@sangjun](https://www.facebook.com/richellin7): Web Crawler 고군분투기  
+[@oz](https://www.facebook.com/hyeonjae.kim.73): 광고업 고군분투기
+
+### 발표 자료
+
+##### @manggu: MongoDB 고군분투기
+
+* * *
+
+##### @sangjun: Web Crawler 고군분투기
+
+* * *
+
+##### @oz: 광고업 고군분투기
+
+** [광고업고군분투기](//www.slideshare.net/hyeonjaekim73/ss-64044745) ** from **[Hyeonjae Kim](//www.slideshare.net/hyeonjaekim73)**
+
+ 
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+@sangjun → @kimsuhyuk  
+@oz → @ahn-soohan  
+@manggu → @chatmate  
+자진 발표 → @mangi  
+자진 발표 → @fish  
+추천 발표 → @haneri 
+
+### 사진
+
+[smartslider3 slider=3]
+
+ 
+
+ 
+
+### 후원
+
+**장소** 
+
+[![logo_unitedblades](http://kodeveloper.com/wp-content/uploads/2016/08/logo_unitedblades-300x62.png)](http://www.unitedblades.co.jp/)

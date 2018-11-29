@@ -1,0 +1,125 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-03-16 03:52:46+00:00
+layout: post
+link: http://kodeveloper.com/2018/03/16/struggle-19/
+slug: struggle-19
+title: 제19차 고군분투기
+wordpress_id: 540
+categories:
+- 고군분투기
+tags:
+- db
+- ios
+- quantum
+- selenide
+- 양자컴퓨터
+---
+
+![struggle-19](http://kodeveloper.com/wp-content/uploads/2018/03/struggle-19.png)
+
+### 일정
+
+제목 : 제19차 Kodeveloper 고군분투기  
+일시 : 2018년03월15일 20시 00분 ~
+
+### 발표자
+
+@simonTokyo: 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud  
+@요다: Selenide: CONCISE UI TESTS IN JAVA  
+@doli6317 : iOS Animation 고군분투기  
+@ju.inho: 데이터베이스의 성능향상을 위한 기본정보
+
+### 발표 자료
+
+##### @simonTokyo: 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud
+
+![sa](http://kodeveloper.com/wp-content/uploads/2018/03/sa-200x300.jpg)
+
+<table ><tbody ><tr >
+<td >How it Works: Quantum Computing
+
+https://youtu.be/WVv5OAR4Nik  
+Running an experiment in the IBM Quantum Experience  
+https://youtu.be/pYD6bvKLI_c
+
+Open Source Projects
+
+Python:  
+QISKit  
+https://www.qiskit.org  
+The Quantum Information Software Kit (QISKit for short) is a software development kit (SDK) for working with OpenQASM and the IBM Q experience (QX).
+
+Swift:  
+Kitura (Runtime for Swift on Cloud Foundry App)  
+http://www.kitura.io  
+Server-side Swift. A high performance and simple to use web framework for building modern Swift applications.
+
+Node.js/JavaScript :  
+PouchDB/CouchDB (IBM Cloudant)  
+https://pouchdb.com  
+JSON NoSQL DB. PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.  
+Node-RED  
+https://nodered.org  
+Node-RED is a programming tool for wiring together hardware devices; APIs and online services in new and interesting ways.
+
+Java/PHP/Swift/Python/Node.js/JavaScript:  
+OpenWhisk (IBM Cloud Functions)  
+https://openwhisk.apache.org  
+Apache OpenWhisk is a serverless open source cloud platform that executes functions in response to events at any scale.  
+Hyperledger Cello  
+https://www.hyperledger.org/projects/cello  
+Blockchain module toolkit and one of the Hyperledger projects.  
+IBM Watson API  
+https://www.ibm.com/watson/developer/  
+IBM Code  
+https://developer.ibm.com/code/  
+IBM Cloud (Bluemix)  
+https://bluemix.net
+
+</td></tr></tbody></table>
+
+* * *
+
+##### @요다:Selenide: CONCISE UI TESTS IN JAVA ([Korean](https://docs.google.com/presentation/d/1WI5rYHtxHFLgNXjnHy0W4wBa-MNKdgzWQNnZ-QsGU-M/edit#slide=id.p)、[Japanese)](https://docs.google.com/presentation/d/1wpLI5G2XxPeEMPUgpK4gTbo5e5QkSjLNbwa-bMqMSTI/edit)
+
+![yoda](http://kodeveloper.com/wp-content/uploads/2018/03/yoda-200x300.jpg)
+
+* * *
+
+##### @doli6317: iOS Animation 고군분투기 ([자료링크](https://docs.google.com/presentation/d/1LQ45OjI8eINvJ9-OqlKow-keHRJAo5zHM6c841qeeDc/edit#slide=id.g353ebdbd6a_2_50))
+
+![woo](http://kodeveloper.com/wp-content/uploads/2018/03/woo-200x300.jpg)
+
+* * *
+
+##### @ju.inho: 데이터베이스의 성능향상을 위한 기본정보 ([자료링크](https://drive.google.com/file/d/1eO842cIMmKVquzJIZHD91sF9H2oD6VH9/view))
+
+![juinho](http://kodeveloper.com/wp-content/uploads/2018/03/juinho-200x300.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2052709921640409&type=3)
+
+![eve_70](http://kodeveloper.com/wp-content/uploads/2018/03/eve_70-1024x768.jpg)
+
+### 후원
+
+**장소**
+
+・ IBM Japan
+
+ 

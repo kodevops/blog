@@ -1,0 +1,88 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-05-19 01:36:39+00:00
+layout: post
+link: http://kodeveloper.com/2017/05/19/struggle-10/
+slug: struggle-10
+title: 제10차 고군분투기
+wordpress_id: 406
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![](https://scontent.xx.fbcdn.net/v/t31.0-8/18491810_1673410379622359_8168915108323569564_o.jpg?oh=e78859d0495671ffec15100c55a65d3b&oe=59AEE8D0)
+
+### 일정
+
+제목 : 제10차 Kodeveloper 고군분투기  
+일시 : 2017년05월19일 20시 00분  
+장소 : CyberAgent
+
+### 발표자
+
+@tsukiwamoon : 방송시스템  
+@haneri : Taxi & Ad Tech  
+@jeongwon : 실무 딥러닝
+
+### 발표 자료
+
+##### @tsukiwamoon:방송시스템
+
+각 방송시스템에 따른 스펙 및 어떻게 테레비에 화면이 나오는지에 대한 간략한 설명
+
+![](https://scontent.xx.fbcdn.net/v/t1.0-9/18620121_1673405799622817_7032344720979611354_n.jpg?oh=971a265b99351723ccd3d81aa26c7514&oe=59B6732C)
+
+※ 아쉽지만 발표자료 미공개입니다.
+
+* * *
+
+##### @haneri:Taxi & Ad Tech
+
+DOOH + Network + 움직이는 이동체(택시) 이
+
+세 요소를 합치면 발생하는 개발적인 문제점과 그 해결을 위한 꼼수
+
+![](https://scontent.xx.fbcdn.net/v/t1.0-9/18519999_1334875456581683_7824203817632553301_n.jpg?oh=6eda2f5acaacbeedd6808b89ac86d864&oe=59BCBD8E)
+
+※ 아쉽지만 발표자료 미공개입니다.
+
+* * *
+
+##### @jeongwon: 실무딥러닝
+
+실무에서 딥러닝을 어떻게 활용하는지에 대한 이야기  
+실무 딥러닝 중에서도 특히 공장 자동화나 자동운전 등 로보틱스 관련 주제
+
+![](https://scontent.xx.fbcdn.net/v/t1.0-9/18519598_1334875436581685_988563531184872240_n.jpg?oh=2a030f29735252a859c3c7c98765c062&oe=5978970A)
+
+발표자료 : [https://drive.google.com/open?id=0B3sY99hJ9TIpbmpKQVhoSElKOWM](https://drive.google.com/open?id=0B3sY99hJ9TIpbmpKQVhoSElKOWM)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+![](https://scontent.xx.fbcdn.net/v/t1.0-9/18485833_1673646699598727_2568780562075612117_n.jpg?oh=30a44e80680d6908503786fe35c75a9d&oe=59AE4323)
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1905517639692972&type=3)
+
+### 후원
+
+**장소**
+
+CyberAgent
+
+![](http://db-event.jpn.org/webdbf2015/image/logo/cyberagent.svgz)

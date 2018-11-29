@@ -1,0 +1,81 @@
+---
+author: kodeveloper
+comments: true
+date: 2016-12-24 13:06:17+00:00
+layout: post
+link: http://kodeveloper.com/2016/12/24/struggle-5/
+slug: struggle-5
+title: 제5차 고군분투기
+wordpress_id: 240
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![Screenshot at 12月 24 22-04-54](http://kodeveloper.com/wp-content/uploads/2016/12/Screenshot-at-12月-24-22-04-54.png)
+
+### 일정
+
+제목 : 제5차 Kodeveloper 고군분투기  
+일시 : 2016년12월20일 19시 00분  
+장소 : Yahoo Japan
+
+### 발표자
+
+@heavymery: Hello, Fire!(파이어 베이스로 초간단 앱 만들어 보기)  
+@jungmk: PRESTO  
+@mangi: 비공개  
+@yoda: 나만의 Wiki를 만들어 보자!  
+@msna: 동영상 자동 다운로드
+
+### 발표 자료
+
+##### @heavymery: Hello, Fire!(파이어 베이스로 초간단 앱 만들어 보기)
+
+* * *
+
+##### @jungmk: PRESTO
+
+** [Presto](//www.slideshare.net/MKJUNG2/presto-70302072) ** from **[MK JUNG](//www.slideshare.net/MKJUNG2)**
+
+* * *
+
+##### @mangi: 비공개
+
+* * *
+
+##### @yoda: 나만의 Wiki를 만들어 보자!
+
+* * *
+
+##### @msna: 동영상 자동 다운로드
+
+ 
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+@heavymery → @nari  
+@jungmk → 준비중  
+@mangi → @kms  
+@yoda → @sangmin  
+@msna → @msna
+
+### 사진
+
+[smartslider3 slider=7]
+
+  
+
+### 후원
+
+**장소**
+
+![Screenshot at 12月 24 21-51-20](http://kodeveloper.com/wp-content/uploads/2016/12/Screenshot-at-12月-24-21-51-20.png)

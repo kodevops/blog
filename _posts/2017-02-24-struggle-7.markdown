@@ -1,0 +1,73 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-02-24 00:54:07+00:00
+layout: post
+link: http://kodeveloper.com/2017/02/24/struggle-7/
+slug: struggle-7
+title: 제7차 고군분투기
+wordpress_id: 287
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![0-00](http://kodeveloper.com/wp-content/uploads/2017/02/0-00.png)
+
+### 일정
+
+제목 : 제7차 Kodeveloper 고군분투기  
+일시 : 2017년02월20일 20시 00분  
+장소 : FreakOut
+
+### 발표자
+
+@younghoon: GC이야기  
+@youngmo: 슬랙과 커뮤니티, 그리고 봇에 관한 이야기  
+@negabaro: docker/aws/rails를 이용한 시스템 구축/운용
+
+### 발표 자료
+
+##### @younghoon: GC이야기
+
+* * *
+
+##### @youngmo: 슬랙과 커뮤니티, 그리고 봇에 관한 이야기
+
+비공개
+
+* * *
+
+##### @negabaro: docker/aws/rails를 이용한 시스템 구축/운용
+
+* * *
+
+### 메모
+
+@yoda → [Link](https://sites.google.com/site/hcgoon/kategoli-illam/kanfarensu-semina/semina-tou-gao/kodevelopersje7chagogunbuntugi)
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+@younghoon → @laby0525  
+@youngmo → @yaksaa21  
+@negabaro →@tescom,@khryoung
+
+### 사진
+
+[smartslider3 slider=9]
+
+ 
+
+### 후원
+
+**장소**
+
+![logo_freakout](http://kodeveloper.com/wp-content/uploads/2017/02/logo_freakout.png)

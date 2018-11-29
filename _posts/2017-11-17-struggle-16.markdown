@@ -1,0 +1,82 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-11-17 01:27:30+00:00
+layout: post
+link: http://kodeveloper.com/2017/11/17/struggle-16/
+slug: struggle-16
+title: 제16차 고군분투기
+wordpress_id: 490
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- Struggle
+- 고군분투기
+---
+
+![struggle-16](http://kodeveloper.com/wp-content/uploads/2017/11/struggle-16.jpg)
+
+### 일정
+
+제목 : 제16차 Kodeveloper 고군분투기  
+일시 : 2017년11월16일 20시 00분
+
+### 발표자
+
+@tsukiwamoon :도쿄 디즈니 리조트 살펴보기  
+@manggu :ELK  
+@daebum-lee :owasp zap 고군분투기  
+@June :언어학도에서 AI엔지니어가 되기까지
+
+### 발표 자료
+
+##### @tsukiwamoon :도쿄 디즈니 리조트 살펴보기 - [자료링크](https://drive.google.com/drive/folders/1W4hfPTMuoj22qncgCsd650zp4FR5iIQv)
+
+![pr1](http://kodeveloper.com/wp-content/uploads/2017/11/pr1.png)
+
+* * *
+
+##### @manggu :ELK Stack - [자료링크](https://drive.google.com/drive/folders/1a1Zz-KSQ78d8CyRlCO9Kmr8-0DrJR4NA)
+
+![elk-16](http://kodeveloper.com/wp-content/uploads/2017/11/elk-16.jpg)
+
+* * *
+
+##### @daebum-lee :OWASP ZAP Simple Guide - [자료링크](https://daebum.com/slides/owasp_zap/)
+
+![owasp-16](http://kodeveloper.com/wp-content/uploads/2017/11/owasp-16.jpg)
+
+* * *
+
+##### @June :언어학도에서 AI엔지니어가 되기까지 - [자료링크](https://docs.google.com/presentation/d/1lCWMXJ_bIPr0QnCjWiLC632Fvt1B0JkOLqGstVe1rDA/edit#slide=id.p)
+
+![ai-16](http://kodeveloper.com/wp-content/uploads/2017/11/ai-16.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ 
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1992368331007902&type=3)
+
+![16-member](http://kodeveloper.com/wp-content/uploads/2017/11/16-member.jpg)
+
+ 
+
+### 후원
+
+**장소**
+
+[![Powered by AWS Cloud Computing](http://awsmedia.s3.amazonaws.com/AWS_Logo_PoweredBy_127px.png)](http://aws.amazon.com/what-is-cloud-computing)

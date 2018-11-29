@@ -1,0 +1,71 @@
+---
+author: kodeveloper
+comments: true
+date: 2016-11-28 09:38:03+00:00
+layout: post
+link: http://kodeveloper.com/2016/11/28/struggle-4/
+slug: struggle-4
+title: 제4차 고군분투기
+wordpress_id: 125
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![](http://kodeveloper.com/wp-content/uploads/2016/11/0-00-1024x571.png)
+
+### 일정
+
+제목 : 제4차 Kodeveloper 고군분투기  
+일시 : 2016년11월25일 19시 30분  
+장소 : JapanTaxi株式会社 カフェ2
+
+### 발표자
+
+@sangjun: BLE(Bluetooth Low Energy)  
+@seongjookim: PCIDSS 고군분투기  
+@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..
+
+### 발표 자료
+
+##### @sangjun: BLE(Bluetooth Low Energy)
+
+* * *
+
+##### @seongjookim: PCIDSS 고군분투기
+
+* * *
+
+##### @leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..
+
+ 
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+@sangjun → @jikyung-kim   
+@leesanghun → @yoda  
+@seongjookim → @msna
+
+### 사진
+
+[smartslider3 slider=6]
+
+ 
+
+ 
+
+### 후원
+
+**장소**
+
+![logo_japantaxi](http://kodeveloper.com/wp-content/uploads/2016/11/logo_japantaxi-300x46.png)
+
+ 

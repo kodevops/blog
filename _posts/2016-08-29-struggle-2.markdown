@@ -1,0 +1,87 @@
+---
+author: kodeveloper
+comments: true
+date: 2016-08-29 12:04:53+00:00
+layout: post
+link: http://kodeveloper.com/2016/08/29/struggle-2/
+slug: struggle-2
+title: 제2차 고군분투기
+wordpress_id: 58
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![제2차 고군분투기](http://kodeveloper.com/wp-content/uploads/2016/08/2stuggle-768x429.png)
+
+### 일정
+
+제목 : 제2차 Kodeveloper 고군분투기  
+일시 : 2016년8월26일 19시  
+장소 : 楽天クリムゾンハウス（本社）(라쿠텐 본사(RCH))
+
+### 발표자
+
+@haneri: New proximity-based experiences by iOS/Android devices (부제: BLE Tech)  
+@ahn-soohan: Dsp and the prediction  
+@kimsuhyuk: IT 고군 분투기  
+@fish: 기계 친화성을 중심으로 접근한 최적화 기법
+
+### 발표 자료
+
+##### @haneri: New proximity-based experiences by iOS/Android devices (부제: BLE Tech)
+
+** [New proximity based experiences by ios/android devices](//www.slideshare.net/secret/4uLlqlWG0Rr6OT) ** from **[Allie Han](//www.slideshare.net/byallie)**
+
+* * *
+
+##### @ahn-soohan: Dsp and the prediction
+
+** [Dsp and the prediction](//www.slideshare.net/SoohanAhn/dsp-and-the-prediction-65378710) ** from **[Soohan Ahn](//www.slideshare.net/SoohanAhn)**
+
+* * *
+
+##### @kimsuhyuk: IT 고군 분투기
+
+-- 비공개 --
+
+ 
+
+* * *
+
+##### @fish: 기계 친화성을 중심으로 접근한 최적화 기법
+
+**>>> [기계 친화성을 중심으로 접근한 최적화 기법](https://www.dropbox.com/s/aovte5jd9ztnnk4/optimizations.pdf?dl=0) <<<**
+
+ 
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+@fish → @ninetin  
+@ahn-soohan → @db-lee  
+@haneri → @chatmate  
+연장 → @mangi
+
+### 사진
+
+[smartslider3 slider=4] 
+
+### 후원
+
+**장소** 
+
+[![logo_rakuten](http://kodeveloper.com/wp-content/uploads/2016/08/logo_rakuten.gif)](http://corp.rakuten.co.jp/)
+
+ 
+
+**티셔츠, 공책**
+
+[![logo_jennifer](http://kodeveloper.com/wp-content/uploads/2016/08/logo_jennifer.gif)](http://jennifersoft.com/)

@@ -1,0 +1,70 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-05-17 12:01:38+00:00
+layout: post
+link: http://kodeveloper.com/2018/05/17/struggle-21/
+slug: struggle-21
+title: 제21차 고군분투기
+wordpress_id: 573
+categories:
+- 고군분투기
+tags:
+- haproxy
+- 디지털포렌식
+- 분산서버
+- 웹어셈블리
+---
+
+![スクリーンショット 2018-05-17 20.02.38](http://kodeveloper.com/wp-content/uploads/2018/05/スクリーンショット-2018-05-17-20.02.38.png)
+
+### 일정
+
+제목 : 제21차 Kodeveloper 고군분투기  
+일시 : 2018년05월17일 20시00분 ~
+
+### 발표자
+
+@MyoungJin Park: haproxy에 의한 분산서버 구성  
+@Paolo Ahn(安 敬原):【디지털 포렌직의 기초 – Prefetch活用】  
+@fish: 처음 만나는 웹어셈블리
+
+### 발표 자료
+
+##### @MyoungJin Park: haproxy에 의한 분산서버 구성 ([자료링크](https://drive.google.com/file/d/1a3vDJxO8K-iZWE1CEi4AEntACuMA7CBa/view?usp=sharing))
+
+![32637177_1802942006669195_2958136047692677120_n](http://kodeveloper.com/wp-content/uploads/2018/05/32637177_1802942006669195_2958136047692677120_n.jpg)
+
+* * *
+
+##### @Paolo Ahn(安 敬原):【디지털 포렌직의 기초 - Prefetch活用】([자료링크](https://drive.google.com/file/d/15VeKAGbLSKP0Dxqs2_93tj1AsihOS-D3/view?usp=sharing))
+
+![32730224_1802959376667458_7125763468946309120_o](http://kodeveloper.com/wp-content/uploads/2018/05/32730224_1802959376667458_7125763468946309120_o-1024x452.jpg)
+
+* * *
+
+##### @fish: 처음 만나는 웹어셈블리([자료링크](https://www.dropbox.com/s/apl10crskn7z70e/webasm.pdf?dl=0))
+
+![32765932_1802979343332128_2345083123215106048_n](http://kodeveloper.com/wp-content/uploads/2018/05/32765932_1802979343332128_2345083123215106048_n.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2084192765158791&type=3)
+
+### 후원
+
+ 
+
+![LIFULL](https://lifull.com/wp-content/themes/lifull/img/logo.svg)

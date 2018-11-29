@@ -1,0 +1,65 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-08-06 21:10:34+00:00
+layout: post
+link: http://kodeveloper.com/2018/08/07/struggle-22/
+slug: struggle-22
+title: 제22차 고군분투기
+wordpress_id: 587
+categories:
+- 고군분투기
+tags:
+- 네이티브
+- 데이터 사이언티스트
+- 컨설팅
+---
+
+![struggle-22](http://kodeveloper.com/wp-content/uploads/2018/08/スクリーンショット-2018-08-07-5.51.57.png)
+
+### 일정
+
+제목 : 제22차 Kodeveloper 고군분투기  
+일시 : 2018년06월14일 20시00분 ~
+
+### 발표자
+
+@u02: 웹회사에서 네이티브 엔지니어로 살아남기
+
+@lee19:  IT consulting firm data scientists
+
+### 발표 자료
+
+##### @u02: 웹회사에서 네이티브 엔지니어로 살아남기 
+
+![struggle-22-woo](http://kodeveloper.com/wp-content/uploads/2018/08/struggle-22-woo.jpg)
+
+* * *
+
+##### @lee19:  IT consulting firm data scientists
+
+![35226965_1815049148791814_2026131163822686208_n](http://kodeveloper.com/wp-content/uploads/2018/08/35226965_1815049148791814_2026131163822686208_n.jpg)
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2099539523624115&type=3)
+
+![35362242_1815089208787808_5088803081957670912_n](http://kodeveloper.com/wp-content/uploads/2018/08/35362242_1815089208787808_5088803081957670912_n.jpg)
+
+### 후원
+
+ 
+
+![スクリーンショット 2018-08-07 6.08.55](http://kodeveloper.com/wp-content/uploads/2018/08/スクリーンショット-2018-08-07-6.08.55.png)

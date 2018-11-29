@@ -1,0 +1,71 @@
+---
+author: kodeveloper
+comments: true
+date: 2017-10-11 03:35:30+00:00
+layout: post
+link: http://kodeveloper.com/2017/10/11/struggle-12/
+slug: struggle-12
+title: 제12차 고군분투기
+wordpress_id: 432
+categories:
+- 고군분투기
+tags:
+- kodeveloper
+- 고군분투기
+---
+
+![20292871_1398846513517910_2071206379462719394_n](http://kodeveloper.com/wp-content/uploads/2017/08/20292871_1398846513517910_2071206379462719394_n.jpg)
+
+### 일정
+
+제목 : 제12차 Kodeveloper 고군분투기  
+일시 : 2017/07/22 (土) 15:30～18:30  
+장소 : 株式会社FreakOut
+
+### 발표자
+
+@oz-dev : AWSKRUG도쿄지부 활동  
+@sangjun : 데이터로 보는 고군분투기  
+@fish : 자작DB
+
+### 타임테이블/발표자료
+
+15:00 입장시작
+
+**1부 시작 (고군분투기LT)**  
+ 15:30 @oz-dev : AWSKRUG도쿄지부 활동  
+ 16:00 @sangjun : 데이터로 보는 고군분투기  
+ 16:30 @fish : 자작DB
+
+  
+**2부 시작 (고군분투기 네트워킹!)**  
+ 17:00 고군분투기 1주년 축하인사  
+ 17:10 맥주와 함께하는 고군분투기 네트워킹
+
+* * *
+
+### Kode Challenge
+    
+    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
+    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
+    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
+    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
+    4. (...무한 반복...)</code>
+
+ 
+
+### 사진
+
+ 
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1920151888229547&type=3)
+
+### 후원
+
+**장소**
+
+株式会社FreakOut
+
+![logo_freakout](http://kodeveloper.com/wp-content/uploads/2016/08/logo_freakout-300x86.png)
+
+ 
