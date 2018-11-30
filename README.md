@@ -4,23 +4,25 @@
 
 ![](/img/blog-desktop.png)
 
+Move to [docs](/docs/README.md)
 
 ## Prepare
 
-- [Docker For Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+- Download and Install [Docker For Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 
-## Use
+## Quick Start
 
 ```
-$ git clone https://github.com/kodevops/kodevops.git $HOME/jekyll
-$ docker run -it -p 4000:4000 -v $HOME/jekyll:/srv/jekyll --name jekyll jekyll/jekyll bash
+$ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog
+$ docker run -it -p 4000:4000 -v $HOME/kodevops/blog:/srv/jekyll --name kodevops-blog jekyll/jekyll bash
 
 # Guest
 $ bundle update
 $ exit
 
-$ docker start jekyll
-$ docker exec -it jekyll jekyll serve
+# Host
+$ docker start kodevops-blog
+$ docker exec -it kodevops-blog jekyll serve
 
 # Open your browser
 http://localhost:4000
