@@ -2,7 +2,7 @@
 
 ### [View Live Kodeveloper Blog &rarr;](https://kodeveloper.com)
 
-![](https://kodeveloper.com/img/blog-desktop.png)
+![](/img/blog-desktop.png)
 
 
 ## Prepare
