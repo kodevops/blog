@@ -28,7 +28,7 @@ addons:
 after_success:
   - git config --global user.email "richellin7@gmail.com"
   - git config --global user.name "sangjun"
-  - git clone https://kodevops:$GITHUB_TOKEN@github.com/kodevops/kodevops.git
+  - git clone https://kodevops:$GITHUB_TOKEN@github.com/kodevops/kodevops.github.io.git
   - cd kodevops
   - cp -aR ../_site/* ./
   - git add --all
@@ -37,4 +37,4 @@ after_success:
 
 # Optional: disable email notifications about the outcome of your builds
 notifications:
-  email: false
+  email: true
