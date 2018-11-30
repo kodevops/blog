@@ -10,6 +10,7 @@
 - [워크 프로세스](#워크-프로세스)
 - [시작 하기](#시작-하기)
 - [디플로이](#디플로이)
+- [도커 기본 명령어](#도커-기본-명령어)
 
 ## 디렉토리 구조
 
@@ -45,7 +46,7 @@ _site: 위의 정보를 바탕으로 빌드된 최종 결과물
     3. Docker 실행하기
 
         ```
-        # 아래의 명령어로 이미지 다운로드, 컨테이너 생성, 컨테이너에 접속까지 진행 됩니다.
+        # 아래의 명령어로 이미지 다운로드, 컨테이너 생성, 볼륨 연결, 포트 설정 컨테이너 실행에 접속까지 한꺼번에 실행 됩니다.
         $ docker run -it -p 4000:4000 -v $HOME/kodevops/blog:/srv/jekyll --name kodevops-blog jekyll/jekyll bash
 
         # Guest환경(도커)에서 아래의 명령어를 실행합니다.
@@ -155,7 +156,7 @@ _site: 위의 정보를 바탕으로 빌드된 최종 결과물
 
 1. `A레포지토리` Master브랜치에 Push
 
-2. `A레포지토리` Master브랜치가 갱신되었을 경우 Travis CI가 실행됨.
+2. `A레포지토리` Master브랜치가 갱신되었을 경우 [Travis CI](https://travis-ci.org/kodevops/blog)가 실행됨.
 
     2-1. jekyll 빌드
 
@@ -166,3 +167,58 @@ _site: 위의 정보를 바탕으로 빌드된 최종 결과물
     2-4. `B레포지토리` Master브랜치에 Push
 
 3. 디플로이 완료
+
+
+#### 도커 기본 명령어
+
+- 컨테이너
+
+    - 시작
+
+        ```
+        docker start kodevops-blog
+        ```
+
+    - 정지
+
+        ```
+        docker stop kodevops-blog
+        ```
+
+    - 삭제
+
+        ```
+        # 단일 컨테이너 삭제
+        # docker rm `docker ps -aq`
+        jekyll/jekyll
+
+        # 전체 컨테이너 삭제
+        # docker rm `docker ps -aq`
+        # 주의: 다른 컨테이도 날라갑니다. 사용시 각별히 주의 해주세요.
+        ```
+
+    - 조회
+
+        ```
+        docker ps -a
+        ```
+
+
+- 이미지
+
+    - 삭제
+
+        ```
+        # 단일 이미지 삭제
+        docker rmi jekyll/jekyll
+
+        # 전체 이미지 삭제
+        # docker images | xargs docker rmi
+        # 주의: 다른 이미지도 날라갑니다. 사용시 각별히 주의 해주세요.
+        ```
+
+    - 조회
+
+        ```
+        docker images
+        ```

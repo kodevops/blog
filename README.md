@@ -4,8 +4,6 @@
 
 ![](/img/blog-desktop.png)
 
-Move to [docs](/docs/README.md)
-
 ## Prepare
 
 - Download and Install [Docker For Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
@@ -13,7 +11,7 @@ Move to [docs](/docs/README.md)
 ## Quick Start
 
 ```
-$ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog
+$ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog && cd $HOME/kodevops/blog
 $ docker run -it -p 4000:4000 -v $HOME/kodevops/blog:/srv/jekyll --name kodevops-blog jekyll/jekyll bash
 
 # Guest
@@ -28,6 +26,10 @@ $ docker exec -it kodevops-blog jekyll serve
 http://localhost:4000
 or http://192.168.99.100:4000
 ```
+
+## Docs
+
+Move to [docs](/docs/README.md)
 
 ## License
 
