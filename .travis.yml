@@ -29,7 +29,7 @@ after_success:
   - git config --global user.email "richellin7@gmail.com"
   - git config --global user.name "sangjun"
   - git clone https://kodevops:$GITHUB_TOKEN@github.com/kodevops/kodevops.github.io.git
-  - cd kodevops
+  - cd kodevops.github.io.git
   - cp -aR ../_site/* ./
   - git add --all
   - git commit -m "by Travis CI (JOB $TRAVIS_JOB_NUMBER)"
