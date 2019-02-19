@@ -1,0 +1,79 @@
+---
+author: kodeveloper
+date: 2016-08-26
+layout: post
+title: 제2차 고군분투기
+categories: [고군분투기]
+tags: [Advertisement, BLE, iOS, Android, Optimization, Career]
+---
+
+### 일정
+
+제목 : 제2차 Kodeveloper 고군분투기  
+일시 : 2016년08월26일 20시00분 ~ 23시00분
+
+### 발표자
+
+**haneri: New proximity-based experiences by iOS/Android devices (부제: BLE Tech)**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14183911_1076673259068572_8153653448403021126_n.jpg?_nc_cat=106&_nc_ht=scontent-nrt1-1.xx&oh=45779ac77c9e1733fb30cc6f557a078b&oe=5D260B0E)
+
+>I’m an IBMer! https://www.linkedin.com/in/haneri
+
+---
+
+**ahn-soohan: Dsp and the prediction**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14203337_1076673452401886_593896920344777555_n.jpg?_nc_cat=109&_nc_ht=scontent-nrt1-1.xx&oh=83a1c42360c38742a26a8df4dfc2d6c5&oe=5CDD1065)
+
+>Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
+
+---
+
+**@kimsuhyuk: IT 고군 분투기**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14117735_1076673489068549_356219451767562280_n.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=20e287eb6b00d320545b0b13052c0dc5&oe=5CE2F780)
+
+>개발만 빼고 이것저것 잡다하게 하고 있습니다
+
+---
+
+**@fish: 기계 친화성을 중심으로 접근한 최적화 기법**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14192003_1076673539068544_4329971092259532818_n.jpg?_nc_cat=108&_nc_ht=scontent-nrt1-1.xx&oh=056fda0655fa4a5e8feedf28cf8d6f41&oe=5D261CD0)
+
+>컴퓨터비전/인공지능 전문 기업 오드컨셉(주) 기술이사. 이것저것 합니다.
+
+### 발표 자료
+
+**haneri: New proximity-based experiences by iOS/Android devices (부제: BLE Tech)**([자료](https://www.slideshare.net/byallie/new-proximity-based-experiences-by-iosandroid-devices/1))
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4uLlqlWG0Rr6OT" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+---
+
+**ahn-soohan: Dsp and the prediction**([자료](https://www.slideshare.net/SoohanAhn/dsp-and-the-prediction-65378710))
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4jCbFWjigkQF7F" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+---
+
+**@kimsuhyuk: IT 고군 분투기**
+
+비공개
+
+---
+
+**@fish: 기계 친화성을 중심으로 접근한 최적화 기법**
+
+비공개
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1776806099230794&type=3)
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14102187_1076673705735194_2825755863931479776_n.jpg?_nc_cat=110&_nc_ht=scontent-nrt1-1.xx&oh=1ccad4da528806a42f388b95970ad8bd&oe=5CDF3A64)
+
+### 후원
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAACXCAMAAAAvQTlLAAAAclBMVEX///+/AAC8AADDJCS5AADRc3Pz39/01tbckZHkqan//Pz46Oj9+fnsw8Ppv7/cnZ388/Pv0ND47e3IMzPPY2Pio6O/HBzYiIjKV1ftyMjmr6+/CwvGOjrISEjcl5fFLS3Vf3/LUVHRbW3EGBjHQUHot7fYQPfUAAAE4klEQVR4nO2Y7WKqOBBAQ0A+ow0QUQREQN//FTczCRZsVa7t7b27O+dPAUM4TCaTUMYIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiCI/wx9VRQ8/sEHypHHzVbccbznXgt6WobPRwZViq96ib3uyP0eL2eEc+V/2Uv3k3+zlzYryr/Sy3Ha5Ete8fd6FV3XNQMc8b29LstdXatDJtMgSOXUSyaAz7JAYzNSwnEmsgS8WpklmfX0w65uwtQ2S6CZTLHnewGYeHElhJDlHsQqM5L6BH7wzsrTBBMv0Reu61YrdtQp7tneU4c7XlS25wG6aM61eb1kpdvovOUqxfOd7osr07N7XOCFgYg7OA7hMOLT4Z157UxYJXuD1qNXoX89bK438Rpfzh0vcH6AC+EsmftHBWXixVITO8Yu86Sbeplnu9rn1ovfeiXTl+PrWy+HnxZ6ZdC6kSwxtzkF/+AVwEA5AwzLfS89dDr3pcK86NTe9COvXjxvzd+7s3/uJaGt9lrhUK02adTymRcTZ7jgXdinXmVbV3Dnuc47E1newqPTBq7urBevL75/GPARy7zWHox67LtwT4SmNZ/FyxibjP3gFTEhTZ3Q04gxeIU2MA8B3TozXnkyPhfT4aGXGUaQ0A89vF9i6TDxco4mkOKe17SuSu/6BoydOM508PIicwnmD0+feCVZlq0xNlWACnxckfqpFybF2RajJ14YfBXugBBSTf8eTm65QMebh15O1bZt5WEweiagXJxtYcSnz7yuK8ITL5NLI3D8Zq7ZntcLvN6nbp4x4cKLjrVl4829TM4v8NrNaw0OKsZr9OLLvfhZD58Ypl7rGy+nXhiv3SxesDZsX/eCYGAtaMZxjG69eLMsv9DhFCKYZKfyl72Guq5NwdTximd5v5rmfXhvPq6rD16YADfz7Re9uMqkvJh1Tz9zy00VxJ/zWf06YSNcQrHZmG0H/sFLeNPCKV7zwgXZA4XQ1iy7RqhZXWWiwXNchLHZGfMwy20lxv2XY3qGaT3YB2/25cteEvc5XDc1G55ICl/N16GY+WZlg0WYoYxKhPDNnVAwe+huK4Qe39Jsm6BrvbGoVvJFL5Zgium1IUAb7gx2QzDdT6QQVai+eiA9nHHN2TRDrw1ey2vPZ3bRUoeoxwNXvuhltje8u92PzPdfETZqdEBkZ3zGXQR4xa3dMnQZk8NYKsa5/qKXrTmhzbXPvcaNoc5kv50VGVz4zEbILLDJ+fo7dyAnX/WKMa31Fi5+K8zaUeVQEQOTOPa7A8PkwVTz96YVL0zdRLEK98kcpqro7RLEc6wYIWyqrdfmiVfRtm4/fugktatPYfuRhCpvu1Pgh8djqM8v2+32aLdpW+CIFe5yatq83/pvupUtVnKr8ny/M48Mwn2ru7mYO0u40ZZl/9rHp8TwcZNdTzP82MHJL+zfJ+g7bj/T5fROuaybfz8P/lmxhDiOBRJ/73+BpKrcVyiKoapgS1c3qj+Fx0OZJt9qljW3O6h7TDYzztB2q3C7TgNf59UXQ34H86H1WEdvcou8USu9oYk2pS9/5D938mPE3gNTtPtTGJWp7yeZ+D2BuS+m+CQwbt6plf6IOGzSHwrMfTG9kgy6SIY6e3XGZH9YZ8IPjxBBEARBEARBEARBEARBEARBEARBEARBEMT/mX8A6phNQmbJCGsAAAAASUVORK5CYII=)
