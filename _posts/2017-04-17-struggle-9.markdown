@@ -1,69 +1,62 @@
 ---
 author: kodeveloper
-comments: true
-date: 2017-04-17 01:00:37+00:00
+date: 2017-04-17
 layout: post
-link: http://kodeveloper.com/2017/04/17/struggle-9/
-slug: struggle-9
 title: 제9차 고군분투기
-wordpress_id: 345
-categories:
-- 고군분투기
-tags:
-- kodeveloper
-- 고군분투기
+categories: [고군분투기]
+tags: [Advertisement, BLE, iOS, Android, Optimization, Career]
 ---
-
-![gogun-9](http://kodeveloper.com/wp-content/uploads/2017/04/gogun-9.jpg)
 
 ### 일정
 
 제목 : 제9차 Kodeveloper 고군분투기  
-일시 : 2017년04월14일 20시 30분  
-장소 : Investors Cloud
+일시 : 2017년04월14일 20시 30분 ~
 
 ### 발표자
 
-@yaksaa21 : Reactive & java  
-@sangjun : Revien - 개인 프로젝트    
-@oz-dev : AWS CloudFront - 낮은 비용으로 운영하기
+**@yaksaa21: Reactive & java**
+
+![](https://user-images.githubusercontent.com/2956728/52768873-07656000-3072-11e9-8f30-0e8b092e22c8.jpg)
+
+>ecommerce분야에서 일하는 Java개발자입니다
+
+---
+
+**@sangjun: Revien - 개인 프로젝트**
+
+![](https://user-images.githubusercontent.com/2956728/52768926-354aa480-3072-11e9-9466-8028fd2c6c3c.jpg)
+
+>Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
+
+---
+
+**@oz-dev: AWS CloudFront - 낮은 비용으로 운영하기**
+
+![](https://user-images.githubusercontent.com/2956728/52769208-fa953c00-3072-11e9-9ff4-c3f4c0c2a44a.jpg)
+
+>unitedblades라는 광고회사에서 엔지니어로 일하고있습니다. 잡일을 주로 하고, AWS인프라를 좋아합니다 :)
+
+---
+
 
 ### 발표 자료
 
-##### @yaksaa21: Reactive & java
+**@yaksaa21: Reactive & java**([자료](http://hyojinbae.github.io/reactive/#/))
 
-[![reactive_java](http://kodeveloper.com/wp-content/uploads/2017/04/reactive_java.png)](http://hyojinbae.github.io/reactive/#/)
+---
 
-* * *
+**@sangjun: Revien - 개인 프로젝트 (자료)**
 
-##### @sangjun: Revien - 개인 프로젝트
+---
 
-* * *
-
-##### @oz-dev: AWS CloudFront - 낮은 비용으로 운영하기
-
-* * *
-
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
-
- 
+**@oz-dev: AWS CloudFront - 낮은 비용으로 운영하기 (자료)**
 
 ### 사진
 
-[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1889636891281047&type=1)
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1889636891281047&type=1)
+
+![](https://user-images.githubusercontent.com/2956728/52769350-5d86d300-3073-11e9-8b16-d8382b746391.jpg)
 
 ### 후원
 
-**장소**
-
-Investors Cloud
-
-![investors cloud](http://kodeveloper.com/wp-content/uploads/2017/04/ic-300x300.jpg)
-
- 
+![](https://user-images.githubusercontent.com/2956728/52768622-5a8ae300-3071-11e9-9e75-a7ef7c4897ab.jpg)
