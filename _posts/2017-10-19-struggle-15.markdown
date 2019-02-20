@@ -1,81 +1,72 @@
 ---
 author: kodeveloper
-comments: true
-date: 2017-10-19 07:41:11+00:00
+date: 2017-10-19
 layout: post
-link: http://kodeveloper.com/2017/10/19/struggle-15/
-slug: struggle-15
 title: 제15차 고군분투기
-wordpress_id: 461
-categories:
-- 고군분투기
-tags:
-- kodeveloper
-- Struggle
-- 고군분투기
+categories: [고군분투기]
+tags: [ebs,ddd,ble,coding,interview]
 ---
-
-![15struggle](http://kodeveloper.com/wp-content/uploads/2017/10/15struggle.png)
 
 ### 일정
 
 제목 : 제15차 Kodeveloper 고군분투기  
-일시 : 2017년10월19일 20시 00분  
-장소 : 라인
+일시 : 2017년10월19일 20시 00분 ~
 
 ### 발표자
 
-@sangjun : Resize EBS(Amazon Elastic Block Store)  
-@ninetin : DDD(Domain Driven Design)  
-@rickyl1126 : Bad Practices using BLE  
-@ahn-soohan : 코딩인터뷰
+**@sangjun : Resize EBS(Amazon Elastic Block Store)**
+
+![](https://user-images.githubusercontent.com/2956728/52754673-bab46180-303e-11e9-82ee-83756adb1ad8.jpg)
+
+>Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
+
+---
+
+**@ninetin : DDD(Domain Driven Design)**
+
+![](https://user-images.githubusercontent.com/2956728/52754744-fb13df80-303e-11e9-808d-ba88e4beb1d4.jpg)
+
+>Yahoo! JAPAN 에서 Java, Spring을 주로 하고 잡다한 것도 다~ 하고 있습니다. 그외 잡지식습득(=IT, 게임, 음악, 자동차) 및 사람 만나서 정보교류하기 좋아합니다. 틈틈이 토익(=영어) 공부 중
+
+---
+
+**@rickyl1126 : Bad Practices using BLE**
+
+![](https://user-images.githubusercontent.com/2956728/52754803-2991ba80-303f-11e9-9821-3a6f997e41ab.jpg)
+
+>LINE_iOSDev. Bluetooth, IoT 관련 버그 생산 및 수정을 담당하고 있습니다.
+
+---
+
+**@ahn-soohan : 코딩인터뷰**
+
+![](https://user-images.githubusercontent.com/2956728/52754853-51811e00-303f-11e9-9b46-799dbffb836f.jpg)
+
+>Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
 
 ### 발표 자료
 
-##### @sangjun : Resize EBS(Amazon Elastic Block Store) [-링크](https://docs.google.com/presentation/d/1Twyp4e-J8c4v7BJC7bXRwOLjEFbH1tXN0dPhsHdYyrc/edit#slide=id.g150ec625ef_0_45)![resize_ebs](http://kodeveloper.com/wp-content/uploads/2017/10/resize_ebs.png)
+**@sangjun : Resize EBS(Amazon Elastic Block Store)** ([자료](https://docs.google.com/presentation/d/1Twyp4e-J8c4v7BJC7bXRwOLjEFbH1tXN0dPhsHdYyrc/edit#slide=id.g150ec625ef_0_45))
 
-* * *
+---
 
-##### @ninetin : DDD(Domain Driven Design) - [링크](https://docs.google.com/presentation/d/1tLsus2z3bjJcWc0K9vQev5FSahgCM6WkTFCagkrmRh0/edit#slide=id.p)
+**@ninetin : DDD(Domain Driven Design)**([자료](https://docs.google.com/presentation/d/1tLsus2z3bjJcWc0K9vQev5FSahgCM6WkTFCagkrmRh0/edit#slide=id.p))
 
-![Domain Driven Design](http://kodeveloper.com/wp-content/uploads/2017/10/ddd_19.png)
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4jCbFWjigkQF7F" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-* * *
+---
 
-##### @rickyl1126 : Bad Practices using BLE - [링크](https://www.icloud.com/#iclouddrive/0NNhOyn0z5fC8W9MW7G1nr6Ow)
+**@ahn-soohan : 코딩 인터뷰 맛보기**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/dTUVsZdvYQGUXb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoohanAhn/coding-interview-80973672" title="Coding interview" target="_blank">Coding interview</a> </strong> from <strong><a href="https://www.slideshare.net/SoohanAhn" target="_blank">Soohan Ahn</a></strong> </div>
 
-![bad_ble](http://kodeveloper.com/wp-content/uploads/2017/10/bad_ble.png)
-
-* * *
-
-##### @ahn-soohan : 코딩 인터뷰 맛보기
-
-** [Coding interview](//www.slideshare.net/SoohanAhn/coding-interview-80973672) ** from **[Soohan Ahn](https://www.slideshare.net/SoohanAhn)**
-
-* * *
-
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
-
- 
+---
 
 ### 사진
 
- 
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1978906592354076&type=3)
 
-[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1978906592354076&type=3)
-
-![22491841_1710439625693102_5530743230994029804_n](http://kodeveloper.com/wp-content/uploads/2017/10/22491841_1710439625693102_5530743230994029804_n.jpg)
+![](https://user-images.githubusercontent.com/2956728/52755024-e2f09000-303f-11e9-9111-48e8361e1104.jpg)
 
 ### 후원
 
-**장소**
-
-![line_logo](http://kodeveloper.com/wp-content/uploads/2017/10/line_logo-300x105.png)
-
- 
+![](https://user-images.githubusercontent.com/2956728/52755120-277c2b80-3040-11e9-86eb-ef5d9535ce32.png)
