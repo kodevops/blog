@@ -1,77 +1,65 @@
 ---
 author: kodeveloper
-comments: true
-date: 2017-08-28 05:55:44+00:00
+date: 2017-08-28
 layout: post
-link: http://kodeveloper.com/2017/08/28/struggle-11/
-slug: struggle-11
 title: 제11차 고군분투기
-wordpress_id: 418
-categories:
-- 고군분투기
-tags:
-- kodeveloper
-- 고군분투기
+categories: [고군분투기]
+tags: [Advertisement, BLE, iOS, Android, Optimization, Career]
 ---
-
-![11_struggle](http://kodeveloper.com/wp-content/uploads/2017/08/11_struggle.png)
 
 ### 일정
 
 제목 : 제11차 Kodeveloper 고군분투기  
-일시 : 2017년06월15일 20시 00분  
-장소 : GROOVE X 株式会社
+일시 : 2017년06월15일 20시 00분 ~ 
 
 ### 발표자
 
-@manggu : Blockchain 살짝 찔러 보기  
-@msna : 엔지니어의 책정리  
-@fish : 동적 프로그래밍
+**@manggu : Blockchain 살짝 찔러 보기**
+
+![](https://user-images.githubusercontent.com/2956728/52766363-4d1e2a80-306a-11e9-82a1-9873d05b7197.jpg)
+
+>오늘도 어디선가 한삽 깊숙하게..
+
+---
+
+**@msna : 엔지니어의 책정리**
+
+![](https://user-images.githubusercontent.com/2956728/52766428-776fe800-306a-11e9-9fe6-daff9c131083.jpg)
+
+>보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.
+
+---
+
+**@fish : 동적 프로그래밍**
+
+![](https://user-images.githubusercontent.com/2956728/52766480-a2f2d280-306a-11e9-91ba-effd68969e39.jpg)
+
+>컴퓨터비전/인공지능 전문 기업 오드컨셉(주) 기술이사. 이것저것 합니다.
+
+---
+
 
 ### 발표 자료
 
-##### @manggu : Blockchain 살짝 찔러 보기
+**@manggu : Blockchain 살짝 찔러 보기**([자료](https://www.slideshare.net/minsoojun/block-chain-122718828))
 
-![19055592_1683446631952067_2911111384087568733_o](http://kodeveloper.com/wp-content/uploads/2017/08/19055592_1683446631952067_2911111384087568733_o-1024x418.jpg)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GYzyPLgoYbdpwj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/minsoojun/block-chain-122718828" title="Block chain" target="_blank">Block chain</a> </strong> from <strong><a href="https://www.slideshare.net/minsoojun" target="_blank">Minsoo Jun</a></strong> </div>
 
-※ 아쉽지만 발표자료 미공개입니다.
+---
 
-* * *
+**@msna : 엔지니어의 책정리**
 
-##### @msna : 엔지니어의 책정리
+---
 
-![19105955_1684202325209831_6498349715067605943_n](http://kodeveloper.com/wp-content/uploads/2017/08/19105955_1684202325209831_6498349715067605943_n.jpg)
+**@fish : 동적 프로그래밍**
 
-※ 아쉽지만 발표자료 미공개입니다.
-
-* * *
-
-##### @fish : 동적 프로그래밍
-
-![19222891_1683472631949467_8459444408745589633_o](http://kodeveloper.com/wp-content/uploads/2017/08/19222891_1683472631949467_8459444408745589633_o-1024x768.jpg)
-
-* * *
-
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
-
- 
 
 ### 사진
 
- ![19238136_1684202401876490_4443138631906336201_o](http://kodeveloper.com/wp-content/uploads/2017/08/19238136_1684202401876490_4443138631906336201_o-1024x680.jpg)
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1920151888229547&type=3)
 
-[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1920151888229547&type=3)
+![](https://user-images.githubusercontent.com/2956728/52766654-2dd3cd00-306b-11e9-9985-2b974808a3c8.jpg)
 
 ### 후원
 
-**장소**
-
-GROOVE X 株式会社
-
-![groovex](http://kodeveloper.com/wp-content/uploads/2017/08/groovex.png)
+![](https://user-images.githubusercontent.com/2956728/52766248-f284ce80-3069-11e9-8e76-d6ff749227db.png)
