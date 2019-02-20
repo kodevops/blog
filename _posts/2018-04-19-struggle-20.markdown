@@ -1,19 +1,11 @@
 ---
 author: kodeveloper
-comments: true
-date: 2018-04-19 11:42:33+00:00
+date: 2018-04-19
 layout: post
-link: http://kodeveloper.com/2018/04/19/struggle-20/
-slug: struggle-20
 title: 제20차 고군분투기
-wordpress_id: 557
-categories:
-- 고군분투기
-tags:
-- polyglot
+categories: [고군분투기]
+tags: [polyglot, mobile, walletless, linepay]
 ---
-
-![スクリーンショット 2018-04-19 20.41.47](http://kodeveloper.com/wp-content/uploads/2018/04/スクリーンショット-2018-04-19-20.41.47.png)
 
 ### 일정
 
@@ -22,39 +14,39 @@ tags:
 
 ### 발표자
 
-@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍  
-@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명
+**@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍**
+
+![](https://user-images.githubusercontent.com/2956728/52690901-7f645500-2fa2-11e9-9f7c-ad934e7512e0.jpg)
+
+>iOS&Android developer
+
+---
+
+**@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명**
+
+![](https://user-images.githubusercontent.com/2956728/52690965-b3d81100-2fa2-11e9-80ae-a09b8d6ddfc6.jpg)
+
+>전직 개발자. 현직 Payment service planning, PM, 앞마당쓸기, 상사한테 욕먹기를 담당하고 있습니다. 관심분야는 시키는거 흉내내기, 따라하기정도 입니다. 얇고 넓은 지식수집을 지향합니다.
+
+---
+
 
 ### 발표 자료
 
-##### @jaesungmoon:모바일앱 개발에서의 폴리글랏 프로그래밍 ([자료링크](https://docs.google.com/presentation/d/1oA9aHCWKqj7xyxV5N37qH59RV1Dj6TZooh_dsgNb-Bk/edit#slide=id.p))
+**@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍**([자료](https://docs.google.com/presentation/d/1oA9aHCWKqj7xyxV5N37qH59RV1Dj6TZooh_dsgNb-Bk/edit#slide=id.p))
 
-![30710692_1791944371102292_6271605610345660416_n](http://kodeveloper.com/wp-content/uploads/2018/04/30710692_1791944371102292_6271605610345660416_n.jpg)
+---
 
-* * *
+**@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명**([자료](https://kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/04/19/struggle-20/update_me))
 
-##### @biwol:Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명 (비공개)
-
-![30740958_1791972977766098_8811787807665160192_n](http://kodeveloper.com/wp-content/uploads/2018/04/30740958_1791972977766098_8811787807665160192_n.jpg)
-
-* * *
-
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
-
- 
+---
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2070354799875921&type=3)
 
+![](https://user-images.githubusercontent.com/2956728/52691049-00235100-2fa3-11e9-965e-ba6e09da02a0.jpg)
+
 ### 후원
 
-![logo_referme](http://kodeveloper.com/wp-content/uploads/2017/03/logo_referme.png)
-
- 
+![](https://user-images.githubusercontent.com/2956728/52701245-20f8a000-2fbd-11e9-8e46-bfd7c3470da3.png)
