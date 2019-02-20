@@ -4,7 +4,7 @@ date: 2016-10-21
 layout: post
 title: 제3차 고군분투기
 categories: [고군분투기]
-tags: [Advertisement, BLE, iOS, Android, Optimization, Career]
+tags: [healty, Career, mvvm, .net]
 ---
 
 ### 일정
