@@ -1,88 +1,56 @@
 ---
 author: kodeveloper
-comments: true
-date: 2018-01-18 13:18:16+00:00
+date: 2018-01-18 
 layout: post
-link: http://kodeveloper.com/2018/01/18/struggle-17/
-slug: struggle-17
 title: 제17차 고군분투기
-wordpress_id: 511
-categories:
-- 고군분투기
-tags:
-- encryption
-- hacking
-- introduction
-- kodeveloper
-- kubernetes
-- nikon
-- postgresql
+categories: [고군분투기]
+tags: [camera, nikon,hacking, kubernetes, postgresql, encryption]
 ---
-
-![17struggle](http://kodeveloper.com/wp-content/uploads/2018/01/17struggle.png)
 
 ### 일정
 
 제목 : 제17차 Kodeveloper 고군분투기  
-일시 : 2018년01월18일 20시 00분
+일시 : 2018년01월18일 20시 00분 ~
 
 ### 발표자
 
-@ike: 카메라&렌즈 스펙 파헤치기 (니콘위주)  
-@johnzon3: 해킹 입문  
-@daebum-lee: Kubernetes Introduction  
-@tsukiwamoon: Encryption In PostgreSQL
+**@ike: 카메라&렌즈 스펙 파헤치기 (니콘위주)**
 
-### 발표 자료
+![](https://user-images.githubusercontent.com/2956728/52696498-7da28d80-2fb2-11e9-8fe7-8130d418fc6e.jpg)
 
-##### @ike: 카메라&렌즈 스펙 파헤치기 (니콘위주) 
+>Origami에서 ios개발자로 일하고 있는 지상훈이라고 합니다.
 
-자료비공개
+---
 
-* * *
+**@johnzon3: 해킹 입문**
 
-##### @johnzon3: 해킹 입문
+![](https://user-images.githubusercontent.com/2956728/52696602-b9d5ee00-2fb2-11e9-8931-7f086cce659e.jpg)
 
-자료비공개
+>www.fb.com/johnzone88
 
-* * *
+---
 
-##### @daebum-lee: kubernetes입문
+**@daebum-lee: Kubernetes Introduction**
 
-자료비공개
+![](https://user-images.githubusercontent.com/2956728/52696680-ee49aa00-2fb2-11e9-94c9-0d3b1adad26c.jpg)
 
-* * *
+>IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다.
 
-##### @tsukiwamoon: Encryption In PostgreSQL
+---
 
-자료비공개
+**@tsukiwamoon: Encryption In PostgreSQL**
 
-* * *
+![](https://user-images.githubusercontent.com/2956728/52696757-25b85680-2fb3-11e9-803c-a2c770b9c765.jpg)
 
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
+>OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다
 
- 
 
 ### 사진
 
- 
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2022621387982596&type=3)
 
-[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2022621387982596&type=3)
-
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/26731640_1757064297923633_3901986910011354223_n.jpg?oh=dd6e21f3874e7b8c3e0fb2b9355ea210&oe=5AEF931C)
-
- 
+![](https://user-images.githubusercontent.com/2956728/52696868-7c259500-2fb3-11e9-8873-8e7e01b9dee6.jpg)
 
 ### 후원
 
-**장소**
-
- 
-
-![logo_primary_orange](http://kodeveloper.com/wp-content/uploads/2018/01/logo_primary_orange-300x225.png)
+![](https://user-images.githubusercontent.com/2956728/52696939-a6775280-2fb3-11e9-80bc-8d4c4e297913.png)
