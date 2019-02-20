@@ -4,7 +4,7 @@ date: 2017-08-28
 layout: post
 title: 제11차 고군분투기
 categories: [고군분투기]
-tags: [Advertisement, BLE, iOS, Android, Optimization, Career]
+tags: [blockchain,book, dynamic-programming]
 ---
 
 ### 일정
