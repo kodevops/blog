@@ -4,7 +4,7 @@ date: 2017-10-11
 layout: post
 title: 제14차 고군분투기
 categories: [고군분투기]
-tags: [Advertisement, BLE, iOS, Android, Optimization, Career]
+tags: [arkit, ios, postgresql, mining]
 ---
 
 ### 일정
