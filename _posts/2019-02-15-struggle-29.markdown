@@ -31,9 +31,12 @@ tags: [coding interview]
 
 ### 발표 자료
 
-**@ahn-soohan : Failing the coding intervie**([자료](https://docs.google.com/presentation/d/1pOY4yLtD12Votq1SwJQ4Oxz2bR8A0O8H2xVDJa8tEPE/edit#slide=id.gc6f73a04f_0_0))
+**@ahn-soohan : Failing the coding intervie**([자료](https://www.slideshare.net/SoohanAhn/failing-the-coding-interview))
 
-TODO
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/A6zDl96eMmUHsI" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+[코딩인터뷰 Q&A](https://brunch.co.kr/@soohanahn/4)
+
 
 ---
 

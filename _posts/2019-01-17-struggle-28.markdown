@@ -33,13 +33,13 @@ tags: [mysql, innodb]
 
 **@jonggu : Mysql innodb architecture**([자료](https://docs.google.com/presentation/d/1EErikAbk8IhU7qhR3wwyGVDW2qlkZUqEXVilEebIOxY/edit?usp=sharing))
 
-TODO
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSghM7r7whRM_tX9BaFtZS1UJF38EMQmgP8pabz4BefWIlbN9AnXrrrpDhqwTvug4Bv0SteF5uiYkP/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 ---
 
 **@juinho : Mysql 가용성**([자료](https://drive.google.com/open?id=1NRSIuCg7wBW4LMDDa86ClysC8cZCudt7))
 
-TODO
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFMf7s-GS2J3lC7DN1EBQWU8ZO_EOf0_P9SSBlLQvidtc1_Oz020-c8eT14MwdcTGJZiog79f5KsKk/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 ### 사진
 
