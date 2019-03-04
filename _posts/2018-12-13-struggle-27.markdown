@@ -1,0 +1,52 @@
+---
+author: kodeveloper
+comments: true
+date: 2018-12-15 23:48:05+00:00
+layout: post
+link: http://kodeveloper.com/2018/12/13/struggle-27/
+slug: struggle-27
+title: 제27차 고군분투기
+categories:
+- 고군분투기
+tags:
+- struggle
+---
+
+### 일정
+
+제목 : 제27차 Kodeveloper 고군분투기  
+일시 : 2018년12월13일 20시00분 ~ 23시00분
+
+### 발표자/발표 자료
+
+**@JUNSIKLEE : 누구나 다 아는 초 간단 부양가족 고군분투기**([자료](https://docs.google.com/presentation/d/1mSobPShAgAnpWoeguOHVydM0wP395UuNfYX4Lb8t6wY))
+
+---
+
+**@Sa-ryong Kang : 시니어 SW 엔지니어의 이직 고군분투기**([자료](https://speakerdeck.com/saryong/sinieo-swenjinieoyi-ijig-gogunbuntugi-lt))
+
+---
+
+**@Moon, Insung : 한국 국민연금 해약기 - 최초 문의 부터 돈 받을때까지 초 간단 프로세스!**([자료](#))
+
+---
+
+**@sangjun : 부업 앙케이트 결과 발표 및 부업에 관해서**([자료](https://docs.google.com/presentation/d/1MR9FvrCU8vq2_kfIO8R330q0EyHIOSILUg3MXb8OJSI/edit))
+
+---
+
+**@Sangwhan Moon : Emerging Web: 확장성을 고려한 Web API 동향과 기능 다각화**([자료](https://www.dropbox.com/s/ga7pyc8hkoj3pin/emergingweb.pdf?dl=0))
+
+---
+
+
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2239665356278197&type=3)
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/48266564_2047329735305669_759014596303388672_o.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=01f7f28c03702d0a0fbcebcc88849b50&oe=5CE443FB)
+
+### 후원
+
+株式会社LINE
