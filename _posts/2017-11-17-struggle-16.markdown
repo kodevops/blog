@@ -1,82 +1,73 @@
 ---
 author: kodeveloper
-comments: true
-date: 2017-11-17 01:27:30+00:00
+date: 2017-11-17
 layout: post
-link: http://kodeveloper.com/2017/11/17/struggle-16/
-slug: struggle-16
 title: 제16차 고군분투기
-wordpress_id: 490
-categories:
-- 고군분투기
-tags:
-- kodeveloper
-- Struggle
-- 고군분투기
+categories: [고군분투기]
+tags: [elk, ai, language, owasp, tokyo-disneyland]
 ---
-
-![struggle-16](http://kodeveloper.com/wp-content/uploads/2017/11/struggle-16.jpg)
 
 ### 일정
 
 제목 : 제16차 Kodeveloper 고군분투기  
-일시 : 2017년11월16일 20시 00분
+일시 : 2017년11월16일 20시 00분 ~
 
 ### 발표자
 
-@tsukiwamoon :도쿄 디즈니 리조트 살펴보기  
-@manggu :ELK  
-@daebum-lee :owasp zap 고군분투기  
-@June :언어학도에서 AI엔지니어가 되기까지
+**@tsukiwamoon :도쿄 디즈니 리조트 살펴보기**
+
+![](https://user-images.githubusercontent.com/2956728/52698638-3e2a7000-2fb7-11e9-8540-7b2d1fb54098.jpg)
+
+>OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다
+
+---
+
+**@manggu :ELK**
+
+![](https://user-images.githubusercontent.com/2956728/52698719-792ca380-2fb7-11e9-8ee6-39faa7b4d18c.jpg)
+
+>오늘도 어딘가에서 깊게 한삽을..
+
+---
+
+**@daebum-lee :owasp zap 고군분투기**
+
+![](https://user-images.githubusercontent.com/2956728/52698804-a1b49d80-2fb7-11e9-9abf-9bb3aa9cba0a.jpg)
+
+>IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다.
+
+---
+
+**@June :언어학도에서 AI엔지니어가 되기까지**
+
+![](https://user-images.githubusercontent.com/2956728/52698928-efc9a100-2fb7-11e9-922f-e83d786c8c72.jpg)
+
+>사실 기계어보단 자연어에 더 관심이 많습니다
 
 ### 발표 자료
 
-##### @tsukiwamoon :도쿄 디즈니 리조트 살펴보기 - [자료링크](https://drive.google.com/drive/folders/1W4hfPTMuoj22qncgCsd650zp4FR5iIQv)
+**@tsukiwamoon :도쿄 디즈니 리조트 살펴보기**([자료](https://drive.google.com/drive/folders/1W4hfPTMuoj22qncgCsd650zp4FR5iIQv))
 
-![pr1](http://kodeveloper.com/wp-content/uploads/2017/11/pr1.png)
+---
 
-* * *
+**@manggu :ELK Stack**([자료](https://drive.google.com/drive/folders/1a1Zz-KSQ78d8CyRlCO9Kmr8-0DrJR4NA))
 
-##### @manggu :ELK Stack - [자료링크](https://drive.google.com/drive/folders/1a1Zz-KSQ78d8CyRlCO9Kmr8-0DrJR4NA)
+---
 
-![elk-16](http://kodeveloper.com/wp-content/uploads/2017/11/elk-16.jpg)
+**@daebum-lee :OWASP ZAP Simple Guide**([자료](https://daebum.com/slides/owasp_zap/))
 
-* * *
+---
 
-##### @daebum-lee :OWASP ZAP Simple Guide - [자료링크](https://daebum.com/slides/owasp_zap/)
+**@fish: 기계 친화성을 중심으로 접근한 최적화 기법**([자료](https://docs.google.com/presentation/d/1lCWMXJ_bIPr0QnCjWiLC632Fvt1B0JkOLqGstVe1rDA/edit#slide=id.p))
 
-![owasp-16](http://kodeveloper.com/wp-content/uploads/2017/11/owasp-16.jpg)
 
-* * *
-
-##### @June :언어학도에서 AI엔지니어가 되기까지 - [자료링크](https://docs.google.com/presentation/d/1lCWMXJ_bIPr0QnCjWiLC632Fvt1B0JkOLqGstVe1rDA/edit#slide=id.p)
-
-![ai-16](http://kodeveloper.com/wp-content/uploads/2017/11/ai-16.jpg)
-
-* * *
-
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
-
- 
 
 ### 사진
 
- 
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1992368331007902&type=3)
 
-[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1992368331007902&type=3)
-
-![16-member](http://kodeveloper.com/wp-content/uploads/2017/11/16-member.jpg)
-
- 
+![](https://user-images.githubusercontent.com/2956728/52699185-85653080-2fb8-11e9-8197-bd8fb21332fb.jpg)
 
 ### 후원
 
-**장소**
-
-[![Powered by AWS Cloud Computing](http://awsmedia.s3.amazonaws.com/AWS_Logo_PoweredBy_127px.png)](http://aws.amazon.com/what-is-cloud-computing)
+AWS
