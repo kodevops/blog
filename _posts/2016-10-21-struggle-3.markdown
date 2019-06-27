@@ -1,73 +1,51 @@
 ---
 author: kodeveloper
-comments: true
-date: 2016-10-21 15:54:42+00:00
+date: 2016-10-21
 layout: post
-link: http://kodeveloper.com/2016/10/22/struggle-3/
-slug: struggle-3
 title: 제3차 고군분투기
-wordpress_id: 97
-categories:
-- 고군분투기
-tags:
-- kodeveloper
-- 고군분투기
+categories: [고군분투기]
+tags: [healty, Career, mvvm, .net]
 ---
-
-![3-0](http://kodeveloper.com/wp-content/uploads/2016/10/3-0-768x431.png)
 
 ### 일정
 
 제목 : 제3차 Kodeveloper 고군분투기  
-일시 : 2016년10월21일 19시  
-장소 : (株)ユナイテッドブレイズ (大会議室)
+일시 : 2016년10월21일 19시 ~
 
 ### 발표자
 
-@db-lee: Healthy Body, Healthy Code  
-@chatmate: IT 커리어 관리 실패기  
-@ninetin: MVVM Of .Net Framework
+**@db-lee: Healthy Body, Healthy Code**
 
-### 발표 자료
+![](https://user-images.githubusercontent.com/2956728/52775174-603cf480-3082-11e9-8195-c24750f0cc9f.jpg)
 
-##### @db-lee: Healthy Body, Healthy Code
+>IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다.
 
-* * *
+---
 
-##### @chatmate: IT 커리어 관리 실패기
+**@chatmate: IT 커리어 관리 실패기**
 
--- 비공개 --
+![](https://user-images.githubusercontent.com/2956728/52775259-94181a00-3082-11e9-953a-f5704de8183c.jpg)
 
-* * *
+>Cloud Support / 특기 없고 무능한 최말단 저성과자입니다. 코딩 못합니다. 클라우드 서비스의 뒷단에서 벌어지는 일에 대해서는 약간 알고 있습니다.
 
-##### @ninetin: MVVM Of .Net Framework
+---
 
- 
+**@ninetin: MVVM Of .Net Framework**
 
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
+![](https://user-images.githubusercontent.com/2956728/52775326-c0339b00-3082-11e9-8739-f66a25c90271.jpg)
 
-@db-lee → @ninetin  
-@chatmate → @db-lee  
-@ninetin → @
+>Yahoo! JAPAN 에서 Java, Spring을 주로 하고 잡다한 것도 다~ 하고 있습니다. 그외 잡지식습득(=IT, 게임, 음악, 자동차) 및 사람 만나서 정보교류하기 좋아합니다. 틈틈이 토익(=영어) 공부 중
 
- 
+---
+
+
 
 ### 사진
 
-[smartslider3 slider=5]
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1889636891281047&type=1)
 
- 
-
- 
+![](https://user-images.githubusercontent.com/2956728/52774837-8ca44100-3081-11e9-9b6a-6a360799a8b9.jpg)
 
 ### 후원
 
-**장소** 
-
-[![logo_unitedblades](http://kodeveloper.com/wp-content/uploads/2016/08/logo_unitedblades-300x62.png)](http://www.unitedblades.co.jp/)
+(株)ユナイテッドブレイズ (大会議室)

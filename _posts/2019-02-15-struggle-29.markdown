@@ -1,0 +1,55 @@
+---
+author: kodeveloper
+date: 2019-02-15
+layout: post
+title: 제29차 고군분투기
+categories: [고군분투기]
+tags: [coding interview]
+---
+
+### 일정
+
+제목 : 제29차 Kodeveloper 고군분투기  
+일시 : 2019년02월15일 20시00분 ~ 22시00분
+
+### 발표자
+
+**@ahn-soohan : Failing the coding interview**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/51786631_1968268100136584_8047393829248040960_n.jpg?_nc_cat=109&_nc_ht=scontent-nrt1-1.xx&oh=23fd59abe744adc3549782d053789464&oe=5CEE7AA9)
+
+>Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
+
+---
+
+**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/51933270_1968274326802628_7350312768727154688_n.jpg?_nc_cat=101&_nc_ht=scontent-nrt1-1.xx&oh=7b3e40c3fc675fc4c6002043ecf561d2&oe=5CE3AD7D)
+
+>Sr. SW Engineer @ IBM iX
+
+
+### 발표 자료
+
+**@ahn-soohan : Failing the coding intervie**([자료](https://www.slideshare.net/SoohanAhn/failing-the-coding-interview))
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/A6zDl96eMmUHsI" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+[코딩인터뷰 Q&A](https://brunch.co.kr/@soohanahn/4)
+
+
+---
+
+**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**([TODO]())
+
+TODO
+
+### 사진
+
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2280563632188369&type=3)
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/52469149_2445032445571387_2429175808321912832_n.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=8c338286b55ba21239e40a8d6f81201d&oe=5CE652CE)
+
+### 후원
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABOCAMAAAAacHSsAAAAllBMVEX///8AAACpAACmAACjAACioqJra2ugAADqz8+qqqrU1NT39/f89/f78/Px2tpcXFzNgICOjo6vExO7UlE2NjbFbm4mJib47e3cra2/v7/ZpqaxsbHe3t58fHywMzJkZGRMTEy+XV22SUnivb3OjIzKysrgtbUtLS0eHh7q6uq0PT2sGxuyKirIeHkSEhKZmZlCQkLSmZnhcRC8AAADsklEQVRoge2W65aiOhBGi0rG4HBpL60oispFWxG8vP/LnS8gjqfH7hlm9Sw9Z2X/gIgSN5WqCkQGg8FgMBgMBoPBYPjPkm78Ryvco5RCPJFYTxYunTObEmaZPdrmSiBZ+QiVslMpRfBonQueS5N8Qz3BckLuc6yin+VCqcTDMBaDM/lPESw/Rpozsyi9GHnlUqCeYRU9FmKR5AJeG8msL5Wx92grct0kT3HeLIaBV6iYHq+kSfcjfRyWMJzYru+O9pt2Mzi7nfPlWh5zQf4IRRjSUMqUfMXcJNfu+4XdZ1NE40P3y70yIXoBsl6oM+1ZnMmVWrHmm3Wh/9kUHcu68Qr8e8Xstq0jGNmh5P05JRslOXRpI7hpXu29wsWeeZ+8ywQvKVoWeCpZ+BsFkzTc61YxwP1BMwe8Xvua6W96xQg2tor3m5i7YNmums6Il0+hjdxCB0OX0Nmm06zxWtajebc7X/cj5Pc06kQzfWXW73SO86tXF7/AUw42rodJpU+TSYjn2+AYhAWLcNJmCwmVKPTZKxCrJNX7dRBKMXrvNbWsN8s67JxTta6vRNvrCldea4yxh9V3JnorQ8rCJJHSTpVeCRXeV/hA7OxSqoaUKZkT2VgHxFDEV68T4tD95kwriYPTx2G51Toda3wa49r32gvWsxsvMaGBDhoNkb+pXgeW7dqP7+nHO5OdUljSCKOYb+JVs9Neb905IVxzmuuAVa0jqg2tmY4nfeT1B/lFsdq7cT2dLWWPqrcdkd3xwv+S84qxo8NIdNRhs6yo8sL19cdeHrza1aOnWAQ2D3wKyGfWs8asp2q8Vmsw1fn1cvE6atGZtrEO0cXrxbLG9JVeVOj7As9LkKmFrk20fsZba+P1I+8br+749WVKjmVtZ/Pjxas71uv7lV6TuvhKIUpaCDUh5Ohtv/+3V51fGnitsJbNOs6qj5ngqmIWOslrr6Txavs2kCObAnvAokd2HOrWKOPmu5+94HDq96PVmg5Y0S6qcFrX41aPUM6c2fYImRAgUpyHJes1gJfole3MkFVCd3pmNFO7RFX+qOefveaHpm3N6gGitNRe+MEWAcMLJvq9EJjDR6fGxlvVUqw3YLtdwGy+IPJcCHWbB9OX5WVnXDejXXQav60iFN90+TZeHbED9JfIN+pUR7tMiiLpVa3dL/NiEVdPGYwWRdLSi/yF5Cvq1/npOO8Ht7iue298c/W3cUMBM9QhTmn72/8maRaD7MmsDAaDwWAwGAwGg8FgMPzP+AcgvESDJV8VxAAAAABJRU5ErkJggg==)

@@ -1,71 +1,56 @@
 ---
 author: kodeveloper
-comments: true
-date: 2016-11-28 09:38:03+00:00
+date: 2016-11-28
 layout: post
-link: http://kodeveloper.com/2016/11/28/struggle-4/
-slug: struggle-4
 title: 제4차 고군분투기
-wordpress_id: 125
-categories:
-- 고군분투기
-tags:
-- kodeveloper
-- 고군분투기
+categories: [고군분투기]
+tags: [struggle, taxi, pcidss]
 ---
-
-![](http://kodeveloper.com/wp-content/uploads/2016/11/0-00-1024x571.png)
 
 ### 일정
 
 제목 : 제4차 Kodeveloper 고군분투기  
-일시 : 2016년11월25일 19시 30분  
-장소 : JapanTaxi株式会社 カフェ2
+일시 : 2016년11월25일 19시 30분 ~
 
 ### 발표자
 
-@sangjun: BLE(Bluetooth Low Energy)  
-@seongjookim: PCIDSS 고군분투기  
-@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..
+**@sangjun: BLE(Bluetooth Low Energy)**
 
-### 발표 자료
+![](https://user-images.githubusercontent.com/2956728/52774198-09362000-3080-11e9-906f-27559bfc6fda.jpg)
 
-##### @sangjun: BLE(Bluetooth Low Energy)
+>Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
-* * *
+---
 
-##### @seongjookim: PCIDSS 고군분투기
+**@seongjookim: PCIDSS 고군분투기**
 
-* * *
+![](https://user-images.githubusercontent.com/2956728/52774296-384c9180-3080-11e9-8b59-f5e601689013.jpg)
 
-##### @leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..
+>Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
 
- 
+---
 
-### Kode Challenge
-    
-    <code>#코드 챌린지(Kode Challenge)란?(≒아이스 버킷 챌린지)
-    1. 선순환 구조를 지향하기 위해, 발표자는 한분을 지정할수 있는 지목권을 획득합니다.
-    2. 발표자는 획득한 지목권을 사용하여, 발표후 "3일" 이내로 그 다음 고군분투기 발표자를 한분 지목 합니다.(\#struggle에서 지목 해주세요!!)
-    3. 지목 받으신분은 다음 발표까지 최대 3회(3개월) 연장이 가능하며, 그안에 발표를 하는 룰이 되겠습니다.
-    4. (...무한 반복...)</code>
+**@kimsuhyuk: IT 고군 분투기**
 
-@sangjun → @jikyung-kim   
-@leesanghun → @yoda  
-@seongjookim → @msna
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14117735_1076673489068549_356219451767562280_n.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=20e287eb6b00d320545b0b13052c0dc5&oe=5CE2F780)
+
+>ROBOT HOME 에서 php엔지니어로 일하고 있습니다. php이외에도 javascript, python같은 스크립트 언어나, mysql, apache, linux 등 웹개발에 관련된 전반적인 부분에 관심을 가지고 공부하려 고군분투중입니다. 웹개발 이외엔 검색엔진이나, 로그분석 과 같은 데이터 처리및 활용부분에 관심이 많습니다 :) 기술 이외에 it,미드,게임, 컴퓨터 같은 분야에 대한 이야기도 환영합니다
+
+---
+
+**@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..**
+
+![](@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..)
+
+>Janpantaxi / Software Engineer 全国タクシー 앱 서버 사이드 담당하고있습니다
+
 
 ### 사진
 
-[smartslider3 slider=6]
+ [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1820529361525134&type=3)
 
- 
-
- 
+![](https://user-images.githubusercontent.com/2956728/52773976-962ca980-307f-11e9-9c8c-5d5b9c44bb4c.jpg)
 
 ### 후원
 
-**장소**
-
-![logo_japantaxi](http://kodeveloper.com/wp-content/uploads/2016/11/logo_japantaxi-300x46.png)
-
- 
+![](https://user-images.githubusercontent.com/2956728/52773838-39c98a00-307f-11e9-86b0-2bae479a67d9.png)
