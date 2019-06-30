@@ -16,7 +16,7 @@ tags: [MongoDB, Crawler, Advertisement]
 
 **manggu: MongoDB 고군분투기**
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13690809_1045152852220613_6352446251817726121_n.jpg?_nc_cat=106&_nc_ht=scontent-nrt1-1.xx&oh=d281ef9352937871b69cb1784f7600ef&oe=5CF66CF8)
+![](/img/struggle/1/manggu.jpg)
 
 >오늘도 어디선가 한삽 깊게~~
 
@@ -24,7 +24,7 @@ tags: [MongoDB, Crawler, Advertisement]
 
 **@sangjun: Web Crawler 고군분투기**
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13729144_1045153335553898_250448331315117320_n.jpg?_nc_cat=104&_nc_ht=scontent-nrt1-1.xx&oh=5f0b4cf9f403646cf1bc1415d42a6981&oe=5CDEBF80)
+![](/img/struggle/1/sangjun.jpg)
 
 >Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
@@ -32,15 +32,15 @@ tags: [MongoDB, Crawler, Advertisement]
 
 **@oz: 광고업 고군분투기**
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13731719_1045153388887226_4487745478419137500_n.jpg?_nc_cat=110&_nc_ht=scontent-nrt1-1.xx&oh=d1d860ad5c200d6f8ce853ba35825adb&oe=5CE0F9A3)
+![](/img/struggle/1/oz.jpg)
 
 >unitedblades라는 광고회사에서 엔지니어로 일하고있습니다. 잡일을 주로 하고, AWS인프라를 좋아합니다 :)
 
 ### 발표 자료
 
-**@manggu: MongoDB 고군분투기**([TODO]())
+**@manggu: MongoDB 고군분투기**(비공개)
 
-TODO
+비공개
 
 ---
 
@@ -56,10 +56,10 @@ TODO
 
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1758894007688670&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1758894007688670&type=3)
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/13718601_1045153295553902_6347120857790055587_n.jpg?_nc_cat=109&_nc_ht=scontent-nrt1-1.xx&oh=886f814e1cd153be57d5cdcb9278b24e&oe=5D231856)
+![](/img/struggle/1/everyone.jpg)
 
 ### 후원
 
-(株)ユナイテッドブレイズ
+株式会社ユナイテッドブレイズ
