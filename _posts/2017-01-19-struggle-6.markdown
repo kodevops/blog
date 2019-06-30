@@ -4,7 +4,7 @@ date: 2017-01-19
 layout: post
 title: 제6차 고군분투기
 categories: [고군분투기]
-tags: [movie, keyboard, struggle]
+tags: [movie, keyboard, bingo]
 ---
 
 ### 일정
