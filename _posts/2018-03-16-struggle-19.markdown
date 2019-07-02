@@ -16,7 +16,7 @@ tags: [database, tuning, ai, selenide, ios]
 
 **@simonTokyo: 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud**
 
-![](https://user-images.githubusercontent.com/2956728/52692635-ca349b80-2fa7-11e9-8052-164766348b73.jpg)
+![](/img/struggle/19/simonTokyo.jpg)
 
 >@IBM iX Developer. 👨‍🎨 shaping the future with developers. Tweets r my own. だから発言は個人の見解で会社を代表しませんよ、少しも #AI #IBMWatson #Blockchain #Serverless #VR #AR
 
@@ -24,7 +24,7 @@ tags: [database, tuning, ai, selenide, ios]
 
 **@요다: Selenide: CONCISE UI TESTS IN JAVA**
 
-![](https://user-images.githubusercontent.com/2956728/52692739-14b61800-2fa8-11e9-9ce9-30b1dd16257f.jpg)
+![](/img/struggle/19/요다.jpg)
 
 >라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다."Do. Or do not.There is no try."(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.) :darth_vader:쿠우우....쿠우우....
 
@@ -32,7 +32,7 @@ tags: [database, tuning, ai, selenide, ios]
 
 **@doil6317 : iOS Animation 고군분투기**
 
-![](https://user-images.githubusercontent.com/2956728/52692831-5a72e080-2fa8-11e9-9d81-318b2dee6a08.jpg)
+![](/img/struggle/19/doil6317.jpg)
 
 >iOS개발자 입니다. 요즘은 주로 Swift로 개발하는 중입니다. iOS관련 질문 대환영입니다!.
 
@@ -40,54 +40,15 @@ tags: [database, tuning, ai, selenide, ios]
 
 **@ju.inho: 데이터베이스의 성능향상을 위한 기본정보**
 
-![](https://user-images.githubusercontent.com/2956728/52692913-8e4e0600-2fa8-11e9-8508-26c90f7faccb.jpg)
+![](/img/struggle/19/ju.inho.jpg)
 
 >인프라 엔지니어 초보dba로 일하고 있습니다 주로 하는 일은 논리설계 디비설계 성능튜닝 및 인시던트 대응입니다 (신용카드,qr,프리페이드,전자머니) Fintech업계에서 일하고 있으며 결재 프로젝트 에서 da 및 dba를 담당하고있습니다
 
 ### 발표 자료
 
 **@simonTokyo: 엔지니어가 모르는 AI, 양자컴퓨터와 IBM의 오픈소스와의 관계, 그것을 지지하는 IBM Cloud**
-```
-How it Works: Quantum Computing
 
-https://youtu.be/WVv5OAR4Nik
-Running an experiment in the IBM Quantum Experience
-https://youtu.be/pYD6bvKLI_c
-
-Open Source Projects
-
-Python:
-QISKit
-https://www.qiskit.org
-The Quantum Information Software Kit (QISKit for short) is a software development kit (SDK) for working with OpenQASM and the IBM Q experience (QX).
-
-Swift:
-Kitura (Runtime for Swift on Cloud Foundry App)
-http://www.kitura.io
-Server-side Swift. A high performance and simple to use web framework for building modern Swift applications.
-
-Node.js/JavaScript :
-PouchDB/CouchDB (IBM Cloudant)
-https://pouchdb.com
-JSON NoSQL DB. PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
-Node-RED
-https://nodered.org
-Node-RED is a programming tool for wiring together hardware devices; APIs and online services in new and interesting ways.
-
-Java/PHP/Swift/Python/Node.js/JavaScript:
-OpenWhisk (IBM Cloud Functions)
-https://openwhisk.apache.org
-Apache OpenWhisk is a serverless open source cloud platform that executes functions in response to events at any scale.
-Hyperledger Cello
-https://www.hyperledger.org/projects/cello
-Blockchain module toolkit and one of the Hyperledger projects.
-IBM Watson API
-https://www.ibm.com/watson/developer/
-IBM Code
-https://developer.ibm.com/code/
-IBM Cloud (Bluemix)
-https://bluemix.net
-```
+비공개
 
 ---
 
@@ -107,8 +68,8 @@ https://bluemix.net
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2052709921640409&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52693058-01577c80-2fa9-11e9-8143-0221281499ea.jpg)
+![](/img/struggle/19/everyone.jpg)
 
 ### 후원
 
-IBM Japan
+日本アイ・ビー・エム株式会社
