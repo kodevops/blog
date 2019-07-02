@@ -4,19 +4,19 @@ date: 2017-10-11
 layout: post
 title: 제14차 고군분투기
 categories: [고군분투기]
-tags: [arkit, ios, postgresql, mining]
+tags: [ar, ios, postgresql, mining]
 ---
 
 ### 일정
 
 제목 : 제14차 Kodeveloper 고군분투기  
-일시 : 2017년09월21일 20시 00분 
+일시 : 2017년09월21일 20시 00분
 
 ### 발표자
 
 **@doil6317 : ARKit + Unity를 이용한 iOS AR어플개발(Demo)**
 
-![](https://user-images.githubusercontent.com/2956728/52755475-6f4f8280-3041-11e9-9c5b-a63cbf7d2d99.jpg)
+![](/img/struggle/14/doil6317.jpg)
 
 >iOS개발자 입니다. 요즘은 주로 Swift로 개발하는 중입니다. iOS관련 질문 대환영입니다!
 
@@ -24,7 +24,7 @@ tags: [arkit, ios, postgresql, mining]
 
 **@tsukiwamoon : PostgreSQL 내부 맛보기**
 
-![](https://user-images.githubusercontent.com/2956728/52755530-9dcd5d80-3041-11e9-961d-255314ce3a23.jpg)
+![](/img/struggle/14/tsukiwamoon.jpg)
 
 >OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다.
 
@@ -32,18 +32,34 @@ tags: [arkit, ios, postgresql, mining]
 
 **@daebum-lee : 클라우드 마이닝 맛보기**
 
-![](https://user-images.githubusercontent.com/2956728/52755634-edac2480-3041-11e9-8bf2-31d1b1d51f17.jpg)
+![](/img/struggle/14/daebum-lee.jpg)
 
 >IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다.
 
+### 발표 자료
+
+**@doil6317 : ARKit + Unity를 이용한 iOS AR어플개발(Demo)**
+
+비공개
+
 ---
+
+**@tsukiwamoon : PostgreSQL 내부 맛보기**
+
+비공개
+
+---
+
+**@daebum-lee : 클라우드 마이닝 맛보기**
+
+비공개
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1966846800226722&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52755729-41b70900-3042-11e9-9fd9-5d80c10520df.jpg)
+![](/img/struggle/14/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52755772-657a4f00-3042-11e9-846d-e2e9e76e8b5a.png)
+楽天株式会社
