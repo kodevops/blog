@@ -4,7 +4,7 @@ date: 2017-11-17
 layout: post
 title: 제16차 고군분투기
 categories: [고군분투기]
-tags: [elk, ai, language, owasp, tokyo-disneyland]
+tags: [elk, ai, language, owasp, tokyo  disneyland]
 ---
 
 ### 일정
@@ -16,7 +16,7 @@ tags: [elk, ai, language, owasp, tokyo-disneyland]
 
 **@tsukiwamoon :도쿄 디즈니 리조트 살펴보기**
 
-![](https://user-images.githubusercontent.com/2956728/52698638-3e2a7000-2fb7-11e9-8540-7b2d1fb54098.jpg)
+![](/img/struggle/16/tsukiwamoon.jpg)
 
 >OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다
 
@@ -24,7 +24,7 @@ tags: [elk, ai, language, owasp, tokyo-disneyland]
 
 **@manggu :ELK**
 
-![](https://user-images.githubusercontent.com/2956728/52698719-792ca380-2fb7-11e9-8ee6-39faa7b4d18c.jpg)
+![](/img/struggle/16/manggu.jpg)
 
 >오늘도 어딘가에서 깊게 한삽을..
 
@@ -32,7 +32,7 @@ tags: [elk, ai, language, owasp, tokyo-disneyland]
 
 **@daebum-lee :owasp zap 고군분투기**
 
-![](https://user-images.githubusercontent.com/2956728/52698804-a1b49d80-2fb7-11e9-9abf-9bb3aa9cba0a.jpg)
+![](/img/struggle/16/daebum-lee.jpg)
 
 >IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다.
 
@@ -40,7 +40,7 @@ tags: [elk, ai, language, owasp, tokyo-disneyland]
 
 **@June :언어학도에서 AI엔지니어가 되기까지**
 
-![](https://user-images.githubusercontent.com/2956728/52698928-efc9a100-2fb7-11e9-922f-e83d786c8c72.jpg)
+![](/img/struggle/16/june.jpg)
 
 >사실 기계어보단 자연어에 더 관심이 많습니다
 
@@ -64,10 +64,10 @@ tags: [elk, ai, language, owasp, tokyo-disneyland]
 
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1992368331007902&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1992368331007902&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52699185-85653080-2fb8-11e9-8197-bd8fb21332fb.jpg)
+![](/img/struggle/16/everyone.jpg)
 
 ### 후원
 
-AWS
+アマゾンジャパン合同会社
