@@ -1,55 +1,49 @@
 ---
 author: kodeveloper
-date: 2019-02-15
+date: 2019-03-14
 layout: post
-title: 제29차 고군분투기
+title: 제30차 고군분투기
 categories: [고군분투기]
-tags: [coding interview]
+tags: [QA]
 ---
 
 ### 일정
 
-제목 : 제29차 Kodeveloper 고군분투기  
-일시 : 2019년02월15일 20시00분 ~ 22시00분
+제목 : 제30차 Kodeveloper 고군분투기  
+일시 : 2019년03월14일 20시00분 ~ 22시00분
 
 ### 발표자
 
-**@ahn-soohan : Failing the coding interview**
+**@hunylee : QA의 경험과 테스팅 기법**
 
-![](/img/struggle/29/ahn-soohan.jpg)
+![](/img/struggle/30/이태헌.jpg)
 
->Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
+>일본에 취업은 안 했지만 일본 취업 준비를 하고 있는 왕고 신입입니다. 관심 분야는 빅데이터 분야에 관심이 있고, 테스트 자동화와 zeppelin+spark 사용에 관심이 많습니다. 예전에 웹 개발을 java+spring으로 했었고, 지금은 파이썬의 매력에 빠져서 공부하고 있습니다
 
 ---
 
-**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
+**@Sungwook Han : QA != TEST**
 
-![](/img/struggle/29/Sa-ryongKang.jpg)
+![](/img/struggle/30/hansungwook.jpg)
 
->Sr. SW Engineer @ IBM iX
+>Shanon Inc QAエンジニア 품질 관련 업무 운영 테스트 등등 합니다
 
 
 ### 발표 자료
 
-**@ahn-soohan : Failing the coding intervie**([자료](https://www.slideshare.net/SoohanAhn/failing-the-coding-interview))
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/A6zDl96eMmUHsI" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-[코딩인터뷰 Q&A](https://brunch.co.kr/@soohanahn/4)
+**@hunylee : QA의 경험과 테스팅 기법**([자료](https://docs.google.com/presentation/d/1DETGx1buwCkYtcnmeXBTIRIZuEJ1LDCUaVlq6dRrd9M/edit#slide=id.p))
 
 
 ---
 
-**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
-
-비공개
+**@Sungwook Han : QA != TEST**([자료](https://docs.google.com/presentation/d/1WLMbWkd1-Vs1aQ6P0qR32JoXkFJOsuzr36Aym7uC3wY/edit#slide=id.gc6fa3c898_0_0))
 
 ### 사진
 
 [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2280563632188369&type=3)
 
-![](/img/struggle/29/everyone.jpg)
+![](/img/struggle/30/everyone.jpg)
 
 ### 후원
 
-株式会社フリークアウト
+KOTRA（大韓貿易投資振興公社）
