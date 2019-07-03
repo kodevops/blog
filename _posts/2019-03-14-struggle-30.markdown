@@ -1,0 +1,55 @@
+---
+author: kodeveloper
+date: 2019-02-15
+layout: post
+title: 제29차 고군분투기
+categories: [고군분투기]
+tags: [coding interview]
+---
+
+### 일정
+
+제목 : 제29차 Kodeveloper 고군분투기  
+일시 : 2019년02월15일 20시00분 ~ 22시00분
+
+### 발표자
+
+**@ahn-soohan : Failing the coding interview**
+
+![](/img/struggle/29/ahn-soohan.jpg)
+
+>Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
+
+---
+
+**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
+
+![](/img/struggle/29/Sa-ryongKang.jpg)
+
+>Sr. SW Engineer @ IBM iX
+
+
+### 발표 자료
+
+**@ahn-soohan : Failing the coding intervie**([자료](https://www.slideshare.net/SoohanAhn/failing-the-coding-interview))
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/A6zDl96eMmUHsI" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+[코딩인터뷰 Q&A](https://brunch.co.kr/@soohanahn/4)
+
+
+---
+
+**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
+
+비공개
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2280563632188369&type=3)
+
+![](/img/struggle/29/everyone.jpg)
+
+### 후원
+
+株式会社フリークアウト
