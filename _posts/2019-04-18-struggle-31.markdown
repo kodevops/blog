@@ -1,0 +1,91 @@
+---
+author: kodeveloper
+date: 2019-04-18
+layout: post
+title: 제31차 고군분투기
+categories: [고군분투기]
+tags: [Kodeveloper]
+---
+
+### 일정
+
+제목 : 제31차 Kodeveloper 고군분투기  
+일시 : 2019년04월18일 20시00분 ~ 22시00분
+
+### 앞으로의 Kodeveloper에 대해서
+
+**Facebook**
+
+>Kodeveloper 멤버 여러분
+>
+>안녕하세요
+>
+>어느 한 청년이 나는 프로그래머다(a.k.a 나프다)라는 팟캐스트를 계기로,
+>2016년 4월 26일에 "일본에서 일하는 한국인 개발자 모임(Kodeveloper)"이라는 페이스북 그룹을 만들고,
+>2016년 7월 15일에 "제1차 고군분투기"를 시작으로 일본에 계시는 많은 엔지니어의 관심과 응원, 협조 덕에
+>미숙한 운영에도 불구하고, Kodeveloper의 Mission, Vision(※1) 토대로 무사히 지금까지 커뮤니티를 운영할 수 있었습니다.
+>
+>운영진, 멤버, 그 외 도와주신 수많은 회사 및 관계자 여러분들에게 감사의 말씀 드립니다.
+>
+>1주년 기념 이벤트(※2)를 준비할 때 집계한 멤버 수가 Facebook  450명,  Slack 170명 정도였는데,
+>그로부터 약 1.5년이 지난 현재는 2배의 인원수가 증가하여,  Facebook  900명, Slack 360명을 넘어섰습니다.
+>
+>커뮤니티를 운영하는 운영진 입장으로, 기쁘면서, 한편으론 어떻게 하면 모든 멤버분들에게 도움이 되며,
+>유익한 커뮤니티를 만들 수 있을지 항상 고민이 많습니다.
+>
+>커뮤니티의 수명은 1년, 3년 차 등을 경계선으로 고비가 찾아온다고 생각합니다.
+>
+>주된 이유로
+>
+>1년 차는 운영자의 열정이 식는 시기에 같이 수명을 다하는 경우입니다.
+>즉 운영자가 운영을 소홀히 함으로써, 점점 커뮤니티는 활성화되지 않고, 활기를 잃은 커뮤니티는 점점 멤버들이 떠나갑니다.
+>설령 제가(Bus factor) 사고(SPOF)로 인해서, 커뮤니티가 운영이 안 되는(Service Unavailable) 불상사가 생기지 않도록,
+>운영진 확보(Redundancy) 등을 통해 운영진과 함께 고민하며, 실천하여 1년의 고비를 넘길 수 있었습니다.
+>
+>저희는 앞으로 3년 차의 고비가 찾아올 것입니다.
+>
+>3년 차는 멤버들의 열정이 식는 시기입니다.
+>커뮤니티를 통해서 여러분 들이 얻고자 했던 것, 원했던 것들이 점점 이루어지지 못하는 시기인 것 같습니다.
+>그러므로, 커뮤니티는 멤버분들이 원하는 것들을 알아야 할 필요가 있습니다.
+>멤버들의 요구는 시대와 함께 바뀌므로, 거기에 맞춰 발 빠르게 커뮤니티도 변화를 꾀할 시기입니다.
+>
+>Kodeveloper 멤버 전원이 다같이 힘을 모아서 3년 차의 고비를 넘겨
+>앞으로도 계속해서 Kodeveloper가 5년 10년 오랫동안 활동 될 수 있도록 하기 위해서,
+>멤버들의 의견을 귀담아듣고, 발전할 수 있도록 앙케이트를 실시합니다.
+>
+>여러분 한 분 한 분의 소중한 의견이 커뮤니티를 만들고, 바꿔 나가는 힘입니다.
+>Kodeveloper 멤버 모든 분과 함께, 3년 차 고비를 함께 극복하고 싶습니다.
+>
+>소중한 의견 기다리고 있겠습니다.
+>감사합니다.
+>
+>https://goo.gl/forms/jjCsXHdN8muu5jbn2
+>
+>===========================================
+>
+>※1: Mission, Vision
+>https://kodeveloper.com/about/
+>
+>※2: 1주년 자료
+>자료: https://drive.google.com/open?id=1sQ68Tqk4Wafit610yWUNCNQtJqUVn2xC
+축하 영상: https://www.youtube.com/watch?v=K1tR5PLmPss
+>
+>[Slack]
+>초대장: https://join.slack.com/t/kodevelopers/shared_invite/enQtNTQ0NTE3Njc2MDE4LWJjMGNkMjExMDM1YTEwNTQ0M2YxNmVmOGJlNmFiMGMwYmRiNGU2NmJjMmNlNDNlYmUyMmViOWMxN2FiZDVlNjY?fbclid=IwAR3KlGVm4DxLiR3uS-7ECk7PivZFLrus7nhKlb1PAJrDPsMgLHBVXul73Dw
+
+![](/img/struggle/31/member.jpg)
+
+**제 1차 Kodeveloper 앙케이트**([자료](https://docs.google.com/presentation/d/1iMFMqflwv7xesswpxmsuiENhW0MTi06BVqEihRv5MWY/edit?usp=sharing))
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVbmD8aJNLJpCMLeI-F9-AO9fs6AFyCTg-I8dGYfVAjbdcmWE6wYFIC5JDEQwD279WyF0uijuZ_fEN/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2280563632188369&type=3)
+
+![](/img/struggle/31/everyone.jpg)
+
+### 후원
+
+株式会社ミクシィ

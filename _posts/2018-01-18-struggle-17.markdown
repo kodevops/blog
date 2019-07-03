@@ -1,10 +1,10 @@
 ---
 author: kodeveloper
-date: 2018-01-18 
+date: 2018-01-18
 layout: post
 title: 제17차 고군분투기
 categories: [고군분투기]
-tags: [camera, nikon,hacking, kubernetes, postgresql, encryption]
+tags: [camera, hacking, kubernetes, postgresql, encryption]
 ---
 
 ### 일정
@@ -16,7 +16,7 @@ tags: [camera, nikon,hacking, kubernetes, postgresql, encryption]
 
 **@ike: 카메라&렌즈 스펙 파헤치기 (니콘위주)**
 
-![](https://user-images.githubusercontent.com/2956728/52696498-7da28d80-2fb2-11e9-8fe7-8130d418fc6e.jpg)
+![](/img/struggle/17/ike.jpg)
 
 >Origami에서 ios개발자로 일하고 있는 지상훈이라고 합니다.
 
@@ -24,7 +24,7 @@ tags: [camera, nikon,hacking, kubernetes, postgresql, encryption]
 
 **@johnzon3: 해킹 입문**
 
-![](https://user-images.githubusercontent.com/2956728/52696602-b9d5ee00-2fb2-11e9-8931-7f086cce659e.jpg)
+![](/img/struggle/17/johnzon3.jpg)
 
 >www.fb.com/johnzone88
 
@@ -32,7 +32,7 @@ tags: [camera, nikon,hacking, kubernetes, postgresql, encryption]
 
 **@daebum-lee: Kubernetes Introduction**
 
-![](https://user-images.githubusercontent.com/2956728/52696680-ee49aa00-2fb2-11e9-94c9-0d3b1adad26c.jpg)
+![](/img/struggle/17/daebum-lee.jpg)
 
 >IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다.
 
@@ -40,17 +40,40 @@ tags: [camera, nikon,hacking, kubernetes, postgresql, encryption]
 
 **@tsukiwamoon: Encryption In PostgreSQL**
 
-![](https://user-images.githubusercontent.com/2956728/52696757-25b85680-2fb3-11e9-803c-a2c770b9c765.jpg)
+![](/img/struggle/17/tsukiwamoon.jpg)
 
 >OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다
 
+### 발표 자료
+
+**@ike: 카메라&렌즈 스펙 파헤치기 (니콘위주)**
+
+비공개
+
+---
+
+**@johnzon3: 해킹 입문**
+
+비공개
+
+---
+
+**@daebum-lee: Kubernetes Introduction**
+
+비공개
+
+---
+
+**@tsukiwamoon: Encryption In PostgreSQL**
+
+비공개
 
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2022621387982596&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2022621387982596&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52696868-7c259500-2fb3-11e9-8873-8e7e01b9dee6.jpg)
+![](/img/struggle/17/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52696939-a6775280-2fb3-11e9-80bc-8d4c4e297913.png)
+株式会社Origami

@@ -4,7 +4,7 @@ date: 2017-05-19
 layout: post
 title: 제10차 고군분투기
 categories: [고군분투기]
-tags: [tv, adtech,ble, ai, struggle]
+tags: [tv, adtech, ble, deep learning]
 ---
 
 ### 일정
@@ -16,7 +16,7 @@ tags: [tv, adtech,ble, ai, struggle]
 
 **@tsukiwamoon : 방송시스템**
 
-![](https://user-images.githubusercontent.com/2956728/52766889-029dad80-306c-11e9-95fa-d7e1d3e12c5b.jpg)
+![](/img/struggle/10/tsukiwamoon.jpg)
 
 >OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다
 
@@ -24,7 +24,7 @@ tags: [tv, adtech,ble, ai, struggle]
 
 **@haneri : Taxi & Ad Tech**
 
-![](https://user-images.githubusercontent.com/2956728/52766951-3aa4f080-306c-11e9-88cc-cf3e9e24b700.jpg)
+![](/img/struggle/10/haneri.jpg)
 
 >Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
 
@@ -32,13 +32,25 @@ tags: [tv, adtech,ble, ai, struggle]
 
 **@jeongwon : 실무 딥러닝**
 
-![](https://user-images.githubusercontent.com/2956728/52767017-7475f700-306c-11e9-8cbf-82cb86f56eb4.jpg)
+![](/img/struggle/10/jeongwon.jpg)
 
 >Deep Learning/AI
 
 
 
 ### 발표 자료
+
+**@tsukiwamoon : 방송시스템**
+
+비공개
+
+---
+
+**@haneri : Taxi & Ad Tech**
+
+비공개
+
+---
 
 **@jeongwon: 실무딥러닝**([자료](https://drive.google.com/open?id=0B3sY99hJ9TIpbmpKQVhoSElKOWM))
 
@@ -48,8 +60,8 @@ tags: [tv, adtech,ble, ai, struggle]
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1905517639692972&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52767138-e0f0f600-306c-11e9-8005-14ec26587ca8.jpg)
+![](/img/struggle/10/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52767183-067dff80-306d-11e9-88fb-a4b07d7481ab.png)
+株式会社サイバーエージェント

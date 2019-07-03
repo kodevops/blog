@@ -4,7 +4,7 @@ date: 2017-03-19
 layout: post
 title: 제8차 고군분투기
 categories: [고군분투기]
-tags: [struggle]
+tags: [company's internal system, email, recruit]
 ---
 
 ### 일정
@@ -16,32 +16,20 @@ tags: [struggle]
 
 **@riverleo: 사내 시스템 소개**
 
-![](https://user-images.githubusercontent.com/2956728/52769951-37623280-3075-11e9-9f15-e0bc7be3101d.jpg)
-
->
+![](/img/struggle/8/riverleo.jpg)
 
 ---
 
 **@nari: 비공개**
 
-
->
-
 ---
 
 **@laby0525: 일본 문과생은 어떻게 살아남나? 그리고 채용에 관해**
 
-![](https://user-images.githubusercontent.com/2956728/52770115-9a53c980-3075-11e9-975a-8cf881ef35cb.jpg)
+![](/img/struggle/8/laby0525.jpg)
 
 >개발만 빼고 이것저것 잡다하게 하고 있습니다
 
----
-
-**@fish: 기계 친화성을 중심으로 접근한 최적화 기법**
-
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14192003_1076673539068544_4329971092259532818_n.jpg?_nc_cat=108&_nc_ht=scontent-nrt1-1.xx&oh=056fda0655fa4a5e8feedf28cf8d6f41&oe=5D261CD0)
-
->
 ---
 
 **@jun: About E-Mail**
@@ -49,14 +37,15 @@ tags: [struggle]
 
 >이이다바시에서 근무중입니다 주종목은 자바구요 스프링부트와 그래이들을 공부중입니다
 
+![](/img/struggle/8/jun.jpg)
 
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1876063185971751&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52770244-e4d54600-3075-11e9-86ac-fb5331e7ea98.jpg)
+![](/img/struggle/8/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52769836-d9cde600-3074-11e9-90de-e24d7d1f916c.jpg)
+株式会社 referme (レファミー)

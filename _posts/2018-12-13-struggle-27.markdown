@@ -1,15 +1,11 @@
 ---
 author: kodeveloper
-comments: true
-date: 2018-12-15 23:48:05+00:00
+date: 2018-12-15
 layout: post
-link: http://kodeveloper.com/2018/12/13/struggle-27/
-slug: struggle-27
 title: 제27차 고군분투기
-categories:
-- 고군분투기
-tags:
-- struggle
+categories: [고군분투기]
+tags: [부양가족, 부업, 전직, 국민연금, Emerging Web]
+
 ---
 
 ### 일정
@@ -17,7 +13,47 @@ tags:
 제목 : 제27차 Kodeveloper 고군분투기  
 일시 : 2018년12월13일 20시00분 ~ 23시00분
 
-### 발표자/발표 자료
+### 발표자
+
+**@JUNSIKLEE : 누구나 다 아는 초 간단 부양가족 고군분투기**
+
+![](/img/struggle/27/JUNSIKLEE.jpg)
+
+> 안녕하세요- 도쿄에서 시나가와 쪽에서 살고있는 28살 2년차 개발자입니다-!
+
+---
+
+**@Sa-ryong Kang : 시니어 SW 엔지니어의 이직 고군분투기**
+
+![](/img/struggle/27/Sa-ryongKang.jpg)
+
+> Sr. SW Engineer @ IBM iX
+
+---
+
+**@Moon, Insung : 한국 국민연금 해약기 - 최초 문의 부터 돈 받을때까지 초 간단 프로세스!**
+
+![](/img/struggle/27/MoonInsung.jpg)
+
+> OSS관련 일(postgreSQL)을 배우고있습니다. 현재 데이터 암호화에 큰 관심이 있습니다
+
+---
+
+**@sangjun : 부업 앙케이트 결과 발표 및 부업에 관해서**
+
+![](/img/struggle/27/sangjun.jpg)
+
+> 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
+
+---
+
+**@Sangwhan Moon : Emerging Web: 확장성을 고려한 Web API 동향과 기능 다각화**
+
+![](/img/struggle/27/SangwhanMoon.jpg)
+
+> 컴퓨터비전/인공지능 전문 기업 오드컨셉(주) 기술이사. 이것저것 합니다.
+
+### 발표 자료
 
 **@JUNSIKLEE : 누구나 다 아는 초 간단 부양가족 고군분투기**([자료](https://docs.google.com/presentation/d/1mSobPShAgAnpWoeguOHVydM0wP395UuNfYX4Lb8t6wY))
 
@@ -27,25 +63,26 @@ tags:
 
 ---
 
-**@Moon, Insung : 한국 국민연금 해약기 - 최초 문의 부터 돈 받을때까지 초 간단 프로세스!**([자료](#))
+**@Moon, Insung : 한국 국민연금 해약기 - 최초 문의 부터 돈 받을때까지 초 간단 프로세스!**
+
+비공개
 
 ---
 
 **@sangjun : 부업 앙케이트 결과 발표 및 부업에 관해서**([자료](https://docs.google.com/presentation/d/1MR9FvrCU8vq2_kfIO8R330q0EyHIOSILUg3MXb8OJSI/edit))
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdY8Tg4Z9laD-TxoHNanFjbwX1kdGeCwIQ8DeVhdK_8dPbX0b-FtD6_cjA0StFda7pGycQeBo-NFRH/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
 ---
 
 **@Sangwhan Moon : Emerging Web: 확장성을 고려한 Web API 동향과 기능 다각화**([자료](https://www.dropbox.com/s/ga7pyc8hkoj3pin/emergingweb.pdf?dl=0))
 
----
-
-
 
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2239665356278197&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2239665356278197&type=3)
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/48266564_2047329735305669_759014596303388672_o.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=01f7f28c03702d0a0fbcebcc88849b50&oe=5CE443FB)
+![](/img/struggle/27/everyone.jpg)
 
 ### 후원
 

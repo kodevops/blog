@@ -4,7 +4,7 @@ date: 2017-10-11
 layout: post
 title: 제12차 고군분투기
 categories: [고군분투기]
-tags: [aws, db, database,anniversary]
+tags: [aws, db, database, anniversary]
 ---
 
 ### 일정
@@ -16,7 +16,7 @@ tags: [aws, db, database,anniversary]
 
 **@oz-dev : AWSKRUG도쿄지부 활동**
 
-![](https://user-images.githubusercontent.com/2956728/52765749-5e663780-3068-11e9-92d3-b866217bed9f.jpg)
+![](/img/struggle/12/oz-dev.jpg)
 
 >unitedblades라는 광고회사에서 엔지니어로 일하고있습니다. 잡일을 주로 하고, AWS인프라를 좋아합니다 :)
 
@@ -24,25 +24,48 @@ tags: [aws, db, database,anniversary]
 
 **@sangjun : 데이터로 보는 고군분투기**
 
-![](https://user-images.githubusercontent.com/2956728/52765828-9d948880-3068-11e9-8367-a7c0f3e963df.jpg)
+![](/img/struggle/12/sangjun.jpg)
 
->Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
+>서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
 ---
 
 **@fish : 자작DB**
 
-![](https://user-images.githubusercontent.com/2956728/52765965-0845c400-3069-11e9-98f4-725775b34509.jpg)
+![](/img/struggle/12/fish.jpg)
 
 >컴퓨터비전/인공지능 전문 기업 오드컨셉(주) 기술이사. 이것저것 합니다.
 
+### 발표 자료
+
+**kodeveloper 1 year**
+
+<iframe id="" type="text/html" width="700" height="396"
+  src="http://www.youtube.com/embed/K1tR5PLmPss"></iframe>
+
+---
+
+**@oz-dev : AWSKRUG도쿄지부 활동**
+
+비공개
+
+---
+
+**@sangjun : 데이터로 보는 고군분투기([자료](https://drive.google.com/file/d/1sQ68Tqk4Wafit610yWUNCNQtJqUVn2xC/view?usp=sharing))**
+
+
+---
+
+**@fish : 자작DB**
+
+비공개
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1940056792905723&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52766045-4347f780-3069-11e9-9f58-afb3121320b3.jpg)
+![](/img/struggle/12/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52695008-bc364900-2fae-11e9-9d2c-e7bfcf2e671a.png)
+株式会社フリークアウト

@@ -16,7 +16,7 @@ tags: [redis, fire, wiki]
 
 **@heavymery: Hello, Fire!(파이어 베이스로 초간단 앱 만들어 보기)**
 
-![](https://user-images.githubusercontent.com/2956728/52773021-58c71c80-307d-11e9-94b1-b6899f463c7c.jpg)
+![](/img/struggle/5/heavymery.jpg)
 
 >아카사카에서 풀스택 엔지니어 하고 있습니다. 일본 온지 10년 정도 되구요. 요즘 하는건 React, Angular, Node.js 일이 많네요.
 
@@ -24,23 +24,19 @@ tags: [redis, fire, wiki]
 
 **@jungmk: PRESTO**
 
-![](https://user-images.githubusercontent.com/2956728/52773105-844a0700-307d-11e9-821f-82a70d164c9d.jpg)
-
->
+![](/img/struggle/5/jungmk.jpg)
 
 ---
 
-**@mangi: 비공개(Maybe REDIS)**
+**@mangi: REDIS**
 
-![](https://user-images.githubusercontent.com/2956728/52773283-ee62ac00-307d-11e9-9ba7-e0a06c4d4c2d.png)
-
->
+![](/img/struggle/5/mangi.jpg)
 
 ---
 
 **@yoda: 나만의 Wiki를 만들어 보자!**
 
-![](https://user-images.githubusercontent.com/2956728/52773392-2833b280-307e-11e9-87c1-f7657957ba5a.jpg)
+![](/img/struggle/5/yoda.jpg)
 
 >라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다."Do. Or do not.There is no try."(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)
 
@@ -48,17 +44,47 @@ tags: [redis, fire, wiki]
 
 **@msna: 동영상 자동 다운로드**
 
-![](https://user-images.githubusercontent.com/2956728/52773476-5b764180-307e-11e9-9196-eed4a4451518.jpg)
+![](/img/struggle/5/msna.jpg)
 
 >보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.
 
+
+### 발표 자료
+
+**@heavymery: Hello, Fire!(파이어 베이스로 초간단 앱 만들어 보기)**
+
+비공개
+
+---
+
+**@jungmk: PRESTO**
+
+비공개
+
+---
+
+**@mangi: REDIS**
+
+비공개
+
+---
+
+**@yoda: 나만의 Wiki를 만들어 보자!**
+
+비공개
+
+---
+
+**@msna: 동영상 자동 다운로드**
+
+비공개
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1835024580075612&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52773581-a98b4500-307e-11e9-8815-6d9f97fc88aa.jpg)
+![](/img/struggle/5/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52772896-01c14780-307d-11e9-81b0-b2911dd57b9d.png)
+ヤフー株式会社

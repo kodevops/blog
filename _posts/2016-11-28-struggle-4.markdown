@@ -4,7 +4,7 @@ date: 2016-11-28
 layout: post
 title: 제4차 고군분투기
 categories: [고군분투기]
-tags: [struggle, taxi, pcidss]
+tags: [ble, ruby, pcidss]
 ---
 
 ### 일정
@@ -16,7 +16,7 @@ tags: [struggle, taxi, pcidss]
 
 **@sangjun: BLE(Bluetooth Low Energy)**
 
-![](https://user-images.githubusercontent.com/2956728/52774198-09362000-3080-11e9-906f-27559bfc6fda.jpg)
+![](/img/struggle/4/sangjun.jpg)
 
 >Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
@@ -24,33 +24,43 @@ tags: [struggle, taxi, pcidss]
 
 **@seongjookim: PCIDSS 고군분투기**
 
-![](https://user-images.githubusercontent.com/2956728/52774296-384c9180-3080-11e9-8b59-f5e601689013.jpg)
+![](/img/struggle/4/seongjookim.jpg)
 
->Freakout Inc 에서 소프트웨어 엔지니어로 일하고 있습니다. 실시간 광고 경매(Real Time Bidding) 관련 개발을 하고 있고, 주로 광고주쪽 플랫폼 개발을 담당하고 있습니다.
-
----
-
-**@kimsuhyuk: IT 고군 분투기**
-
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/14117735_1076673489068549_356219451767562280_n.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=20e287eb6b00d320545b0b13052c0dc5&oe=5CE2F780)
-
->ROBOT HOME 에서 php엔지니어로 일하고 있습니다. php이외에도 javascript, python같은 스크립트 언어나, mysql, apache, linux 등 웹개발에 관련된 전반적인 부분에 관심을 가지고 공부하려 고군분투중입니다. 웹개발 이외엔 검색엔진이나, 로그분석 과 같은 데이터 처리및 활용부분에 관심이 많습니다 :) 기술 이외에 it,미드,게임, 컴퓨터 같은 분야에 대한 이야기도 환영합니다
+>ROBOT HOME 에서 php엔지니어 및, 서비스 설계를 담당하고 있습니다. php이외에도 javascript, python같은 스크립트 언어나, mysql, apache, linux 등 웹개발에 관련된 전반적인 부분에 관심을 가지고 공부하려 고군분투중입니다. 웹개발 이외엔 검색엔진이나, 로그분석 과 같은 데이터 처리및 활용부분에 관심이 많습니다 :) 기술 이외에 it,미드,게임, 컴퓨터 같은 분야에 대한 이야기도 환영합니다
 
 ---
 
 **@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..**
 
-![](@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..)
+![](/img/struggle/4/leesanghun.jpg)
 
 >Janpantaxi / Software Engineer 全国タクシー 앱 서버 사이드 담당하고있습니다
 
+### 발표 자료
+
+**@sangjun: BLE(Bluetooth Low Energy)**([자료](https://docs.google.com/presentation/d/17CbKOIAHjBXUZ4WxynqxqsD2vfJKltMtsm0iFpV-aoE/edit?usp=sharing))
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVc2EPwTQccZ5PWyo1dbzZVyRKg6WDrQa1Gg42L3fvZveFdiCvZfUmuoGMdKIzuKjPOr0ByaYTp9aG/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
+
+---
+
+**@seongjookim: PCIDSS 고군분투기**
+
+비공개
+
+---
+
+**@leesanghun: 택시회사 등록 페이지(관리화면)를 만들면서..**
+
+비공개
 
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1820529361525134&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1820529361525134&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52773976-962ca980-307f-11e9-9c8c-5d5b9c44bb4c.jpg)
+![](/img/struggle/4/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52773838-39c98a00-307f-11e9-86b0-2bae479a67d9.png)
+JapanTaxi株式会社

@@ -16,7 +16,7 @@ tags: [polyglot, mobile, walletless, linepay]
 
 **@jaesungmoon : 모바일앱 개발에서의 폴리글랏 프로그래밍**
 
-![](https://user-images.githubusercontent.com/2956728/52690901-7f645500-2fa2-11e9-9f7c-ad934e7512e0.jpg)
+![](/img/struggle/20/jaesungmoon.jpg)
 
 >iOS&Android developer
 
@@ -24,7 +24,7 @@ tags: [polyglot, mobile, walletless, linepay]
 
 **@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명**
 
-![](https://user-images.githubusercontent.com/2956728/52690965-b3d81100-2fa2-11e9-80ae-a09b8d6ddfc6.jpg)
+![](/img/struggle/20/biwol.jpg)
 
 >전직 개발자. 현직 Payment service planning, PM, 앞마당쓸기, 상사한테 욕먹기를 담당하고 있습니다. 관심분야는 시키는거 흉내내기, 따라하기정도 입니다. 얇고 넓은 지식수집을 지향합니다.
 
@@ -37,15 +37,17 @@ tags: [polyglot, mobile, walletless, linepay]
 
 ---
 
-**@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명**([자료](https://kodeveloper.com/%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0/2018/04/19/struggle-20/update_me))
+**@biwol: Walletless의 구현가능성과 현재. LINE Pay의 전자머니에 대한 설명**
+
+비공개
 
 ---
 
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2070354799875921&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2070354799875921&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52691049-00235100-2fa3-11e9-965e-ba6e09da02a0.jpg)
+![](/img/struggle/20/everyone.jpg)
 
 ### 후원
 
