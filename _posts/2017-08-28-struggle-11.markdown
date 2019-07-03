@@ -4,19 +4,19 @@ date: 2017-08-28
 layout: post
 title: 제11차 고군분투기
 categories: [고군분투기]
-tags: [blockchain,book, dynamic-programming]
+tags: [blockchain, book, dynamic programming]
 ---
 
 ### 일정
 
 제목 : 제11차 Kodeveloper 고군분투기  
-일시 : 2017년06월15일 20시 00분 ~ 
+일시 : 2017년06월15일 20시 00분 ~
 
 ### 발표자
 
 **@manggu : Blockchain 살짝 찔러 보기**
 
-![](https://user-images.githubusercontent.com/2956728/52766363-4d1e2a80-306a-11e9-82a1-9873d05b7197.jpg)
+![](/img/struggle/11/manggu.jpg)
 
 >오늘도 어디선가 한삽 깊숙하게..
 
@@ -24,7 +24,7 @@ tags: [blockchain,book, dynamic-programming]
 
 **@msna : 엔지니어의 책정리**
 
-![](https://user-images.githubusercontent.com/2956728/52766428-776fe800-306a-11e9-9fe6-daff9c131083.jpg)
+![](/img/struggle/11/msna.jpg)
 
 >보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.
 
@@ -32,7 +32,7 @@ tags: [blockchain,book, dynamic-programming]
 
 **@fish : 동적 프로그래밍**
 
-![](https://user-images.githubusercontent.com/2956728/52766480-a2f2d280-306a-11e9-91ba-effd68969e39.jpg)
+![](/img/struggle/11/fish.jpg)
 
 >컴퓨터비전/인공지능 전문 기업 오드컨셉(주) 기술이사. 이것저것 합니다.
 
@@ -49,17 +49,20 @@ tags: [blockchain,book, dynamic-programming]
 
 **@msna : 엔지니어의 책정리**
 
+비공개
+
 ---
 
 **@fish : 동적 프로그래밍**
 
+비공개
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1920151888229547&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52766654-2dd3cd00-306b-11e9-9985-2b974808a3c8.jpg)
+![](/img/struggle/11/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52766248-f284ce80-3069-11e9-8e76-d6ff749227db.png)
+GROOVE X 株式会社

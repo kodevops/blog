@@ -16,7 +16,7 @@ tags: [oracle, sql, chaos, engineering, chrome]
 
 **@daebum-lee: Chaos Engineering**
 
-![](https://user-images.githubusercontent.com/2956728/52693997-b7bc6100-2fab-11e9-91b0-7a0091bb747f.jpg)
+![](/img/struggle/18/daebum-lee.jpg)
 
 >IBM Japan 에서 시스템 설계/개발하고 있습니다. 최근 관심사는 하이브리드 클라우드 기반 시스템 설계 및 개발/운영입니다
 
@@ -24,7 +24,7 @@ tags: [oracle, sql, chaos, engineering, chrome]
 
 **@sangjun: chrome extenstion**
 
-![](https://user-images.githubusercontent.com/2956728/52694057-dde20100-2fab-11e9-986c-590ce098df8b.jpg)
+![](/img/struggle/18/sangjun.jpg)
 
 >Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
@@ -32,26 +32,32 @@ tags: [oracle, sql, chaos, engineering, chrome]
 
 **@manggu: Oracle Tips**
 
-![](https://user-images.githubusercontent.com/2956728/52694124-0e299f80-2fac-11e9-9396-7c001340a42c.jpg)
+![](/img/struggle/18/manggu.jpg)
 
 >오늘도 어딘가서 한삽 깊게~
 
 ### 발표 자료
 
+**@daebum-lee: Chaos Engineering**
+
+비공개
+
+---
+
 **@sangjun: chrome extenstion**([자료](https://docs.google.com/presentation/d/1Jvld2X56ptBnpkVRLGbp32IQVo8zZpQGK5zotZ08IyU/edit#slide=id.g33472d7f6b_0_101))
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHmFtCB9RsflmxjULiokd5UJXRcba2jH5WcO43RFgIwQLdsuTsukvPErvXW5xUnKeKR2ne_TMoZRO0/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 ---
 
 **@manggu: Oracle TIps**([자료](https://drive.google.com/drive/u/0/folders/1W4hfPTMuoj22qncgCsd650zp4FR5iIQv))
 
-
-
 ### 사진
 
- [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2037640673147334&%3Btype=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2037640673147334&%3Btype=3)
 
-![](https://user-images.githubusercontent.com/2956728/52694251-62cd1a80-2fac-11e9-8fa9-f764ee53c2a6.jpg)
+![](/img/struggle/18/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52695008-bc364900-2fae-11e9-9d2c-e7bfcf2e671a.png)
+株式会社フリークアウト

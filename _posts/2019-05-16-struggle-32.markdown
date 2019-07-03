@@ -1,0 +1,49 @@
+---
+author: kodeveloper
+date: 2019-05-16
+layout: post
+title: 제32차 고군분투기
+categories: [고군분투기]
+tags: [Web Architecture]
+---
+
+### 일정
+
+제목 : 제32차 Kodeveloper 고군분투기  
+일시 : 2019년05월16일 20시00분 ~ 22시00분
+
+### 발표자
+
+**@haneri : 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus**
+
+![](/img/struggle/32/haneri.jpg)
+
+>I’m an IBMer! https://www.linkedin.com/in/haneri
+
+---
+
+**@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정**
+
+![](/img/struggle/32/JunhwanKim.jpg)
+
+>川崎에서 Java로 통신관련 툴 개발중입니다. 하나하나 배우고 나누겠습니다 ㅎㅎ. 중복된 코드를 계속 만들어내는 Copy&paste 빌런과 매일매일 싸우고 있습니다.
+
+### 발표 자료
+
+**@haneri : 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus**
+
+비공개
+
+---
+
+**@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정**([자료](https://docs.google.com/presentation/d/17cCYH1t9nNLyBKIuns-062Wc1JIwumv7mI1wCPYRwgQ/edit#slide=id.p))
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2280563632188369&type=3)
+
+![](/img/struggle/32/everyone.jpg)
+
+### 후원
+
+日本アイ・ビー・エム株式会社

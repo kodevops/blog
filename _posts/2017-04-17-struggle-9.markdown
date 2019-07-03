@@ -16,7 +16,7 @@ tags: [java, reactive, aws, cloudfront]
 
 **@yaksaa21: Reactive & java**
 
-![](https://user-images.githubusercontent.com/2956728/52768873-07656000-3072-11e9-8f30-0e8b092e22c8.jpg)
+![](/img/struggle/9/yaksaa21.jpg)
 
 >ecommerce분야에서 일하는 Java개발자입니다
 
@@ -24,7 +24,7 @@ tags: [java, reactive, aws, cloudfront]
 
 **@sangjun: Revien - 개인 프로젝트**
 
-![](https://user-images.githubusercontent.com/2956728/52768926-354aa480-3072-11e9-9466-8028fd2c6c3c.jpg)
+![](/img/struggle/9/sangjun.jpg)
 
 >Robot Home에서 Android, Node등을 이용해 서비스를 개발하고 있으며, 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
@@ -32,7 +32,7 @@ tags: [java, reactive, aws, cloudfront]
 
 **@oz-dev: AWS CloudFront - 낮은 비용으로 운영하기**
 
-![](https://user-images.githubusercontent.com/2956728/52769208-fa953c00-3072-11e9-9ff4-c3f4c0c2a44a.jpg)
+![](/img/struggle/9/oz-dev.jpg)
 
 >unitedblades라는 광고회사에서 엔지니어로 일하고있습니다. 잡일을 주로 하고, AWS인프라를 좋아합니다 :)
 
@@ -43,20 +43,26 @@ tags: [java, reactive, aws, cloudfront]
 
 **@yaksaa21: Reactive & java**([자료](http://hyojinbae.github.io/reactive/#/))
 
+
+<iframe src="http://hyojinbae.github.io/reactive/" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
+
 ---
 
-**@sangjun: Revien - 개인 프로젝트 (자료)**
+**@sangjun: Revien - 개인 프로젝트 ([자료](https://docs.google.com/presentation/d/1m651c3dzThpXgDXYGpSdhRynwA_VQZfdJ2vMZ7PBcas/edit?usp=sharing))**
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR66DGo7ETUTDL-HjHbac1JmxryQx4WTRR_Muq569oqLk0iZWAsi38BWto_0sd_hRVJJabAwSXc6qZM/embed?start=false&loop=false" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 ---
 
-**@oz-dev: AWS CloudFront - 낮은 비용으로 운영하기 (자료)**
+**@oz-dev: AWS CloudFront - 낮은 비용으로 운영하기([자료](https://docs.google.com/presentation/d/118_t_AhncyIRCAImILRj4K1GjVVtBxWFuD4Z9smv8dM/edit#slide=id.p))**
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1889636891281047&type=1)
 
-![](https://user-images.githubusercontent.com/2956728/52769350-5d86d300-3073-11e9-8b16-d8382b746391.jpg)
+![](/img/struggle/9/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52768622-5a8ae300-3071-11e9-9e75-a7ef7c4897ab.jpg)
+株式会社インベスターズクラウド

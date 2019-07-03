@@ -4,7 +4,7 @@ date: 2017-01-19
 layout: post
 title: 제6차 고군분투기
 categories: [고군분투기]
-tags: [movie, keyboard, struggle]
+tags: [movie, keyboard, bingo]
 ---
 
 ### 일정
@@ -15,7 +15,6 @@ tags: [movie, keyboard, struggle]
 ### 발표자
 
 **@msna: 동영상 자동 다운로드**
-
 
 >보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.
 
@@ -37,16 +36,34 @@ tags: [movie, keyboard, struggle]
 
 **@kms: 비공개**
 
+### 발표자료
 
->
+**@msna: 동영상 자동 다운로드**
 
+비공개
+
+---
+
+**@fish: 키보드**
+
+비공개
+
+---
+
+**@sangmin: 빙고 게임**
+
+비공개
+
+---
+
+**@kms: 비공개**
 
 ### 사진
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1850662478511822&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52771072-40083800-3078-11e9-8ebb-dab7de52a274.jpg)
+![](/img/struggle/6/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52771115-60d08d80-3078-11e9-8966-1c23e638c0ed.png)
+KOTRA（大韓貿易投資振興公社）

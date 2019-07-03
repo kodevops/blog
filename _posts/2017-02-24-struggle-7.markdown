@@ -4,7 +4,7 @@ date: 2017-02-24
 layout: post
 title: 제7차 고군분투기
 categories: [고군분투기]
-tags: [gc, docker, slack, struggle]
+tags: [gc, docker, slack, aws]
 ---
 
 ### 일정
@@ -16,7 +16,7 @@ tags: [gc, docker, slack, struggle]
 
 **@younghoon: GC이야기**
 
-![](https://user-images.githubusercontent.com/2956728/52770632-f834e100-3076-11e9-9626-618d4ce97f99.jpg)
+![](/img/struggle/7/younghoon.jpg)
 
 >Mobile payment system engineer@softbank FY16입사한 신입사원입니다!!!!!
 
@@ -24,7 +24,7 @@ tags: [gc, docker, slack, struggle]
 
 **@youngmo: 슬랙과 커뮤니티, 그리고 봇에 관한 이야기**
 
-![](https://user-images.githubusercontent.com/2956728/52770703-24e8f880-3077-11e9-99eb-42a9be8f800e.jpg)
+![](/img/struggle/7/youngmo.jpg)
 
 >반갑습니다! 시부야에서 웹쪽 관련 근무를 하고 있습니다. 보통 깜모라는 닉을 사용합니다.
 
@@ -32,7 +32,7 @@ tags: [gc, docker, slack, struggle]
 
 **@negabaro: docker/aws/rails를 이용한 시스템 구축/운용**
 
-![](https://user-images.githubusercontent.com/2956728/52770767-519d1000-3077-11e9-8c29-9ba420eb16b8.jpg)
+![](/img/struggle/7/negabaro.jpg)
 
 >풀스택엔지니어를 지향하는 데브옵스 엔지니어입니다. 창업에 매우 관심이많습니다. 2017년부터 프리랜서로 전향했습니다. 요즘 관심을 가지고 공부중인 기술은 딥러닝과 rails입니다.
 
@@ -40,7 +40,21 @@ tags: [gc, docker, slack, struggle]
 
 ### 발표 자료
 
-**@yoda**([자료](https://sites.google.com/site/hcgoon/kategoli-illam/kanfarensu-semina/semina-tou-gao/kodevelopersje7chagogunbuntugi))
+**@younghoon: GC이야기**
+
+비공개
+
+---
+
+**@youngmo: 슬랙과 커뮤니티, 그리고 봇에 관한 이야기**
+
+비공개
+
+---
+
+**@negabaro: docker/aws/rails를 이용한 시스템 구축/운용**
+
+비공개
 
 ---
 
@@ -48,8 +62,8 @@ tags: [gc, docker, slack, struggle]
 
  [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.1864623930449010&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/52770849-932dbb00-3077-11e9-8df8-b8903d512613.jpg)
+![](/img/struggle/7/everyone.jpg)
 
 ### 후원
 
-![](https://user-images.githubusercontent.com/2956728/52695008-bc364900-2fae-11e9-9d2c-e7bfcf2e671a.png)
+株式会社フリークアウト
