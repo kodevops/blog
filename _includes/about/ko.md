@@ -8,7 +8,7 @@
 
 • Facebook Group : [https://www.facebook.com/groups/kodeveloper/](https://www.facebook.com/groups/kodeveloper/)
 
-• 채팅(슬랙) : [https://goo.gl/5czniN](https://goo.gl/5czniN)
+• 채팅(슬랙) : [https://kodevelopers.slack.com](https://kodevelopers.slack.com)
 
 
 ### 미션
