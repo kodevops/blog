@@ -6,9 +6,13 @@
 
 일본에서 일하시는 한국인 개발자 분들 서로 정보 교환, 상담, 교류 해요.
 
-• Facebook Group : [https://www.facebook.com/groups/kodeveloper/](https://www.facebook.com/groups/kodeveloper/)
+* Facebook Group : [https://www.facebook.com/groups/kodeveloper/](https://www.facebook.com/groups/kodeveloper/)
 
-• 채팅(슬랙) : [https://kodevelopers.slack.com](https://kodevelopers.slack.com)
+* 채팅(슬랙) : [https://kodevelopers.slack.com](https://kodevelopers.slack.com)
+
+> 슬랙 가입을 원하시는 분은 아래의 링크에서 가입하세요
+
+https://goo.gl/5czniN
 
 
 ### 미션
