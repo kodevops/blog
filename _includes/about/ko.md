@@ -10,9 +10,7 @@
 
 * 채팅(슬랙) : [https://kodevelopers.slack.com](https://kodevelopers.slack.com)
 
-> 슬랙 가입을 원하시는 분은 아래의 링크에서 가입하세요
-
-https://goo.gl/5czniN
+> 슬랙 가입을 원하시는 분은 *[여기](https://goo.gl/5czniN)* 에서 가입해 주세요.
 
 
 ### 미션
