@@ -6,9 +6,9 @@
 
 일본에서 일하시는 한국인 개발자 분들 서로 정보 교환, 상담, 교류 해요.
 
-• Facebook Group : [https://www.facebook.com/groups/1726012127643525/](https://www.facebook.com/groups/1726012127643525/)
+• Facebook Group : [https://www.facebook.com/groups/kodeveloper/](https://www.facebook.com/groups/kodeveloper/)
 
-• 채팅(슬랙) : [https://slack.kodeveloper.com](https://slack.kodeveloper.com)
+• 채팅(슬랙) : [https://goo.gl/5czniN](https://goo.gl/5czniN)
 
 
 ### 미션
