@@ -27,10 +27,10 @@ tags: [Web Architecture] [new_service] [travel]
 
 ### 발표 자료
 **김범녕(@김범녕) : 미디어 스트리밍의 기초**
-![미디어 스트리밍의 기초](https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p)
+[미디어 스트리밍의 기초](https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p)
 
 **이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교**
-![클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
+[클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
 
 
 ### 사진
