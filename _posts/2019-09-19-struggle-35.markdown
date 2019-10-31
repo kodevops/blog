@@ -30,7 +30,7 @@ tags: [Web Architecture] [new_service] [travel]
 ![]Comming soon
 
 **@Manggu GKE소개**
-![GKE소개](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
+[GKE소개](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
 
 
 ### 사진

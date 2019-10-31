@@ -1,0 +1,45 @@
+---
+author: kodeveloper
+date: 2019-10-17
+layout: post
+title: 제36차 고군분투기
+categories: [고군분투기]
+tags: [Web Architecture] [new_service] [travel] 
+---
+
+### 일정
+
+제목 : 제36차 Kodeveloper 고군분투기  
+일시 : 2019년 10월 17일 20시00분 ~ 22시00분
+
+### 발표자
+
+**김범녕(@김범녕) : 미디어 스트리밍의 기초**
+
+![](https://user-images.githubusercontent.com/2956728/67913172-7f0ef700-fbcf-11e9-93cf-09928a03ba6b.jpg)
+> cpp, golang, java 로 개발하고있습니다.
+
+
+**이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교**
+
+![](https://user-images.githubusercontent.com/2956728/67913207-9ea61f80-fbcf-11e9-9aaa-83ec6ba2d294.jpg)
+> IBM Japan, 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)
+
+### 발표 자료
+**김범녕(@김범녕) : 미디어 스트리밍의 기초**
+[미디어 스트리밍의 기초](https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p)
+
+**이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교**
+[클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
+
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2454765421434855&type=3)
+
+![](https://user-images.githubusercontent.com/2956728/67913241-b8476700-fbcf-11e9-8021-082c7304e3ed.jpg)
+
+### 후원
+
+株式会社LIFULL半蔵門本社
+![](https://user-images.githubusercontent.com/2956728/67913126-5be44780-fbcf-11e9-82fc-b07ddaa4588f.jpg)
