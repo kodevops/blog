@@ -4,39 +4,38 @@ date: 2019-07-25
 layout: post
 title: 제33차 고군분투기
 categories: [고군분투기]
-tags: [Web Architecture] [new_service] [travel] 
+tags: [new service, travel]
 ---
 
 ### 일정
 
 제목 : 제33차 Kodeveloper 고군분투기  
 일시 : 2019년 07월 25일 20시00분 ~ 22시00분
+주제 : 새로운 서비스 런칭 고군분투기
 
 ### 발표자
 
-**@haneri : 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus**
+**@ohgook kwon**
 
 ![](https://user-images.githubusercontent.com/2956728/63405321-6345e280-c421-11e9-8990-81ef254351d0.jpg)
 
->I’m an IBMer! https://www.linkedin.com/in/haneri
+> ohgook kwon
 
 ---
 
-**@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정**
+**@ninetin**
 
 ![](https://user-images.githubusercontent.com/2956728/63405326-68a32d00-c421-11e9-94ad-73dbdc513a8d.jpg)
 
->川崎에서 Java로 통신관련 툴 개발중입니다. 하나하나 배우고 나누겠습니다 ㅎㅎ. 중복된 코드를 계속 만들어내는 Copy&paste 빌런과 매일매일 싸우고 있습니다.
+>Yahoo! JAPAN 에서 Y! Travel(여행)을 담당하고 있습니다. 네 그렇습니다. 야후!도 트래블 있습니다.
 
 ### 발표 자료
 
-**@haneri : 기본적인 Web Architecture 구성을 위한 신입 엔지니어 Syllabus**
-
-
+**@ohgook kwon** - [자료](https://drive.google.com/file/d/1Uhwye8oE40Fh54o2GdvC9yNTX-p3jjoC/view?usp=sharing)
 
 ---
 
-**@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정**([자료](https://docs.google.com/presentation/d/17cCYH1t9nNLyBKIuns-062Wc1JIwumv7mI1wCPYRwgQ/edit#slide=id.p))
+**@ninetin : 비공개**
 
 ### 사진
 

@@ -4,13 +4,14 @@ date: 2019-08-28
 layout: post
 title: 제34차 고군분투기
 categories: [고군분투기]
-tags: [Web Architecture] [new_service] [travel] 
+tags: [Web Architecture, AWS]
 ---
 
 ### 일정
 
 제목 : 제34차 Kodeveloper 고군분투기  
 일시 : 2019년 08월 28일 20시00분 ~ 22시00분
+주제 : AWS 환경 구축 및 운영과 보안
 
 ### 발표자
 
@@ -21,8 +22,11 @@ tags: [Web Architecture] [new_service] [travel]
 
 ### 발표 자료
 **@mj.park : AWS 환경 구축 및 운영과 보안 - 1편 AWS환경 구축**
-![]Comming soon
+
+> Comming soon
+
 ![](https://user-images.githubusercontent.com/2956728/64595356-bb528200-d3ec-11e9-9a54-716d96dbdd81.png)
+
 ### 사진
 
 [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2407944296116968&type=3)
