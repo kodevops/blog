@@ -4,7 +4,7 @@ date: 2019-09-19
 layout: post
 title: 제35차 고군분투기
 categories: [고군분투기]
-tags: [Web Architecture] [new_service] [travel] 
+tags: [XaaS, GKE]
 ---
 
 ### 일정
@@ -26,11 +26,14 @@ tags: [Web Architecture] [new_service] [travel]
 > GCP초보 생활에 막 들어갔습니다..
 
 ### 발표 자료
-**Minseong Na : IDaaS를 포함한 XaaS**
-![]Comming soon
 
-**@Manggu GKE소개**
-[GKE소개](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
+**@Minseong Na : IDaaS를 포함한 XaaS**
+
+> Comming soon
+
+---
+
+**@Manggu GKE소개** - [자료](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
 
 
 ### 사진
