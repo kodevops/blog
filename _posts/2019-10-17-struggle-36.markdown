@@ -21,7 +21,7 @@ tags: [Media Streaming]
 > cpp, golang, java 로 개발하고있습니다.
 
 
-**이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교**
+**이대범(@daebum-lee) : 미디어 스트리밍 아키텍처 입문**
 
 ![](https://user-images.githubusercontent.com/2956728/67913207-9ea61f80-fbcf-11e9-9aaa-83ec6ba2d294.jpg)
 > IBM Japan, 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)
@@ -31,7 +31,7 @@ tags: [Media Streaming]
 
 ---
 
-**이대범(@daebum-lee) : 클라우드 프로바이더별 미디어 스트리밍 아키텍처 비교** - [자료](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
+**이대범(@daebum-lee) : 미디어 스트리밍 아키텍처 입문** - [자료](https://www.slideshare.net/daebumlee/media-streaming-architecture-introduction)
 
 
 ### 사진
