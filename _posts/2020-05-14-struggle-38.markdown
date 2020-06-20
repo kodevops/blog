@@ -1,0 +1,43 @@
+---
+author: kodeveloper
+date: 2020-05-14
+layout: post
+title: 제38차 고군분투기
+categories: [고군분투기]
+tags: [ai, aws, serverless, architecture, career, google, engineer]
+---
+
+### 일정
+
+제목 : 제38차 Kodeveloper 고군분투기 (온라인)   
+일시 : 2020년 05월 14일 19시00분 ~ 22시10분
+
+타임라인   
+19:00 ~ 19:05 이벤트 안내   
+19:05 ~ 19:50 이활석 - Ideal  AI Team   
+19:50 ~ 20:10 Q&A   
+20:10 ~ 20:45 강사룡 - "한때 개발을 접었던 창업자 출신 엔지니어를 구글로 인도해준 어떤 방법론”   
+20:45 ~ 21:00 Q&A   
+21:00 ~ 22:00 김태우 - AWS 기반 서버리스 아키텍처 톺아보기   
+22:00 ~ 22:10 Q&A   
+
+
+### 발표자 & 자료
+
+![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/101450238_3115793865183771_7971502105020071936_o.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=LaVzuRp0-SMAX9pD3cj&_nc_ht=scontent-itm1-1.xx&oh=9b8392aa44a4083935d9ea09b1c55355&oe=5F14029E)
+
+**이활석 : Ideal  AI Team**   
+발표자료 비공개입니다.   
+   
+**강사룡(@Sa-ryong Kang) : 한때 개발을 접었던 창업자 출신 엔지니어를 구글로 인도해준 어떤 방법론**- [자료](https://speakerdeck.com/saryong/handdae-gaebaleul-jeobeossdeon-cangeobja-culsin-enjinieoreul-gugeulro-indohaejun-eoddeon-bangbeobron)
+   
+**김태우(@twkiiim) : AWS 기반 서버리스 아키텍처 톺아보기**- [자료](https://dev.classmethod.jp/articles/aws-serverless-architecture-x-kodeveloper-38/)   
+
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2454765421434855&type=3)
+
+![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/101985658_3115796055183552_6866705863583727616_o.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=zir_mc9IUoMAX-bMIIx&_nc_ht=scontent-itm1-1.xx&oh=022dd8ebab1b444e77ab7caa944ea40b&oe=5F14301C)
+
+
