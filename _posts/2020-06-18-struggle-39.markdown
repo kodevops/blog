@@ -14,26 +14,34 @@ tags: [gcp,data engineering,webRTC]
 제목 : 제39차 Kodeveloper 고군분투기(온라인)  
 일시 : 2020년 06월 18일 20시00분 ~ 22시00분   
 
-타임라인 :   
-20:00 ~ 20:05 이벤트 안내   
-20:05 ~ 20:30 GCP에서 약 8,000만원의 청구서가 날라왔다는 블로그"를 본 내가 대응한 것! - (@SANGJUN LEE)   
-20:30 ~ 21:15 Data Engineering 101 - (@Ungi Kim)   
-21:15 ~ 21:35 WebRTC - (@김범녕)   
-21:35 ~ 21:50 발표자 모집 관련 안내   
+### 타임라인
+
+20:00 ~ 20:05 이벤트 안내  
+20:05 ~ 20:30 GCP에서 약 8,000만원의 청구서가 날라왔다는 블로그"를 본 내가 대응한 것! - (@SANGJUN LEE)  
+20:30 ~ 21:15 Data Engineering 101 - (@Ungi Kim)  
+21:15 ~ 21:35 WebRTC - (@김범녕)  
+21:35 ~ 21:50 발표자 모집 관련 안내  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tnLn4nmhyXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자 및 발표 자료
-
-**김범녕(@김범녕) : WebRTC** - [자료](https://docs.google.com/presentation/d/1pObFjrUqtB65JVgTGhINg5hvKOOL4y2LCb_yPaS0mOQ/edit?usp=sharing)
-> 소프트웨어 개발자 
-
-
-**김웅기(@Ungi Kim) : Data Engineering 101** - [자료](https://drive.google.com/file/d/1ICjYNSf5CgyYPujsyUqtIpHCaZ2gR6S6/view)
-> Software Engineer, Living in Tokyo
-
 
 **이상준(@SANGJUN LEE) : GCP에서 약 8,000만원의 청구서가 날라왔다는 블로그"를 본 내가 대응한 것!** - [자료](https://docs.google.com/presentation/d/1ZL6yNc5MCWLqZfkzxveKEuYClGnuNSp7L7A1z-xISsc/edit?usp=sharing)
 > 서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다.
 
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/108174899_3039526082783270_4948673769698254829_o.jpg?_nc_cat=107&_nc_sid=be0b5f&_nc_ohc=5tNse70AVOkAX9RsgxM&_nc_ht=scontent-nrt1-1.xx&oh=f0da270a0873833c2e57001e2f1af3c9&oe=5F2D06A8)
+
+**김운기(@Ungi Kim) : Data Engineering 101** - [자료](https://drive.google.com/file/d/1ICjYNSf5CgyYPujsyUqtIpHCaZ2gR6S6/view)
+> Software Engineer, Living in Tokyo
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/107870478_3039526119449933_8781450873790350561_o.jpg?_nc_cat=110&_nc_sid=be0b5f&_nc_ohc=3n6WN8Zx3JQAX920ecD&_nc_ht=scontent-nrt1-1.xx&oh=d4560eb1bd43562824615753c5c630cc&oe=5F2EF7D7)
+
+**김범녕(@김범녕) : WebRTC** - [자료](https://docs.google.com/presentation/d/1pObFjrUqtB65JVgTGhINg5hvKOOL4y2LCb_yPaS0mOQ/edit?usp=sharing)
+> 소프트웨어 개발자
+
+![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/107375199_3039526142783264_731827168053461183_o.jpg?_nc_cat=107&_nc_sid=be0b5f&_nc_ohc=cSg4xesr0d4AX8QMQuJ&_nc_ht=scontent-nrt1-1.xx&oh=3be34d2f0733d71741c449b62f2c61ee&oe=5F2D9CA9)
 
 ### 사진
 
