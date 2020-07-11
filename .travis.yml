@@ -41,4 +41,4 @@ after_success:
 # Optional: disable email notifications about the outcome of your builds
 notifications:
   email: false
-  slack: $SLACK_TOKEN
+  slack: kodevelopers:$SLACK_TOKEN
