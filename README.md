@@ -10,7 +10,7 @@
 
 ## Quick Start
 
-```
+```bash
 $ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog && cd $HOME/kodevops/blog
 $ docker run -it -p 4000:4000 -v $HOME/kodevops/blog:/srv/jekyll --name kodevops-blog jekyll/jekyll bash
 
@@ -25,6 +25,13 @@ $ docker exec -it kodevops-blog jekyll serve
 # Open your browser
 http://localhost:4000
 or http://192.168.99.100:4000
+```
+
+## Clean Up
+
+```bash
+$ docker rm kodevops-blog
+$ docker rmi jekyll/jekyll
 ```
 
 ## Docs
