@@ -1,0 +1,53 @@
+---
+author: kodeveloper
+date: 2020-07-16
+layout: post
+title: 제40차 고군분투기
+categories: [고군분투기]
+tags: [GITHUB ACTION,CI/CD,Concurrency,Parallelism,Elastic Search]
+---
+
+![](/img/struggle/40/struggle.jpg)
+
+### 일정
+
+제목 : 제40차 Kodeveloper 고군분투기(온라인)  
+일시 : 2020년 07월 16일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+20:00 ~ 20:05 이벤트 안내  
+20:05 ~ 20:20 GITHUB ACTIONS를 이용한 CI/CD환경 만들기 - (@seongjookim 김성주 님)  
+20:20 ~ 20:25 Q&A  
+20:25 ~ 21:05 동시/병렬/그 외 성능 이야기 - (@fish 문상환 님)  
+21:05 ~ 21:15 Q&A  
+21:15 ~ 21:55 엘라스틱 서치 고군분투기 - (@Yoda / Hyungcheol Kim 김형철 님)  
+21:55 ~ 22:05 Q&A  
+22:05 ~ 22:10 마무리 안내  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaGZfVyuK30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**김성주(@seongjookim) : GITHUB ACTIONS를 이용한 CI/CD환경 만들기** - [자료](https://drive.google.com/file/d/1vnXgWi6CPrtbCE490X2LSc7adLNZGUGR/view?usp=sharing)
+> 한조몬에서 백앤드 일 하고 있습니다. 언어는 php, python, javascript 다룰 줄 알고, 슬슬 컴파일 언어 공부하고 싶습니다. 서버 만지는거 좋아합니다. 일 외적으론 술/게임/스노우보드/영화/미드 좋아합니다. :)
+
+![](/img/struggle/40/seongjookim.png)
+
+**문상환(@fish) : 동시/병렬/그 외 성능 이야기** - 비공개
+> Odd Concepts / Tokyo Institute of Technology / W3C
+
+![](/img/struggle/40/fish.png)
+
+**김형철(@Yoda / Hyungcheol) : 엘라스틱 서치 고군분투기** - [자료](https://docs.google.com/presentation/d/1pObFjrUqtB65JVgTGhINg5hvKOOL4y2LCb_yPaS0mOQ/edit?usp=sharing)
+> 라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다."Do. Or do not.There is no try."(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)
+
+![](/img/struggle/40/yoda.png)
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2667794510131944&type=3)
+
+![](/img/struggle/40/members.jpg)

@@ -23,23 +23,23 @@ tags: [google,GAS,Firebase,kodeveloper,SRE]
 20:50 ~ 20:55 단체사진 촬영  
 20:55 ~ 21:00 퇴장및 이동  
 21:10 ~ 24:00 2019 송년회  
-  
+
 
 ### 발표자
 
 **김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기**
 
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/79816359_2680861678619135_2316807128712478720_o.jpg?_nc_cat=105&_nc_sid=a83260&_nc_ohc=G4ULS7rqMSYAX82-k8w&_nc_ht=scontent-itm1-1.xx&oh=c385342f449de86afe16d6f7b2a7c2bc&oe=5F11C94D)
+![](/img/struggle/37/beomnyeong.jpg)
 > cpp, golang, java 로 개발하고있습니다.
 
 **전민수(@manggu) : SRE(Site Reliability Engineering)**
 
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/79835825_3269631876444769_6489563385162629120_n.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=jjnuZ-EYOdQAX8kb3BU&_nc_ht=scontent-itm1-1.xx&oh=a02f1adbb60f63b1044d408818269d2b&oe=5F123538)
+![](/img/struggle/37/manggu.jpg)
 > GCP초보 생활에 막 들어갔습니다..
 
 **이대범(@daebum-lee) : 코디벨로퍼 연말정산**
 
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/79537242_3269631603111463_340923521725104128_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=gS8SCeXLXfIAX9T6jWR&_nc_ht=scontent-itm1-1.xx&oh=08134854c933e1046c07f8a976b742e6&oe=5F114D89)
+![](/img/struggle/37/daebum-lee.jpg)
 > 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)
 
 ### 발표 자료
@@ -50,12 +50,12 @@ tags: [google,GAS,Firebase,kodeveloper,SRE]
 [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2510167339227996&type=3)
 
 단체사진   
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/79626941_3270688599672430_5914727882843750400_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=uL-abbFGsuUAX-m_wgR&_nc_ht=scontent-itm1-1.xx&oh=59d28022d103cdeb885eb2eaff252421&oe=5F1179D9)
+![](/img/struggle/37/members.jpg)
 
 송년회
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/80345537_3269632203111403_4573842468876845056_n.jpg?_nc_cat=105&_nc_sid=a83260&_nc_ohc=0NneYFdTQCAAX_Jx0sG&_nc_ht=scontent-itm1-1.xx&oh=e71543a279a626207e106ab28d37ab8e&oe=5F1266C0)
+![](/img/struggle/37/party.jpg)
 
 ### 장소제공
 
 Google Japan
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/79937544_2162396000723792_3528905152285114368_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=fWktn6v-nS0AX_EAQd_&_nc_ht=scontent-itm1-1.xx&oh=de3a690a20e6c26f7cd146f45c2530f3&oe=5F141058)
+![](/img/struggle/37/company.jpg)
