@@ -16,13 +16,15 @@ tags: [XaaS, GKE]
 
 **@Minseong Na : IDaaS를 포함한 XaaS**
 
-![](https://user-images.githubusercontent.com/2956728/67912294-d9f31f00-fbcc-11e9-98c4-53009bc166a6.jpg)
+![](/img/struggle/35/MinseongNa.jpg)
+
 > 보험, 전기, B2B를 거쳐 현재는 B2C서비스에서 일하는 4년차 SIer입니다. 최근 관심은 이직입니다. 그러기 위해서 이것 저것 배우고 익히고 만드는 중입니다.
 
 
 **@Manggu : GKE소개**
 
-![](https://user-images.githubusercontent.com/2956728/67912423-4110d380-fbcd-11e9-9a5b-5d3a96256901.jpg)
+![](/img/struggle/35/Manggu.jpg)
+
 > GCP초보 생활에 막 들어갔습니다..
 
 ### 발표 자료
@@ -40,7 +42,7 @@ tags: [XaaS, GKE]
 
 [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2425440257700705&type=3)
 
-![](https://user-images.githubusercontent.com/2956728/67912482-6d2c5480-fbcd-11e9-9166-07680d5b97da.jpg)
+![](/img/struggle/35/members.jpg)
 
 ### 후원
 

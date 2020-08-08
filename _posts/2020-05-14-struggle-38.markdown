@@ -24,20 +24,24 @@ tags: [ai, aws, serverless, architecture, career, google, engineer]
 
 ### 발표자 & 자료
 
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/101450238_3115793865183771_7971502105020071936_o.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=LaVzuRp0-SMAX9pD3cj&_nc_ht=scontent-itm1-1.xx&oh=9b8392aa44a4083935d9ea09b1c55355&oe=5F14029E)
+![](/img/struggle/38/struggle.jpg)
 
 **이활석 : Ideal  AI Team**   
 발표자료 비공개입니다.   
-   
+
+![](/img/struggle/38/hwalseok.jpg)
+
 **강사룡(@Sa-ryong Kang) : 한때 개발을 접었던 창업자 출신 엔지니어를 구글로 인도해준 어떤 방법론**- [자료](https://speakerdeck.com/saryong/handdae-gaebaleul-jeobeossdeon-cangeobja-culsin-enjinieoreul-gugeulro-indohaejun-eoddeon-bangbeobron)
-   
-**김태우(@twkiiim) : AWS 기반 서버리스 아키텍처 톺아보기**- [자료](https://dev.classmethod.jp/articles/aws-serverless-architecture-x-kodeveloper-38/)   
+
+![](/img/struggle/38/Sa-ryong-Kang.png)
+
+**김태우(@twkiiim) : AWS 기반 서버리스 아키텍처 톺아보기**- [자료](https://dev.classmethod.jp/articles/aws-serverless-architecture-x-kodeveloper-38/)
+
+![](/img/struggle/38/twkiiim.png)
 
 
 ### 사진
 
-[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2454765421434855&type=3)
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2691290031115725&type=3)
 
-![](https://scontent-itm1-1.xx.fbcdn.net/v/t1.0-9/101985658_3115796055183552_6866705863583727616_o.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=zir_mc9IUoMAX-bMIIx&_nc_ht=scontent-itm1-1.xx&oh=022dd8ebab1b444e77ab7caa944ea40b&oe=5F14301C)
-
-
+![](/img/struggle/38/members.jpg)
