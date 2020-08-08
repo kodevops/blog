@@ -41,7 +41,7 @@ tags: [GITHUB ACTION,CI/CD,Concurrency,Parallelism,Elastic Search]
 
 ![](/img/struggle/40/fish.png)
 
-**김형철(@Yoda / Hyungcheol) : 엘라스틱 서치 고군분투기** - [자료]( https://drive.google.com/file/d/1j2eMdSmvHoH55sxtbwE8OZYUsr3tIFJh/view?usp=sharing)
+**김형철(@Yoda / Hyungcheol) : 엘라스틱 서치 고군분투기** - [자료](https://drive.google.com/file/d/1j2eMdSmvHoH55sxtbwE8OZYUsr3tIFJh/view?usp=sharing)
 > 라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다."Do. Or do not.There is no try."(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)
 
 ![](/img/struggle/40/yoda.png)
