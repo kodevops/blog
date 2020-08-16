@@ -28,26 +28,26 @@ tags: [서비스 개발, 커리어]
 
 ### 발표 영상
 
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="TODO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자 및 발표 자료
 
-**한설아(@han seola) : re:invent** - [자료]()
+**한설아(@han seola) : re:invent** - [자료](TODO)
 >
 
 ![](/img/struggle/41/hanseola.jpeg)
 
-**이대범(@daebum-lee) : 슬기로운코디벨로퍼스태프생활** - [자료](https://docs.google.com/presentation/d/1Z059GhPz8ZEYBeT3q2kU7kZO_Kgnsf3Zx98DDkJLUw4/edit)
+**이대범(@daebum-lee) : 슬기로운코디벨로퍼스태프생활** - [자료](https://docs.google.com/presentation/d/1Z059GhPz8ZEYBeT3q2kU7kZO_Kgnsf3Zx98DDkJLUw4)
 > 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don't let others define you. You define yourself.
 
 ![](/img/struggle/41/leedaebum.jpeg)
 
-**우나리(@nari) : 서비스 개발 고군분투** - [자료]()
+**우나리(@nari) : 서비스 개발 고군분투** - [자료](TODO)
 > 업을 스타트 했습니다.
 
 ![](/img/struggle/41/woonari.png)
 
-**한애리(@haneri) : 지그재그 커리어 쌓기** - [자료]()
+**한애리(@haneri) : 지그재그 커리어 쌓기** - [자료](TODO)
 > I’m an IBMer! [https://www.linkedin.com/in/haneri]()
 
 ![](/img/struggle/41/haneri.png)
