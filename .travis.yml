@@ -38,7 +38,8 @@ after_success:
   - git commit -m "by Travis CI (JOB $TRAVIS_JOB_NUMBER)"
   - git push origin master
 
-# Optional: disable email notifications about the outcome of your builds
 notifications:
   email: false
-  slack: kodevelopers:$SLACK_TOKEN
+  slack:
+    rooms:
+      secure: Lh+6u8vBbOXTUdeVvYwS1WL26kjT8wKxHLUEF03TGqTb3gWXBB+0MYgHqXACujMf5mQnIFMJlSDQsC4lZH5weKD7qWy8NquCUIYjIqGY200HuSQMIF8uVTYtWHHapAG5hl8KW+0fwbwHsEw8z5fuY2UY8A8Vdy/FZzphpXpe95XTNC7kVH5hViNimUaQ69Ei9g2QFc7he8l3bbTthXrW1FjnijgfsdMNqJT8UWv9/tiaYwNf3oaN2crEnMPgi4Gtu/jkFwZKSoLY9ZVyiMA1VcrhIher/qcGQVozBN5YZC0eZgY8tqzrN0xjOJYZK4SMXRzW1lR/gdl0Fa7M7EXUZ6pRWpeqgb1oIoXZp6kyZAB05tOdW5fsL37VLoEHLJ7qwzX2U176tR+KeNLdgaU3YxaEDYkvGDWgH3SN4jfbDG/Gx2Jk81cYKB6myMQTGTNdEyG0CA31cYozJ7FAESdt/FuA0byhq0XFIh8M6mD7j5yu++y2xrzzpXS2X/oZN+tNLXl/ffuuJAuTCvfeAF34CZjArUKjYiS0lbIZUEUCeuQgcqEk3Rx2KWl7bS3eTpkCkiYGbbPHBy4wZcUyE4NN3vCV84xx1NPJIPRsSkZKySOvKk8JQiYayYr3Tiyk/XktEfXBU74tUC+4jThATTTnji4Sp9V71bZOV0boHfieDi8=
