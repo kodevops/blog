@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Guideline"
+description: "Kodeveloper"
+header-img: "img/guideline-bg.png"
+multilingual: true
+---
+
+<!-- Language Selector -->
+<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 한국어 </option>
+</select>
+
+<!-- Korean Version -->
+<div class="ko post-container">
+    {% capture guideline_ko %}{% include guideline/ko.md %}{% endcapture %}
+    {{ guideline_ko | markdownify }}
+</div>
