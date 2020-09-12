@@ -11,6 +11,8 @@ tags: [google,GAS,Firebase,kodeveloper,SRE]
 
 제목 : 제37차 Kodeveloper 고군분투기 & 송년회   
 일시 : 2019년 12월 19일 18:30 ~ 24:00  
+장소 : Google Japan Inc.  
+주소 : 渋谷ストリーム 5F, 東京都渋谷区渋谷三丁目21番3号 150-0002  
 
 
 당일 일정 :   
@@ -43,7 +45,15 @@ tags: [google,GAS,Firebase,kodeveloper,SRE]
 > 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :)
 
 ### 발표 자료
+
+**김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기** - TODO
+
+**전민수(@manggu) : SRE(Site Reliability Engineering)** - TODO
+
 **이대범(@daebum-lee) : 코디벨로퍼 연말정산** - [자료](https://drive.google.com/file/d/1vVkbYNlhwk8Thlx8hE_v0sFTWaeeI98W/view?usp=sharing)
+
+![](/img/struggle/37/presentation-daebum-lee.png)
+
 
 ### 사진
 

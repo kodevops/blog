@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2018-11-18
+date: 2018-11-15
 layout: post
 title: 제26차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [architecture]
 ### 일정
 
 제목 : 제26차 Kodeveloper 고군분투기  
-일시 : 2018년11월15일 20시00분 ~ 22시00분
+일시 : 2018년11월15일 20시00분 ~ 22시00분  
+장소 : 株式会社LIFULL半蔵門本社、8Fセミナールーム3(42席)  
+주소 : 東京都千代田区麹町1-4-4  
+가까운 역 :  半蔵門線半蔵門駅 3a or 3b 出口から徒歩5分, 有楽町線麴町駅3番出口から徒歩12分  
 
 ### 발표자
 
@@ -36,7 +39,7 @@ tags: [architecture]
 
 **@manggu : Rakuten Travel Tag System Architecture**([자료](https://www.slideshare.net/minsoojun/2018-tech-conftag))
 
-<iframe src="https//www.slideshare.net/slideshow/embed_code/key/4a9XJaEhiLCUhN" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/4a9XJaEhiLCUhN" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 ---
 

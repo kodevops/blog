@@ -10,7 +10,10 @@ tags: [elk, ai, language, owasp, tokyo  disneyland]
 ### 일정
 
 제목 : 제16차 Kodeveloper 고군분투기  
-일시 : 2017년11월16일 20시 00분 ~
+일시 : 2017년11월16일 20시 00분 ~  
+장소 : AWS (JAPAN 본사)  
+주소 : 東京都目黒区下目黒1-8-1 ACRO TOWER 19階  
+가까운 역 :  目黒駅  
 
 ### 발표자
 

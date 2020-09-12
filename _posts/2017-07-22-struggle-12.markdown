@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2017-10-11
+date: 2017-07-22
 layout: post
 title: 제12차 고군분투기
 categories: [고군분투기]
@@ -9,8 +9,19 @@ tags: [aws, db, database, anniversary]
 
 ### 일정
 
-제목 : 제12차 Kodeveloper 고군분투기  
-일시 : 2017/07/22 (土) 15:30～18:30
+제목 : 제12차 Kodeveloper 고군분투기  (1주년 이벤트)  
+일시 : 2017/07/22 (土) 15:30～18:30  
+장소 : 株式会社FreakOut  
+주소 : 東京都港区六本木 6-3-1 六本木ヒルズクロスポイント 5F  
+가까운 역 :  六本木駅  
+
+### 티저 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wuf1dCE3G6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 1주년 기념 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1tR5PLmPss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자
 
@@ -38,13 +49,6 @@ tags: [aws, db, database, anniversary]
 
 ### 발표 자료
 
-**kodeveloper 1 year**
-
-<iframe id="" type="text/html" width="700" height="396"
-  src="http://www.youtube.com/embed/K1tR5PLmPss"></iframe>
-
----
-
 **@oz-dev : AWSKRUG도쿄지부 활동**
 
 비공개
@@ -53,6 +57,7 @@ tags: [aws, db, database, anniversary]
 
 **@sangjun : 데이터로 보는 고군분투기([자료](https://drive.google.com/file/d/1sQ68Tqk4Wafit610yWUNCNQtJqUVn2xC/view?usp=sharing))**
 
+![](/img/struggle/12/presentation-sangjun.png)
 
 ---
 

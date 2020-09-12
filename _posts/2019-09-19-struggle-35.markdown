@@ -10,7 +10,10 @@ tags: [XaaS, GKE]
 ### 일정
 
 제목 : 제35차 Kodeveloper 고군분투기  
-일시 : 2019년 09월 19일 20시00분 ~ 22시00분
+일시 : 2019년 09월 19일 20시00분 ~ 22시00분  
+장소 : 日本IBM  
+주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21  
+가까운역: 도쿄 메트로 한조몬선 水天宮前駅  
 
 ### 발표자
 
@@ -29,14 +32,13 @@ tags: [XaaS, GKE]
 
 ### 발표 자료
 
-**@Minseong Na : IDaaS를 포함한 XaaS**
-
-> Comming soon
+**@Minseong Na : IDaaS를 포함한 XaaS** - 비공개
 
 ---
 
 **@Manggu GKE소개** - [자료](https://github.com/kodevops/blog/files/3791818/GKE.pdf)
 
+![](/img/struggle/35/presentation-Manggu.png)
 
 ### 사진
 

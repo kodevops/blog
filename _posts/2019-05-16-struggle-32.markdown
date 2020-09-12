@@ -10,7 +10,9 @@ tags: [Web Architecture]
 ### 일정
 
 제목 : 제32차 Kodeveloper 고군분투기  
-일시 : 2019년05월16일 20시00분 ~ 22시00분
+일시 : 2019년05월16일 20시00분 ~ 22시00분  
+장소 : 日本IBM  
+주소 : 〒103-8510 東京都中央区日本橋箱崎町19-21  
 
 ### 발표자
 
@@ -37,6 +39,8 @@ tags: [Web Architecture]
 ---
 
 **@Junhwan Kim : 소프트웨어 장인을 향한 긴 여정**([자료](https://docs.google.com/presentation/d/17cCYH1t9nNLyBKIuns-062Wc1JIwumv7mI1wCPYRwgQ/edit#slide=id.p))
+
+![](/img/struggle/32/presentation-JunhwanKim.png)
 
 ### 사진
 

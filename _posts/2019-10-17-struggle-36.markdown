@@ -10,8 +10,11 @@ tags: [Media Streaming]
 ### 일정
 
 제목 : 제36차 Kodeveloper 고군분투기  
-일시 : 2019년 10월 17일 20시00분 ~ 22시00분
-주제 : 미디어 스트리밍 시스템
+일시 : 2019년 10월 17일 20시00분 ~ 22시00분  
+주제 : 미디어 스트리밍 시스템  
+장소 : 株式会社LIFULL半蔵門本社、2F  
+주소 : 〒102-0083 東京都千代田区麹町1-4-4  
+가까운역地 : 下鉄半蔵門線 半蔵門駅 3b出口より徒歩2分, 地下鉄有楽町線 麹町駅3出口より徒歩6分  
 
 ### 발표자
 
@@ -29,10 +32,13 @@ tags: [Media Streaming]
 ### 발표 자료
 **김범녕(@김범녕) : 미디어 스트리밍의 기초** - [자료](https://docs.google.com/presentation/d/1S5wWHhcHEthlUjTi0NuPUL-knoXxqwN5G8Kpp_Z3N90/edit#slide=id.p)
 
+![](/img/struggle/36/presentation-beomnyeong.png)
+
 ---
 
 **이대범(@daebum-lee) : 미디어 스트리밍 아키텍처 입문** - [자료](https://www.slideshare.net/daebumlee/media-streaming-architecture-introduction)
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/FqdzvMZDuEwbZW" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ### 사진
 

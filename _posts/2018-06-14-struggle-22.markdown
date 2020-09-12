@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2018-08-06
+date: 2018-06-14
 layout: post
 title: 제22차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [native application engineer, consulting]
 ### 일정
 
 제목 : 제22차 Kodeveloper 고군분투기  
-일시 : 2018년06월14일 20시00분 ~
+일시 : 2018년06월14일 20시00분 ~  
+장소 : 六本木ヒルズ森タワー 31F Origami  
+주소 : 東京都港区六本木6丁目10番1号 六本木ヒルズ森タワー 31F  
+가까운 역 :  六本木駅  
 
 ### 발표자
 

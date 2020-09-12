@@ -10,7 +10,10 @@ tags: [camera, hacking, kubernetes, postgresql, encryption]
 ### 일정
 
 제목 : 제17차 Kodeveloper 고군분투기  
-일시 : 2018년01월18일 20시 00분 ~
+일시 : 2018년01월18일 20시 00분 ~  
+장소 : Origami  
+주소 : 東京都港区南青山5丁目2番1号 NBF ALLIANCE 201  
+가까운 역 :  表参道駅  
 
 ### 발표자
 

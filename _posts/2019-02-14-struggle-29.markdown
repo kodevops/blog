@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2019-02-15
+date: 2019-02-14
 layout: post
 title: 제29차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [coding interview]
 ### 일정
 
 제목 : 제29차 Kodeveloper 고군분투기  
-일시 : 2019년02월15일 20시00분 ~ 22시00분
+일시 : 2019년02월14일 20시00분 ~ 22시00분  
+장소 : FreakOut  
+주소 : 東京都港区六本木 6-3-1 六本木ヒルズクロスポイント 5F  
+가까운 역 :  六本木駅  
 
 ### 발표자
 
@@ -24,7 +27,7 @@ tags: [coding interview]
 
 **@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
 
-![](/img/struggle/29/Sa-ryongKang.jpg)
+![](/img/struggle/29/Sa-ryong-Kang.jpg)
 
 >Sr. SW Engineer @ IBM iX
 
@@ -37,12 +40,11 @@ tags: [coding interview]
 
 [코딩인터뷰 Q&A](https://brunch.co.kr/@soohanahn/4)
 
-
 ---
 
-**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**
+**@Sa-ryong Kang : 시니어 SW엔지니어의 이직 고군분투기 (2)**([자료](https://speakerdeck.com/saryong/sinieo-swenjinieoyi-ijig-gogunbuntugi-2))
 
-비공개
+![](/img/struggle/29/presentation-Sa-ryong-Kang.png)
 
 ### 사진
 
