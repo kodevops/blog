@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2017-04-17
+date: 2017-04-14
 layout: post
 title: 제9차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [java, reactive, aws, cloudfront]
 ### 일정
 
 제목 : 제9차 Kodeveloper 고군분투기  
-일시 : 2017년04월14일 20시 30분 ~
+일시 : 2017년04월14일 20시 30분 ~  
+장소 : INVESTORS CLOUD(tateru-lab)  
+주소 : 東京都港区北青山3-3-5 東京建物青山ビル3階  
+가까운 역 :  外苑前、表参道  
 
 ### 발표자
 
@@ -41,11 +44,7 @@ tags: [java, reactive, aws, cloudfront]
 
 ### 발표 자료
 
-**@yaksaa21: Reactive & java**([자료](http://hyojinbae.github.io/reactive/#/))
-
-
-<iframe src="http://hyojinbae.github.io/reactive/" width="700" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
-
+**@yaksaa21: Reactive & java** - 비공개
 
 ---
 
@@ -56,6 +55,8 @@ tags: [java, reactive, aws, cloudfront]
 ---
 
 **@oz-dev: AWS CloudFront - 낮은 비용으로 운영하기([자료](https://docs.google.com/presentation/d/118_t_AhncyIRCAImILRj4K1GjVVtBxWFuD4Z9smv8dM/edit#slide=id.p))**
+
+![](/img/struggle/9/presentation-oz-dev.png)
 
 ### 사진
 

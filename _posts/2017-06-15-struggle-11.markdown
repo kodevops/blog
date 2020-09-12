@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2017-08-28
+date: 2017-06-15
 layout: post
 title: 제11차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [blockchain, book, dynamic programming]
 ### 일정
 
 제목 : 제11차 Kodeveloper 고군분투기  
-일시 : 2017년06월15일 20시 00분 ~
+일시 : 2017년06월15일 20시 00분 ~  
+장소 : GROOVE X 株式会社  
+주소 : 東京都中央区日本橋堀留町1-8-12 さくら堀留ビル 7F  
+가까운 역 :  人形町駅  
 
 ### 발표자
 

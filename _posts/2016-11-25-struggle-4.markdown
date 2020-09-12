@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2016-11-28
+date: 2016-11-25
 layout: post
 title: 제4차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [ble, ruby, pcidss]
 ### 일정
 
 제목 : 제4차 Kodeveloper 고군분투기  
-일시 : 2016년11월25일 19시 30분 ~
+일시 : 2016년11월25일 19시 30분 ~  
+장소 : JapanTaxi株式会社 カフェ2  
+주소 : 102-0094 東京都千代田区紀尾井町3-12 紀尾井町ビル1F  
+가까운 역 : 麹町駅  
 
 ### 발표자
 

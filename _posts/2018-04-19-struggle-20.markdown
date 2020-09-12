@@ -10,7 +10,10 @@ tags: [polyglot, mobile, walletless, linepay]
 ### 일정
 
 제목 : 제20차 Kodeveloper 고군분투기  
-일시 : 2018년04월19일 20시 00분 ~
+일시 : 2018년04월19일 20시 00분 ~  
+장소 : ReferMe x WeWork  
+주소 : 東京都港区六本木 1-4-5 17F (アークヒルズサウス)  
+가까운 역 : 六本木一丁目駅  
 
 ### 발표자
 

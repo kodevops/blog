@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2017-03-19
+date: 2017-03-15
 layout: post
 title: 제8차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [company's internal system, email, recruit]
 ### 일정
 
 제목 : 제8차 Kodeveloper 고군분투기  
-일시 : 2017년03월15일 20시 00분 ~
+일시 : 2017년03월15일 20시 00분 ~  
+장소 : Wanted(일본 지사)  
+주소 : 東京都港区赤坂2-17-65　吉葉ビル3階  
+가까운 역 :  아카사카역(치요다선) 1번 출구  
 
 ### 발표자
 

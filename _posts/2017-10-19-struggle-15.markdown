@@ -10,7 +10,10 @@ tags: [ebs, ddd, ble, coding, interview]
 ### 일정
 
 제목 : 제15차 Kodeveloper 고군분투기  
-일시 : 2017년10월19일 20시 00분 ~
+일시 : 2017년10월19일 20시 00분 ~  
+장소 : LINE (JR MIRAINA TOWER 23F)  
+주소 : 東京都新宿区新宿四丁目1番6号 23階  
+가까운 역 :  新宿  
 
 ### 발표자
 

@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2018-12-15
+date: 2018-12-13
 layout: post
 title: 제27차 고군분투기
 categories: [고군분투기]
@@ -11,7 +11,10 @@ tags: [부양가족, 부업, 전직, 국민연금, Emerging Web]
 ### 일정
 
 제목 : 제27차 Kodeveloper 고군분투기  
-일시 : 2018년12월13일 20시00분 ~ 23시00분
+일시 : 2018년12월13일 20시00분 ~ 23시00분  
+장소 : LINE (JR MIRAINA TOWER 23F)  
+주소 : 東京都新宿区新宿四丁目1番6号 23階  
+가까운 역 :  新宿  
 
 ### 발표자
 
@@ -57,9 +60,13 @@ tags: [부양가족, 부업, 전직, 국민연금, Emerging Web]
 
 **@JUNSIKLEE : 누구나 다 아는 초 간단 부양가족 고군분투기**([자료](https://docs.google.com/presentation/d/1mSobPShAgAnpWoeguOHVydM0wP395UuNfYX4Lb8t6wY))
 
+![](/img/struggle/27/presentation-JUNSIKLEE.png)
+
 ---
 
 **@Sa-ryong Kang : 시니어 SW 엔지니어의 이직 고군분투기**([자료](https://speakerdeck.com/saryong/sinieo-swenjinieoyi-ijig-gogunbuntugi-lt))
+
+![](/img/struggle/27/presentation-Sa-ryong-Kang.png)
 
 ---
 
@@ -77,6 +84,8 @@ tags: [부양가족, 부업, 전직, 국민연금, Emerging Web]
 
 **@Sangwhan Moon : Emerging Web: 확장성을 고려한 Web API 동향과 기능 다각화**([자료](https://www.dropbox.com/s/ga7pyc8hkoj3pin/emergingweb.pdf?dl=0))
 
+
+![](/img/struggle/27/presentation-Sangwhan-Moon.png)
 
 ### 사진
 

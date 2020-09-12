@@ -10,8 +10,11 @@ tags: [new service, travel]
 ### 일정
 
 제목 : 제33차 Kodeveloper 고군분투기  
-일시 : 2019년 07월 25일 20시00분 ~ 22시00분
-주제 : 새로운 서비스 런칭 고군분투기
+일시 : 2019년 07월 25일 20시00분 ~ 22시00분  
+주제 : 새로운 서비스 런칭 고군분투기  
+장소 : 株式会社サイバーエージェント Abema Towers（アベマタワーズ）  
+주소 : 東京都渋谷区宇田川町40番1号 Abema Towers  
+가까운 역 :  渋谷駅  
 
 ### 발표자
 
@@ -31,11 +34,13 @@ tags: [new service, travel]
 
 ### 발표 자료
 
-**@ohgook kwon** - [자료](https://drive.google.com/file/d/1Uhwye8oE40Fh54o2GdvC9yNTX-p3jjoC/view?usp=sharing)
+**@ohgook kwon: 새로운 서비스 런칭 고군분투기** - [자료](https://drive.google.com/file/d/1Uhwye8oE40Fh54o2GdvC9yNTX-p3jjoC/view?usp=sharing)
+
+![](/img/struggle/33/presentation-ohgookkwon.png)
 
 ---
 
-**@ninetin : 비공개**
+**@ninetin : 새로운 서비스 런칭 고군분투기** - 비공개
 
 ### 사진
 

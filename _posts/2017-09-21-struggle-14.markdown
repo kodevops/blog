@@ -1,6 +1,6 @@
 ---
 author: kodeveloper
-date: 2017-10-11
+date: 2017-09-21
 layout: post
 title: 제14차 고군분투기
 categories: [고군분투기]
@@ -10,7 +10,10 @@ tags: [ar, ios, postgresql, mining]
 ### 일정
 
 제목 : 제14차 Kodeveloper 고군분투기  
-일시 : 2017년09월21일 20시 00분
+일시 : 2017년09월21일 20시 00분  
+장소 : 楽天株式会社  
+주소 : 東京都世田谷区玉川一丁目14番1号楽天クリムゾンハウス  
+가까운 역 :  二子玉川駅  
 
 ### 발표자
 
