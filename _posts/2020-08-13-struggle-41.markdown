@@ -35,7 +35,7 @@ tags: [서비스 개발, 커리어]
 **한설아(@han seola) : re:invent** - [자료](https://drive.google.com/file/d/1xeNixBnuX_WlzogF4kJxKfRybIe6vTmf/view?usp=sharing)
 >
 
-![](/img/struggle/41/hanseola.jpeg)
+![](/img/struggle/41/hanseola.jpg)
 
 **이대범(@daebum-lee) : 슬기로운코디벨로퍼스태프생활** - [자료](https://docs.google.com/presentation/d/1Z059GhPz8ZEYBeT3q2kU7kZO_Kgnsf3Zx98DDkJLUw4/edit?usp=sharing)
 > 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don't let others define you. You define yourself.
@@ -50,7 +50,7 @@ tags: [서비스 개발, 커리어]
 **한애리(@haneri) : 지그재그 커리어 쌓기** - 자료비공개
 > I’m an IBMer!
 
-![](/img/struggle/41/haneri.png)
+![](/img/struggle/41/haneri.jpeg)
 
 ### 사진
 
