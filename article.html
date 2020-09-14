@@ -1,15 +1,10 @@
 ---
-title: Archive
+title: Article
 layout: default
-description: 고군분투기
+description: 아티클
 header-img: "img/tag-bg.jpg"
 ---
 
-<!--
-Credits: this page shamelessly borrowed a lot from:
-https://github.com/kitian616/jekyll-TeXt-theme
--->
-<!-- Page Header -->
 {% include intro-header.html type='page' short=true %}
 
 <!-- Main Content -->
@@ -20,26 +15,60 @@ https://github.com/kitian616/jekyll-TeXt-theme
       <div id='tag_cloud' class="tags tags-sup js-tags">
         <a class="tag-button--all" data-encode="">
           Show All
-          <sup>{{site.posts.size}}</sup>
+          <sup>{{site.articles.size}}</sup>
         </a>
 
+        {% assign _all_tags =  site.articles | map: 'tags' | join: ','  | split: ',' | sort  %}
+        {% assign _tags_for_counting = '' | split: ',' %}
+
+        {% assign _previous_tag = '' %}
+        {% assign _counter = 0 %}
+        {% assign _canAdd = false %}
+
+        {% for _tag in _all_tags %}
+          {% if forloop.first %}
+            {% assign _previous_tag = _tag %}
+          {% endif %}
+
+          {% if _tag == _previous_tag %}
+            {% assign _counter = _counter | plus: 1 %}
+          {% elsif _counter > 0 and _tag != _previous_tag %}
+            {% assign _canAdd = true %}
+          {% endif %}
+
+          {% if forloop.last %}
+            {% assign _canAdd = true %}
+          {% endif %}
+
+          {% if _canAdd == true %}
+            {% assign _counting_format = _previous_tag | prepend: ',' | prepend: _counter %}
+            {% assign _tags_for_counting = _tags_for_counting | push: _counting_format %}
+
+            {% assign _counter = 1 %}
+            {% assign _canAdd = false %}
+          {% endif %}
+
+          {% assign _previous_tag = _tag %}
+        {% endfor %}
+
         {% capture tags %}
-        {% for tag in site.tags %}
-        <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}"
-          data-encode="{{ tag[0] | strip | url_encode }}"
+        {% for _counting_format in _tags_for_counting %}
+        {% assign _tag_counting = _counting_format | split: ',' %}
+        <a data-sort="{{ site.articles.size | minus: _tag_counting[0] | prepend: '0000' | slice: -4, 4 }}"
+          data-encode="{{ _tag_counting[1] | strip | url_encode }}"
           class="tag-button"
-          title="{{ tag[0] }}" rel="{{ tag[1].size }}">
-          {{ tag[0] }}
-          <sup>{{tag[1].size}}</sup>
+          title="{{  _tag_counting[1] }}" rel="{{ _tag_counting[0] }}">
+          {{ _tag_counting[1] }}
+          <sup>{{ _tag_counting[0] }}</sup>
         </a>
         {% endfor %}
         {% endcapture %}
         {{ tags | split:'</a>' | sort | join:'</a>' }}
       </div>
 
-            <!-- Article List -->
+      <!-- Article List -->
       <div class="mini-post-list js-result d-none">
-      {%- assign _sorted_list = site.posts -%}
+      {%- assign _sorted_list = site.articles -%}
       {%- assign _sorted_list = _sorted_list | sort: 'date' -%}
       {%- assign _sorted_list = _sorted_list | reverse -%}
 
@@ -60,9 +89,9 @@ https://github.com/kitian616/jekyll-TeXt-theme
       {%- if _currentdate != _date -%}
         {%- unless forloop.first -%}</section>{%- endunless -%}
         <section>
-        <span class="fa listing-seperator">
-          <span class="tag-text">{{ _currentdate }}</span>
-        </span>
+          <span class="fa listing-seperator">
+            <span class="tag-text">{{ _currentdate }}</span>
+          </span>
         {%- assign _date = _currentdate -%}
       {%- endif -%}
 
