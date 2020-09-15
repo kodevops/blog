@@ -28,7 +28,7 @@ tags: [서비스 개발, 커리어]
 
 ### 발표 영상
 
-<iframe width="560" height="315" src="https://youtu.be/cgt6tuDpqOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q44Ek0BXuAA&list=UU4c6Z18GXvwK6etxp0AYh8A&index=1&ab_channel=kodeveloper" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자 및 발표 자료
 
@@ -40,12 +40,12 @@ tags: [서비스 개발, 커리어]
 **이대범(@daebum-lee) : 슬기로운코디벨로퍼스태프생활** - [자료](https://docs.google.com/presentation/d/1Z059GhPz8ZEYBeT3q2kU7kZO_Kgnsf3Zx98DDkJLUw4/edit?usp=sharing)
 > 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don't let others define you. You define yourself.
 
-![](/img/struggle/41/leedaebum.jpeg)
+![](/img/struggle/41/leedaebum.jpg)
 
 **우나리(@nari) : 서비스 개발 고군분투** - [자료](https://drive.google.com/file/d/1jlrhhEjtJrFw2XgNg4QHaoBduDBnJpHX/view?usp=sharing)
 > 업을 스타트 했습니다.
 
-![](/img/struggle/41/woonari.png)
+![](/img/struggle/41/woonari.jpg)
 
 **한애리(@haneri) : 지그재그 커리어 쌓기** - 자료비공개
 > I’m an IBMer!
