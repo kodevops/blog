@@ -1,0 +1,59 @@
+---
+author: kodeveloper
+date: 2020-08-13
+layout: post
+title: 제41차 고군분투기
+categories: [고군분투기]
+tags: [서비스 개발, 커리어]
+---
+
+![](/img/struggle/41/struggle.jpg)
+
+### 일정
+
+제목 : 제41차 Kodeveloper 고군분투기(온라인)  
+일시 : 2020년 08월 13일 20시00분 ~ 22시10분   
+
+### 타임라인
+
+20:00 ~ 20:05 이벤트 안내  
+20:05 ~ 20:20 re:invent (@han seola 설아 님)  
+20:20 ~ 20:25 Q&A  
+20:25 ~ 20:40 슬기로운코디벨로퍼스태프생활 (@daebum-lee)  
+20:40 ~ 21:10 서비스 개발 고군분투 (@nari 나리 님)  
+21:10 ~ 21:20 Q&A  
+21:20 ~ 21:50 지그재그 커리어 쌓기  (all round player) (@haneri 애리 님)  
+21:50 ~ 22:00 Q&A  
+22:00 ~ 22:10 마무리 안내  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q44Ek0BXuAA&list=UU4c6Z18GXvwK6etxp0AYh8A&index=1&ab_channel=kodeveloper" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**한설아(@han seola) : re:invent** - [자료](https://drive.google.com/file/d/1xeNixBnuX_WlzogF4kJxKfRybIe6vTmf/view?usp=sharing)
+>
+
+![](/img/struggle/41/hanseola.jpg)
+
+**이대범(@daebum-lee) : 슬기로운코디벨로퍼스태프생활** - [자료](https://docs.google.com/presentation/d/1Z059GhPz8ZEYBeT3q2kU7kZO_Kgnsf3Zx98DDkJLUw4/edit?usp=sharing)
+> 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don't let others define you. You define yourself.
+
+![](/img/struggle/41/leedaebum.jpg)
+
+**우나리(@nari) : 서비스 개발 고군분투** - [자료](https://drive.google.com/file/d/1jlrhhEjtJrFw2XgNg4QHaoBduDBnJpHX/view?usp=sharing)
+> 업을 스타트 했습니다.
+
+![](/img/struggle/41/woonari.jpg)
+
+**한애리(@haneri) : 지그재그 커리어 쌓기** - 자료비공개
+> I’m an IBMer!
+
+![](/img/struggle/41/haneri.jpeg)
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set/?set=oa.2716305041947557&type=3)
+
+![](/img/struggle/41/members.jpg)
