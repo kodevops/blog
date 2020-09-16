@@ -28,7 +28,7 @@ tags: [서비스 개발, 커리어]
 
 ### 발표 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q44Ek0BXuAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cgt6tuDpqOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자 및 발표 자료
 
