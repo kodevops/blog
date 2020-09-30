@@ -31,11 +31,11 @@ tags: [서비스 개발, 커리어]
 
 ### 발표 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cgt6tuDpqOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTyFIm_yRH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자 및 발표 자료
 
-**야마다 탓페이(@Yamada Tappei) : 絵心0でできる！グラフィックレコーディング入門編** - [자료]()
+**야마다 탓페이(@Yamada Tappei) : 絵心0でできる！グラフィックレコーディング入門編** - 자료비공개
 >
 
 ![](/img/struggle/42/yamada.jpg)
@@ -45,17 +45,17 @@ tags: [서비스 개발, 커리어]
 
 ![](/img/struggle/42/seongjieun.jpg)
 
-**정예한(@YEHAN JEONG) : 일본 4년차가 겪은 3所3色의 이야기** - [자료]()
+**정예한(@YEHAN JEONG) : 일본 4년차가 겪은 3所3色의 이야기** - [자료](https://drive.google.com/file/d/1DtE6zzhadcE6SHTJ7pa_rCGik_tWHoli/view)
 > Rakuten Car / Application Engineer / Osaka Branch
 
 ![](/img/struggle/42/jeongyehan.jpg)
 
-**이대범(@daebum-lee) : DeepComposer로 시작하는 머신러닝 입문** - [자료]()
+**이대범(@daebum-lee) : DeepComposer로 시작하는 머신러닝 입문** - [자료](https://docs.google.com/presentation/d/1_J4TCtA_G1Oz4spzmv2G71__dtqXcL4PXQ9xuWVIXYE/edit?usp=sharing)
 > 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don't let others define you. You define yourself.
 
 ![](/img/struggle/42/leedaebum.jpg)
 
-**김범녕(@김범녕) : 머신러닝으로 보는 주가등락 예측을 해보았다.** - 자료비공개
+**김범녕(@김범녕) : 머신러닝으로 보는 주가등락 예측을 해보았다.** - [자료](https://docs.google.com/presentation/d/1ccPGlnjH7cfzQYi9HhzOSqpSFEMO9TprJsKec4KBEEc/edit?usp=sharing)
 > 이것저것 만들고있습니다!!
 
 ![](/img/struggle/42/kimbeomnyoung.jpeg)
