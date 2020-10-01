@@ -58,7 +58,7 @@ tags: [서비스 개발, 커리어]
 **김범녕(@김범녕) : 머신러닝으로 보는 주가등락 예측을 해보았다.** - [자료](https://docs.google.com/presentation/d/1ccPGlnjH7cfzQYi9HhzOSqpSFEMO9TprJsKec4KBEEc/edit?usp=sharing)
 > 이것저것 만들고있습니다!!
 
-![](/img/struggle/42/kimbeomnyoung.jpeg)
+![](/img/struggle/42/kimbeomnyoung.jpg)
 
 ### 사진
 
