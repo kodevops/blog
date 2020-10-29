@@ -30,17 +30,17 @@ tags: [서비스 개발, 커리어]
 
 ### 발표자 및 발표 자료
 
-**정도현(@정도현) : 모던 개발 요소들 사이의 상관관계 고찰** - [자료](https://drive.google.com/file/d/16bbmQdGhCSEixtyDUg5aaxsynsNDxkvo/vieww)
+**정도현(@정도현) : 모던 개발 요소들 사이의 상관관계 고찰** - [자료](https://drive.google.com/file/d/16bbmQdGhCSEixtyDUg5aaxsynsNDxkvo/view)
 >
 
 ![](/img/struggle/43/jeongdohyun.jpg)
 
-**전민수(@manggu) : 도시농부/도시어부** - [자료](https://docs.google.com/presentation/d/1eDht3340pjGlOHLOgtQtduHBMj-FMQvzy_pWPR10nts/edit?usp=sharing')
+**전민수(@manggu) : 도시농부/도시어부** - [자료](https://docs.google.com/presentation/d/1eDht3340pjGlOHLOgtQtduHBMj-FMQvzy_pWPR10nts/edit?usp=sharing)
 >
 
 ![](/img/struggle/43/manggu.jpg)
 
-**김범녕(@김범녕) : 코로나 시국에 한국다녀온 이야기(출국, 재입국을 위해 필요한 절차와 격리생활)** - [자료](https://docs.google.com/presentation/d/1vNxiPt9Zeop9wGoRwCdksusxznqPUyBwfmOm7R8_H0o/edit?usp=sharingg)
+**김범녕(@김범녕) : 코로나 시국에 한국다녀온 이야기(출국, 재입국을 위해 필요한 절차와 격리생활)** - [자료](https://docs.google.com/presentation/d/1vNxiPt9Zeop9wGoRwCdksusxznqPUyBwfmOm7R8_H0o/edit?usp=sharing)
 > 이것저것 만들고있습니다!!
 
 ![](/img/struggle/43/kimbeomnyoung.jpg)
