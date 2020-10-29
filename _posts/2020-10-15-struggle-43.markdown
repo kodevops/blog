@@ -1,0 +1,52 @@
+---
+author: kodeveloper
+date: 2020-10-15
+layout: post
+title: 제43차 고군분투기
+categories: [고군분투기]
+tags: [서비스 개발, 커리어]
+---
+
+![](/img/struggle/43/struggle.jpg)
+
+### 일정
+
+제목 : 제43차 Kodeveloper 고군분투기(온라인)  
+일시 : 2020년 10월 15일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+20:00 ~ 20:05 : 안내  
+20:05 ~ 20:45 : 모던 개발 요소들 사이의 상관관계 고찰(도현님)  
+20:45 ~ 20:55 : Q&A  
+20:55 ~ 21:25 : 도시농부/도시어부(민수님)  
+21:05 ~ 21:10 : Q&A  
+21:10 ~ 21:20 : 코로나 시국에 한국다녀온 이야기(범녕님)  
+21:20 ~ 21:25 : 마무리 안내  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAOdCGVkSzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**정도현(@정도현) : 모던 개발 요소들 사이의 상관관계 고찰** - [자료](https://drive.google.com/file/d/16bbmQdGhCSEixtyDUg5aaxsynsNDxkvo/view)
+>
+
+![](/img/struggle/43/jeongdohyun.jpg)
+
+**전민수(@manggu) : 도시농부/도시어부** - [자료](https://docs.google.com/presentation/d/1eDht3340pjGlOHLOgtQtduHBMj-FMQvzy_pWPR10nts/edit?usp=sharing)
+>
+
+![](/img/struggle/43/manggu.jpg)
+
+**김범녕(@김범녕) : 코로나 시국에 한국다녀온 이야기(출국, 재입국을 위해 필요한 절차와 격리생활)** - [자료](https://docs.google.com/presentation/d/1vNxiPt9Zeop9wGoRwCdksusxznqPUyBwfmOm7R8_H0o/edit?usp=sharing)
+> 이것저것 만들고있습니다!!
+
+![](/img/struggle/43/kimbeomnyoung.jpg)
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set?set=oa.1042152876239479&type=3)
+
+![](/img/struggle/43/members.jpg)
