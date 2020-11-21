@@ -43,7 +43,7 @@ tags: [Slack Bolt, Bot, Testing, Serverless]
 
 ![](/img/struggle/44/Sa-ryong-Kang.jpg)
 
-**저스틴 유(@Justin Yoo) : 코로나 시국에 한국다녀온 이야기(출국, 재입국을 위해 필요한 절차와 격리생활)** - [자료](https://onedrive.live.com/?cid=41b917f1613487b5&id=41B917F1613487B5%2142954&authkey=%21AOsxW%2D3F7%2D3JWRM)
+**저스틴 유(@Justin Yoo) : 청각 장애인을 위한 실시간 서버리스 자막 생성기 만들기** - [자료](https://onedrive.live.com/?cid=41b917f1613487b5&id=41B917F1613487B5%2142954&authkey=%21AOsxW%2D3F7%2D3JWRM)
 
 > 시니어 클로우드 아드보캇 / Microsoft Developer Relations
 
