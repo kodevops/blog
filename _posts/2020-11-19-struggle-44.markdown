@@ -11,8 +11,8 @@ tags: [Slack Bolt, Bot, Testing, Serverless]
 
 ### 일정
 
-제목 : 제43차 Kodeveloper 고군분투기(온라인)  
-일시 : 2020년 10월 15일 20시00분 ~ 22시00분   
+제목 : 제44차 Kodeveloper 고군분투기(온라인)  
+일시 : 2020년 11월 19일 20시00분 ~ 22시00분   
 
 ### 타임라인
 
