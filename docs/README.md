@@ -222,3 +222,33 @@ _site: 위의 정보를 바탕으로 빌드된 최종 결과물
         ```
         docker images
         ```
+
+## 트러블 슈팅
+
+### bundle update
+
+에러 내용
+
+```
+bundle update
+^@Fetching source index from https://rubygems.org/
+
+Retrying fetcher due to error (2/4): Bundler::HTTPError Could not fetch specs from https://rubygems.org/
+
+Retrying fetcher due to error (3/4): Bundler::HTTPError Could not fetch specs from https://rubygems.org/
+^@
+Retrying fetcher due to error (4/4): Bundler::HTTPError Could not fetch specs from https://rubygems.org/
+
+Could not fetch specs from https://rubygems.org/
+```
+
+해결책
+
+```bash
+# /etc/hosts 에 아래의 IP를 추가.
+
+151.101.128.70  rubygems.org
+151.101.64.70   rubygems.org
+151.101.0.70    rubygems.org
+151.101.192.70  rubygems.org
+```
