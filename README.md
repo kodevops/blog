@@ -14,6 +14,9 @@
 $ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog && cd $HOME/kodevops/blog
 $ docker run -it -p 4000:4000 -v $HOME/kodevops/blog:/srv/jekyll --name kodevops-blog jekyll/jekyll bash
 
+# if already container started
+# $ docker exec -it kodevops-blog bash
+
 # Guest
 $ bundle update
 $ exit

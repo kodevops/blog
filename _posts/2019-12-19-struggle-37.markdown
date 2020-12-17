@@ -46,9 +46,9 @@ tags: [google,GAS,Firebase,kodeveloper,SRE]
 
 ### 발표 자료
 
-**김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기** - TODO
+**김범녕(@김범녕) : GAS(Google Apps Script)+Firebase활용하기** - [자료](https://docs.google.com/presentation/d/1m28GpV195OtZrHvHO3YmEMTdeXwKTK9J6nuZlkjwXk8/edit?usp=sharing)
 
-**전민수(@manggu) : SRE(Site Reliability Engineering)** - TODO
+**전민수(@manggu) : SRE(Site Reliability Engineering)** - 비공개
 
 **이대범(@daebum-lee) : 코디벨로퍼 연말정산** - [자료](https://drive.google.com/file/d/1vVkbYNlhwk8Thlx8hE_v0sFTWaeeI98W/view?usp=sharing)
 
