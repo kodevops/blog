@@ -1,0 +1,40 @@
+---
+author: kodeveloper
+date: 2020-12-17
+layout: post
+title: 2020년 연말 어워드
+categories: [고군분투기]
+tags: [Slack Bolt, Bot, Testing, Serverless]
+---
+
+![](/img/struggle/45/struggle.jpg)
+
+### 일정
+
+제목 : 2020년 연말 어워드(온라인)  
+일시 : 2020년 12월 17일 20시00분 ~ 21시05분   
+
+### 타임라인
+
+20:00 ~ 20:05 : 코디벨로퍼 소개 (커뮤니티 / 고군분투기 / 소모임)  
+20:05 ~ 20:10 : 2020년 되돌아보기 (영상 시청)  
+20:10 ~ 20:15 : 2020년 되돌아보기 (차트로 보는 2020년)  
+20:15 ~ 20:20 : 20년 되돌아보기 (올해의 코디벨로퍼와 내년의 코디벨로퍼)  
+20:20 ~ 20:40 : 토의의 장 (작년 피드백 포함 의견 나누기)  
+20:40 ~ 20:45 : 각 부문별 1등 공개!(사전투표)  
+20:45 ~ 21:05 : 참가자 경품 추첨  
+  
+
+### 이벤트 영상  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTUCcAgdiTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 2020 연말 특별 영상  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxkFxP1yxxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+### 사진  
+  
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set?set=oa.2550988458526863&type=3)  
+  
+![](/img/struggle/45/members.png)
