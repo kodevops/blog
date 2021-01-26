@@ -7,7 +7,7 @@ categories: [고군분투기]
 tags: [Slack Bolt, Bot, Testing, Serverless]
 ---
 
-![](/img/struggle/45/struggle.jpg)
+![](/img/struggle/y2020end/struggle.jpg)
 
 ### 일정
 
@@ -37,4 +37,4 @@ tags: [Slack Bolt, Bot, Testing, Serverless]
   
 [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set?set=oa.2550988458526863&type=3)  
   
-![](/img/struggle/45/members.png)
+![](/img/struggle/y2020end/members.png)
