@@ -1,0 +1,57 @@
+---
+author: kodeveloper
+date: 2021-01-21
+layout: post
+title: 제45차 고군분투기
+categories: [고군분투기]
+tags: [지름신, 연구, 코드리뷰]
+---
+
+![](/img/struggle/46/title.jpg)
+
+### 일정
+
+제목 : 제45차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 01월 21일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+20:00 ~ 20:05 : 안내  
+20:05 ~ 20:20 : 재택근무 지름기(김형철님) + Q&A  
+20:20 ~ 21:05 : 개발자 인생살이에 대한 연구(노성철 + 김일주님) + Q&A  
+21:05 ~ 21:50 : 구글의 피드백 문화와 코드리뷰(강사룡님) + Q&A  
+21:50 ~ 22:00 : 마무리 안내  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBNtBPoHHBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**김형철(@Yoda / Hyungcheol Kim) : 재택근무 지름기** - [자료](https://docs.google.com/presentation/d/1ufliV8pUP1z-DNtUkw7m-xuVw3nmMS_UOiGcchR-J0Q/edit?usp=sharing)
+
+> EC주변 잡다한 일을 주로 하고 있습니다
+
+![](/img/struggle/46/hyungcheol.jpg)
+
+**노성철(@Sungchul Noh) : 개발자 인생살이에 대한 연구** - [자료](https://drive.google.com/file/d/1k3mk8wxM7jOl0MF5EcAx0eTNGw7KxFqb/view?usp=sharing)
+
+> 사이타마 대학교 경제학부에서 일하고 있습니다.
+
+![](/img/struggle/46/sungchul.jpg)
+
+**김일주(@ilju) : 가족 이민과 새로운 커리어의 시작** - [자료](https://drive.google.com/file/d/1emj6_XYM1h4jvxt4ga4u_Vjo7IcThQBb/view?usp=sharing)
+
+![](/img/struggle/46/iljyu.jpg)
+
+**강사룡(@Sa-ryong) :** - [자료](https://speakerdeck.com/saryong/googleyi-gaebalmunhwawa-peuroseseu-2-feedback-and-code-review)
+
+> Senior Developer Advocate @ Google
+
+![](/img/struggle/46/saryong.jpg)
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set?set=oa.902223340539899&type=3)
+
+![](/img/struggle/46/all.jpg)
