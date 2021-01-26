@@ -7,7 +7,7 @@ categories: [고군분투기]
 tags: [지름신, 연구, 코드리뷰]
 ---
 
-![](/img/struggle/46/title.jpg)
+![](/img/struggle/45/title.jpg)
 
 ### 일정
 
@@ -32,26 +32,26 @@ tags: [지름신, 연구, 코드리뷰]
 
 > EC주변 잡다한 일을 주로 하고 있습니다
 
-![](/img/struggle/46/hyungcheol.jpg)
+![](/img/struggle/45/hyungcheol.jpg)
 
 **노성철(@Sungchul Noh) : 개발자 인생살이에 대한 연구** - [자료](https://drive.google.com/file/d/1k3mk8wxM7jOl0MF5EcAx0eTNGw7KxFqb/view?usp=sharing)
 
 > 사이타마 대학교 경제학부에서 일하고 있습니다.
 
-![](/img/struggle/46/sungchul.jpg)
+![](/img/struggle/45/sungchul.jpg)
 
 **김일주(@ilju) : 가족 이민과 새로운 커리어의 시작** - [자료](https://drive.google.com/file/d/1emj6_XYM1h4jvxt4ga4u_Vjo7IcThQBb/view?usp=sharing)
 
-![](/img/struggle/46/iljyu.jpg)
+![](/img/struggle/45/iljyu.jpg)
 
 **강사룡(@Sa-ryong) :** - [자료](https://speakerdeck.com/saryong/googleyi-gaebalmunhwawa-peuroseseu-2-feedback-and-code-review)
 
 > Senior Developer Advocate @ Google
 
-![](/img/struggle/46/saryong.jpg)
+![](/img/struggle/45/saryong.jpg)
 
 ### 사진
 
 [Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set?set=oa.902223340539899&type=3)
 
-![](/img/struggle/46/all.jpg)
+![](/img/struggle/45/all.jpg)
