@@ -1,0 +1,46 @@
+---
+author: kodeveloper
+date: 2021-03-18
+layout: post
+title: 제47차 고군분투기
+categories: [고군분투기]
+tags: [머신러닝, 파이]
+---
+
+![](/img/struggle/47/title.png)
+
+### 일정
+
+제목 : 제47차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 03월 18일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+1. 인사 및 발표 안내
+2. 발표
+3. 발표 종료 후 Q&A  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gc-PB7GMnAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**최민주 : 기계번역, 어디까지 왔니** - [자료]()
+
+> 
+
+![](/img/struggle/47/ChulHoKang.jpg)
+
+**이지호 : python 웹 프레임워크** - [자료](https://kodevelopers.slack.com/files/U14GEV2BT/F01RGUASQ4E/_______________________________________________________________________.pdf)
+
+> 
+
+
+![](/img/struggle/47/sangjun.jpg)
+
+### 사진
+
+[Facebook사진첩에서 확인해주세요~!클릭클릭!](https://www.facebook.com/media/set?set=oa.118630440131309&type=3)
+
+![](/img/struggle/47/all.png)
