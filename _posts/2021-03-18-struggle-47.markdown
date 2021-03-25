@@ -26,18 +26,18 @@ tags: [머신러닝, 파이]
 
 ### 발표자 및 발표 자료
 
-**최민주 : 기계번역, 어디까지 왔니** - [자료]()
-
-> 
-
-![](/img/struggle/47/ChulHoKang.jpg)
-
-**이지호 : python 웹 프레임워크** - [자료](https://kodevelopers.slack.com/files/U14GEV2BT/F01RGUASQ4E/_______________________________________________________________________.pdf)
+**최민주 : 기계번역, 어디까지 왔니** - [자료](https://drive.google.com/file/d/1dyB7iwo42vVE6o-d3xXLxY0bbcJazlNf/view?usp=sharing)
 
 > 
 
 
-![](/img/struggle/47/sangjun.jpg)
+
+**이지호 : python 웹 프레임워크** - [자료](https://drive.google.com/file/d/1k2t7kS61SXAoyC-eNZer0zAr_t8IF62d/view?usp=sharing)
+
+> 
+
+
+
 
 ### 사진
 
