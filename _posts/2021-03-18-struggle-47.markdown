@@ -28,13 +28,13 @@ tags: [머신러닝, 파이]
 
 **최민주 : 기계번역, 어디까지 왔니** - [자료](https://drive.google.com/file/d/1dyB7iwo42vVE6o-d3xXLxY0bbcJazlNf/view?usp=sharing)
 
-> 
+> 언어의 장벽을 기술로 뛰어넘고자 기계번역을 연구하는 대학원생입니다. 40분만에 이해하는 인공지능 시대의 기계번역을 발표합니다.
 
 
 
 **이지호 : python 웹 프레임워크** - [자료](https://drive.google.com/file/d/1k2t7kS61SXAoyC-eNZer0zAr_t8IF62d/view?usp=sharing)
 
-> 
+> 대학원 입학 공고를 보고 마음이 흔들려 입학한 다음 아직도 대학원을 졸업 못한 바보 천치. 한번 꽂힌 일은 수년이 걸려도 언젠가 하리라 마음먹고 현실은 파이썬과 PostgreSQL에 미쳐있는 한 마리의 직장인
 
 
 
