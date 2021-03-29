@@ -4,7 +4,7 @@ date: 2021-03-18
 layout: post
 title: 제47차 고군분투기
 categories: [고군분투기]
-tags: [머신러닝, 파이]
+tags: [머신러닝, 파이썬]
 ---
 
 ![](/img/struggle/47/title.png)
