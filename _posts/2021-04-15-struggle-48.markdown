@@ -1,0 +1,51 @@
+---
+author: kodeveloper
+date: 2021-04-15
+layout: post
+title: 제48차 고군분투기
+categories: [고군분투기]
+tags: [머신러닝, 파이썬]
+---
+
+![](/img/struggle/48/title.png)
+
+### 일정
+
+제목 : 제48차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 04월 15일 20시00분 ~ 22시15분   
+
+### 타임라인
+
+1. 인사 및 발표 안내
+2. 발표
+3. 발표 종료 후 Q&A  
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIuB4fpCjSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**김병관 : Next.js, SSR, CSR 소개** - [자료](https://github.com/kodevops/presentation/blob/main/48/%EB%B3%91%EA%B4%80%EB%8B%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(next.js).pdf)
+
+> 하루하루 나아지고 싶은 초보 개발자입니다. Next.js 와 SSR, CSR 에 대해 간략히 소개해보려합니다!
+
+**최민주 : 찰떡같이 알아듣는 번역기를 만들어 보자** - [자료](https://github.com/kodevops/presentation/blob/main/48/%EB%AF%BC%EC%A3%BC%EB%8B%98_%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0_%EA%B4%80%EC%9A%A9%EA%B5%AC%20%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD.pdf)
+
+> 언어의 장벽을 기술로 뛰어넘고자 기계번역을 연구하는 대학원생입니다. 신경망 기반 기계번역은 뛰어난 번역 성능을 보이나 약간의 한계가 있는데, 그 중 하나는 관용구를 인간만큼 자연스럽게 번역할 수 없다는 점입니다. 이 점에 착안하여 번역기에게 관용구 번역을 가르치기 위한 연구를 해 보았습니다.
+
+**현지환 : 교육으로 문화 만들기 (온보딩 개발기)**
+
+> Learning & Development와 Relations를 하며 취미로 커뮤니티를 하는 텐션과 체력 높은 문서쟁이 입니다. 교육, 콘텐츠 작성 기술, 관계 형성에 관심이 많습니다. 이 이야기는 사람 좋아하는 교육 담당자가 좋은 기술 인력과 오랜 기간 동안 함께 하기 위해 고군분투 한 이야기 입니다. 문화를 만들기 위해서 교육을 어떻게 이용하면 좋을지 치열하게 고민한 경험을 나누고자 합니다.
+
+
+
+
+### 사진
+
+![](/img/struggle/48/all.png)
+![](/img/struggle/48/byeonggwan.png)
+![](/img/struggle/48/minjoo.png)
+![](/img/struggle/48/jihwan.png)
+![](/img/struggle/48/youtube-1.png)
+![](/img/struggle/48/youtube-2.png)
