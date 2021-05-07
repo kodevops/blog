@@ -26,11 +26,11 @@ tags: [머신러닝, 파이썬]
 
 ### 발표자 및 발표 자료
 
-**김병관 : Next.js, SSR, CSR 소개** - [자료](/docs/48/병관님_발표자료(next.js).pdf)
+**김병관 : Next.js, SSR, CSR 소개** - [자료](https://github.com/kodevops/presentation/blob/main/48/%EB%B3%91%EA%B4%80%EB%8B%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(next.js).pdf)
 
 > 하루하루 나아지고 싶은 초보 개발자입니다. Next.js 와 SSR, CSR 에 대해 간략히 소개해보려합니다!
 
-**최민주 : 찰떡같이 알아듣는 번역기를 만들어 보자** - [자료](/docs/48/민주님_고군분투기_관용구 기계번역.pdf)
+**최민주 : 찰떡같이 알아듣는 번역기를 만들어 보자** - [자료](https://github.com/kodevops/presentation/blob/main/48/%EB%AF%BC%EC%A3%BC%EB%8B%98_%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0_%EA%B4%80%EC%9A%A9%EA%B5%AC%20%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD.pdf)
 
 > 언어의 장벽을 기술로 뛰어넘고자 기계번역을 연구하는 대학원생입니다. 신경망 기반 기계번역은 뛰어난 번역 성능을 보이나 약간의 한계가 있는데, 그 중 하나는 관용구를 인간만큼 자연스럽게 번역할 수 없다는 점입니다. 이 점에 착안하여 번역기에게 관용구 번역을 가르치기 위한 연구를 해 보았습니다.
 
