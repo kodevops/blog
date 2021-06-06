@@ -1,0 +1,44 @@
+---
+author: kodeveloper
+date: 2021-05-20
+layout: post
+title: 제49차 고군분투기
+categories: [고군분투기]
+tags: [재택지름기, 쿠버네티스, 쿠베콘]
+---
+
+![](/img/struggle/49/title.png)
+
+### 일정
+
+제목 : 제49차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 05월 20일 20시00분 ~ 22시15분   
+
+### 타임라인
+
+1. 인사 및 발표 안내
+2. 발표
+3. 발표 종료 후 Q&A  
+4. 근황토크
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Co4t_afYMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**김형철 : 재택지름기2** - 자료는 추후 공개됩니다.
+
+> 라쿠텐에서 일하는 제국군 양산형 개발자입니다. EC주변 잡다한 일을 주로 하고 있습니다."Do. Or do not.There is no try."(스타워즈 에피소드5 제국의 역습에서 마스터 요다의 명언.)
+
+**이대범 : Recap of KubeCon Europe 2021 or Introduction to Micro Frontends.** - [자료](https://drive.google.com/file/d/1Y2hC59GxmFZ8A-wlPjZwy-u16JtHv6yR/view)
+
+> 관심 분야는 기술로 삶을 즐겁고 행복하게 하는 것에 관심이 많습니다 :) Don't let others define you. You define yourself.
+
+
+### 사진
+
+![](/img/struggle/49/all.png)
+![](/img/struggle/49/1_1.png)
+![](/img/struggle/49/1_2.png)
+![](/img/struggle/49/2_1.png)
