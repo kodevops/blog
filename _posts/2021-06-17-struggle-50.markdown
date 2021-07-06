@@ -1,0 +1,43 @@
+---
+author: kodeveloper
+date: 2021-06-17
+layout: post
+title: 제50차 고군분투기
+categories: [고군분투기]
+tags: [이직, 창업, 골프]
+---
+
+![](/img/struggle/50/title.png)
+
+### 일정
+
+제목 : 제50차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 06월 17일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+1. 인사 및 발표 안내
+2. 발표
+3. 발표 종료 후 Q&A  
+4. 근황토크
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AzIgufydOXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**이상준 : 회사를 떠나고 part.2** - [자료](https://drive.google.com/file/d/17Dm4ce-qn2j0IuT5T6FUh6MvfMNpC5jT/view?usp=sharing)
+
+> 꿈많은 청년 컨셉으로 이것저것 일을 벌이는걸 좋아하는 일bug벌레, 株式会社Devland의 고독한 잡부 입니다.
+
+**안영모 : 골프 입문 이야기** - [자료](https://drive.google.com/file/d/1Y2hC59GxmFZ8A-wlPjZwy-u16JtHv6yR/view)
+
+> 반갑습니다! 시부야에서 웹쪽 관련 근무를 하고 있습니다. 보통 깜모라는 닉을 사용합니다.
+
+
+### 사진
+
+![](/img/struggle/50/all.png)
+![](/img/struggle/50/1_1.png)
+![](/img/struggle/50/2_1.png)
