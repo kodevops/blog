@@ -7,7 +7,7 @@ categories: [고군분투기]
 tags: [이직, 창업, 골프]
 ---
 
-![](/img/struggle/49/title.png)
+![](/img/struggle/50/title.png)
 
 ### 일정
 
@@ -23,7 +23,7 @@ tags: [이직, 창업, 골프]
 
 ### 발표 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Co4t_afYMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AzIgufydOXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 발표자 및 발표 자료
 
@@ -38,7 +38,6 @@ tags: [이직, 창업, 골프]
 
 ### 사진
 
-![](/img/struggle/49/all.png)
-![](/img/struggle/49/1_1.png)
-![](/img/struggle/49/1_2.png)
-![](/img/struggle/49/2_1.png)
+![](/img/struggle/50/all.png)
+![](/img/struggle/50/1_1.png)
+![](/img/struggle/50/2_1.png)
