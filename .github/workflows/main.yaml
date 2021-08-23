@@ -24,6 +24,13 @@ jobs:
         run: bundle install
       - name: Build jekyll
         id: html
-        run: chmod +x ./script/cibuild
+        run: ./script/cibuild
       - name: Test
+        run: pwd && ls -al
+      - name: Git clone
+        uses: actions/checkout@v2
+        with:
+          repository: git@github.com:kodevops/kodevops.github.io.git
+          ssh-key: ${{ secrets.KODEVOPS_BLOG_DEPLOY_KEY }}
+          path: kodevops.github.io.git
         run: pwd && ls -al
