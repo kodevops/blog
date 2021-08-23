@@ -1,0 +1,51 @@
+name: deplo
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    outputs:
+      html: ${{ steps.html.outputs.test }}
+    env:
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+      KODEVOPS_BLOG_DEPLOY_KEY: ${{ secrets.KODEVOPS_BLOG_DEPLOY_KEY }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Test
+        run: pwd && ls -al && ls -al
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # https://github.com/ruby/setup-ruby
+          ruby-version: 2.7
+      - name: Install dependencies
+        run: bundle install
+      - name: Build jekyll
+        id: html
+        run: bash ./script/cibuild
+      - name: Create Primary Key
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          echo "$KODEVOPS_BLOG_DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+      - name: Depoly
+        run: |
+          REVISION_ID=$(git rev-parse HEAD | cut -c 1-8)
+          git config --global user.email "richellin7@gmail.com"
+          git config --global user.name "richellin"
+          git clone git@github.com:kodevops/kodevops.github.io.git kodevops
+          cd kodevops
+          cp -aR ../_site/* ./
+          git add --all
+          git commit -m "by Github Actions ($REVISION_ID)"
+          git push origin master
+      - name: Send result to slack
+        if: always()
+        uses: ravsamhq/notify-slack-action@master
+        with:
+          status: ${{ job.status }}
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
