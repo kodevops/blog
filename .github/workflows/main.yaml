@@ -15,7 +15,18 @@ jobs:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
       KODEVOPS_BLOG_DEPLOY_KEY: ${{ secrets.KODEVOPS_BLOG_DEPLOY_KEY }}
     steps:
+      - name: Test
+        run: pwd && ls -al && ls -al
+      - name: Git clone
+        run: -|
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          && echo "$KODEVOPS_BLOG_DEPLOY_KEY" > ~/.ssh/id_rsa
+          && chmod 600 ~/.ssh/id_rsa
+          && git clone git@github.com:kodevops/kodevops.github.io.git
+          ls -al
       - uses: actions/checkout@v2
+      - name: Test
+        run: pwd && ls -al && ls -al
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -26,12 +37,3 @@ jobs:
       - name: Build jekyll
         id: html
         run: bash ./script/cibuild
-      - name: Test
-        run: pwd && ls -al && ls -al
-      - name: Test
-        run: -|
-          mkdir -p ~/.ssh && chmod 700 ~/.ssh
-          && echo "$KODEVOPS_BLOG_DEPLOY_KEY" > ~/.ssh/id_rsa
-          && chmod 600 > ~/.ssh/id_rsa
-          && git clone git@github.com:kodevops/kodevops.github.io.git
-          ls -al
