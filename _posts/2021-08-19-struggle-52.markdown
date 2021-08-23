@@ -4,7 +4,7 @@ date: 2021-08-19
 layout: post
 title: 제52차 고군분투기
 categories: [고군분투기]
-tags: [이직, 창업, 골프]
+tags: [AI, Nosh, Ansible, 컨텐츠 추천]
 ---
 
 ![](/img/struggle/52/title.png)
