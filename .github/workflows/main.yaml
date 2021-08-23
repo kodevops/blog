@@ -24,7 +24,7 @@ jobs:
         run: bundle install
       - name: Build jekyll
         id: html
-        run: ./script/cibuild
+        run: bash ./script/cibuild
       - name: Test
         run: pwd && ls -al
       - name: Git clone
