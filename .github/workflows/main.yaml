@@ -1,10 +1,8 @@
-name: deploy
-on: push
-# on:
-#   push:
-#     branches:
-#       # - master
-#       - '*'
+name: deplo
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   deploy:
