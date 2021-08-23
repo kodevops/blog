@@ -1,0 +1,28 @@
+name: deploy
+on:
+  push:
+    branches:
+      # - master
+      - '*'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    outputs:
+      html: ${{ steps.html.outputs.test }}
+    env:
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # https://github.com/ruby/setup-ruby
+          ruby-version: 2.7
+      - name: Install dependencies
+        run: bundle install
+      - name: Build jekyll
+        id: html
+        run: chmod +x ./script/cibuild
+      - name: Test
+        run: pwd && ls -al

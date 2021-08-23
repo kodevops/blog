@@ -1,0 +1,49 @@
+---
+author: kodeveloper
+date: 2021-08-19
+layout: post
+title: 제52차 고군분투기
+categories: [고군분투기]
+tags: [이직, 창업, 골프]
+---
+
+![](/img/struggle/52/title.png)
+
+### 일정
+
+제목 : 제52차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 08월 19일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+1. 인사 및 발표 안내
+2. 발표
+3. 발표 종료 후 Q&A  
+4. 근황토크
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3lUa0JAsSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 발표자 및 발표 자료
+
+**최민주 : AI, 이세계로 가는 길을 알려줘** - [자료](https://github.com/kodevops/presentation/blob/main/52/%EC%B5%9C%EB%AF%BC%EC%A3%BC-AI%2C%20%EC%9D%B4%EC%84%B8%EA%B3%84%EB%A1%9C%20%EA%B0%80%EB%8A%94%20%EA%B8%B8%EC%9D%84%20%EC%95%8C%EB%A0%A4%EC%A4%98!.pdf)
+
+> NLP Engineer / 기계번역 / 덕업일치
+
+**권지성 : Nosh 주문기** - [자료](https://github.com/kodevops/presentation/blob/main/52/%EA%B6%8C%EC%A7%80%EC%84%B1-Nosh%EC%9D%B4%EC%9A%A9%EA%B8%B0.pptx.pdf)
+
+> js를 파고 있습니다. php도 합니다
+
+**전청 : Ansible자격증 고군분투기** - [자료](https://github.com/kodevops/presentation/blob/main/52/%EC%A0%84%EC%B2%AD-Ansible%20%EC%9E%90%EA%B2%A9%EC%A6%9D%20%EA%B3%A0%EA%B5%B0%EB%B6%84%ED%88%AC%EA%B8%B0.pdf)
+
+> 이런저런 취미가 많아 쓸데없이 바쁜 오타쿠입니다
+
+**김성주 : 예상치 못한 장기간의 #stayathome 킬링 타임 컨텐츠 추천** - [자료](https://github.com/kodevops/presentation/blob/main/52/%EA%B9%80%EC%84%B1%EC%A3%BC-%EC%98%88%EC%83%81%EC%B9%98%20%EB%AA%BB%ED%95%9C%20%EC%9E%A5%EA%B8%B0%EA%B0%84%EC%9D%98stayathome%ED%82%AC%EB%A7%81%20%ED%83%80%EC%9E%84%20%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%B6%94%EC%B2%9C.pdf)
+
+> #半蔵門 #backend #infrastructure #go #AWS #snowboard #movie
+
+
+### 사진
+
+![](/img/struggle/52/all.png)
