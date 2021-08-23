@@ -27,10 +27,11 @@ jobs:
         id: html
         run: bash ./script/cibuild
       - name: Test
-        run: pwd && ls -al && ls -al ~/.ssh
+        run: pwd && ls -al && ls -al
       - name: Test
         run: -|
-          echo "$KODEVOPS_BLOG_DEPLOY_KEY" > ~/.ssh/id_rsa
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          && echo "$KODEVOPS_BLOG_DEPLOY_KEY" > ~/.ssh/id_rsa
           && chmod 600 > ~/.ssh/id_rsa
           && git clone git@github.com:kodevops/kodevops.github.io.git
           ls -al
