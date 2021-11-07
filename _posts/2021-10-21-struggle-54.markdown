@@ -1,0 +1,33 @@
+---
+author: kodeveloper
+date: 2021-10-21
+layout: post
+title: 제54차 고군분투기
+categories: [고군분투기]
+tags: [test, 이력서, 프리세일즈, 디카, 테스트, 서비스개발기]
+---
+
+![](/img/struggle/54/title.png)
+
+### 일정
+
+제목 : 제54차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 10월 24일 20시00분 ~ 22시00분   
+
+### 타임라인
+
+20:00 ~ 20:05 시작 대기 및 오프닝   
+20:05 ~ 20:55 엔지니어 이력서 서비스 개발기(Kije Park님) + Q&A   
+20:55 ~ 21:45 어서와 프리세일즈는 처음이지?(김태우님) + Q&A   
+21:45 ~ 22:00 Karate Framework 를 이용한 API 테스트 도전기(한성욱님) + Q&A   
+22:00 ~ 22:15 아직도 디카 쓰세요? (김성욱님) + Q&A   
+22:15 ~ 22:20 마무리, 안내   
+22:20 ~ : 근황토크 (별도 Meet Room, #초심자 대환영.)   
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-q0Go_8fdvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 사진
+
+![](/img/struggle/54/all.png)
