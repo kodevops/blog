@@ -1,0 +1,31 @@
+---
+author: kodeveloper
+date: 2021-11-18
+layout: post
+title: 제55차 고군분투기
+categories: [고군분투기]
+tags: [스타트업, nlp, 자연어처리, 기계번역, 스터디]
+---
+
+![](/img/struggle/55/title.png)
+
+### 일정
+
+제목 : 제55차 Kodeveloper 고군분투기(온라인)  
+일시 : 2021년 11월 18일 20시00분 ~ 21시30분   
+
+### 타임라인
+
+20:00 ~ 20:05 시작 대기 및 오프닝    
+20:05 ~ 20:55 인생은 실전이야 - 기계번역 스타트업 고군분투기(민주님) + Q&A    
+20:55 ~ 21:20 스터디 경험기(혜미님) + Q&A    
+21:20 ~ 21:30 마무리, 안내    
+21:30 ~ : 근황토크 (별도 안내, #초심자 대환영.)    
+
+### 발표 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xE9L7WzVTUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 사진
+
+![](/img/struggle/55/all.png)
