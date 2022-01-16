@@ -27,3 +27,5 @@ tags: [AI, 핸즈온]
 
 ### 사진
 
+![](/img/struggle/56/all.png)
+
