@@ -48,3 +48,4 @@ Copyright (c) 2018 Kodeveloper
 https://github.com/Huxpro/huxpro.github.io
 Kodeveloper Blog is derived from [Hux Blog (Apache License 2.0)](https://github.com/Huxpro/huxpro.github.io) Copyright (c) 2015-2016 Huxpro and [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
+
