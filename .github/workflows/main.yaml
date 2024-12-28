@@ -36,7 +36,7 @@ jobs:
           REVISION_ID=$(git rev-parse HEAD | cut -c 1-8)
           git config --global user.email "richellin7@gmail.com"
           git config --global user.name "richellin"
-          git clone richellin7@gmail.com:kodevops/kodevops.github.io.git kodevops
+          git clone richellin@github.com:kodevops/kodevops.github.io.git kodevops
           cd kodevops
           cp -aR ../_site/* ./
           git add --all
