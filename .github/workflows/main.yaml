@@ -34,7 +34,21 @@ jobs:
       - name: Depoly
         run: |
           # debug
+          # ====================================================
           ssh -T git@github.com -vvv
+
+          echo "debug1"
+          pwd
+          whoami
+          echo $HOME
+
+          echo "debug2"
+          cd ~ && pwd
+
+          echo "debug2"
+          md5sum ~/.ssh/id_rsa
+          # ====================================================
+
 
           REVISION_ID=$(git rev-parse HEAD | cut -c 1-8)
           git config --global user.email "richellin7@gmail.com"
