@@ -35,7 +35,7 @@ jobs:
         run: |
           # debug
           # ====================================================
-          ssh -T git@github.com -vvv
+          # ssh -T git@github.com -vvv
 
           echo "debug1"
           pwd
