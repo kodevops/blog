@@ -33,6 +33,9 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
       - name: Depoly
         run: |
+          # debug
+          ssh -T git@github.com -vvv
+
           REVISION_ID=$(git rev-parse HEAD | cut -c 1-8)
           git config --global user.email "richellin7@gmail.com"
           git config --global user.name "richellin"
