@@ -31,22 +31,16 @@ jobs:
           mkdir -p ~/.ssh && chmod 700 ~/.ssh
           echo "$KODEVOPS_BLOG_DEPLOY_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
+
+          echo "$TEST_ENTER" > ~/.ssh/id_rsa2
+          chmod 600 ~/.ssh/id_rsa2
+
       - name: Depoly
         run: |
           # debug
           # ====================================================
-          # ssh -T git@github.com -vvv
-
-          echo "debug1"
-          pwd
-          whoami
-          echo $HOME
-
-          echo "debug2"
-          cd ~ && pwd
-
-          echo "debug2"
           md5sum ~/.ssh/id_rsa
+          md5sum ~/.ssh/id_rsa2
           # ====================================================
 
 
