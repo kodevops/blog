@@ -1,0 +1,45 @@
+---
+author: kodeveloper
+date: 2024-03-21
+layout: post
+title: 제58차 고군분투기
+categories: [고군분투기]
+tags: [AI, 창업, 리눅스]
+---
+
+### 일정
+
+제목 : 제58차 Kodeveloper 고군분투기  
+일시 : 2024년3월21일(목) 19시 ~ 21시 (18시 30분부터 접수)  
+장소 : Google Japan Inc.  
+주소 : 東京都渋谷区渋谷三丁目21番3号 渋谷ストリーム 5F  
+
+### 발표자
+
+**이대범(@daebum-lee): 생성형 AI 입문**  
+**길마로(@Maro Gil): 일본에서 스타트업 창업하기**  
+**문상환(@fish): 가상 머신을 이용한 리눅스 커널 개발 환경 구축 및 실험기**  
+
+---
+**이대범(@daebum-lee): 생성형 AI 입문**
+![](/img/struggle/57-62/58_2.PNG)
+[발표 자료 링크](https://docs.google.com/presentation/d/11Bb5SuyqN1ZIyHTM1BvNg9qI8PmycxCZneaPy5YpIGU/edit?usp=sharing)
+
+---
+**길마로(@Maro Gil): 일본에서 스타트업 창업하기**
+![](/img/struggle/57-62/58_3.PNG)
+[발표 자료 링크](https://www.canva.com/design/DAGAHlhJjPU/BrqO5raAkfyGxHaRFhvc8w/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+**문상환(@fish): 가상 머신을 이용한 리눅스 커널 개발 환경 구축 및 실험기**
+![](/img/struggle/57-62/58_4.PNG)
+[발표 자료 링크](https://bit.ly/crosvm-linux)
+
+### 사진
+
+![](/img/struggle/57-62/58_5.PNG)
+![](/img/struggle/57-62/58_1.PNG)
+
+### 후원
+
+Google Japan Inc.

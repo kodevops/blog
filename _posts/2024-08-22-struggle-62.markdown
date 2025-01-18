@@ -1,0 +1,38 @@
+---
+author: kodeveloper
+date: 2024-08-22
+layout: post
+title: 제62차 고군분투기
+categories: [고군분투기]
+tags: [1인개발, flutter, chatgpt]
+---
+
+### 일정
+
+**제목 : 제62차 Kodeveloper 고군분투기**  
+**일시 : 2024년8월22일(목) 20시 ~ 22시 (19시 30분부터 접수)**  
+**장소 : リンクス株式会社**  
+**주소 : 〒105-0001東京都港区虎ノ門４丁目１−４０ 江戸見坂森ビル8F**  
+
+### 발표자
+
+**이상준님 (@sangjun): 一人で最新技術ブログまとめサイトを開発した話**  
+**장은수님 (@Eunsu Jang): Flutter初心者がChatGPTと一緒にFlutterアプリを作ってみた話**  
+
+---
+**이상준님 (@sangjun): 一人で最新技術ブログまとめサイトを開発した話**
+
+---
+**장은수님 (@Eunsu Jang): Flutter初心者がChatGPTと一緒にFlutterアプリを作ってみた話**  
+
+### 사진
+
+![](/img/struggle/57-62/62_1.PNG)
+![](/img/struggle/57-62/62_2.PNG)
+![](/img/struggle/57-62/62_3.PNG)
+![](/img/struggle/57-62/62_4.PNG)
+![](/img/struggle/57-62/62_5.PNG)
+
+### 후원
+
+リンクス株式会社

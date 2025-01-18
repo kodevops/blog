@@ -1,0 +1,42 @@
+---
+author: kodeveloper
+date: 2024-04-18
+layout: post
+title: 제59차 고군분투기
+categories: [고군분투기]
+tags: [집, 스크럼, 도커]
+---
+
+### 일정
+
+제목 : 제59차 Kodeveloper 고군분투기  
+일시 : 2024년4월18일(목) 20시 ~ 22시 (19시 30분부터 접수)  
+장소 : freee K.K.  
+주소 : 〒141-0032 東京都品川区大崎１丁目２−２アートヴィレッジ大崎セントラルタワー19F  
+
+### 발표자
+
+**김형철 (@Yoda / Hyungcheol Kim): 집(or 차) 구매에 대해서**  
+**서일구 (@ILGU SEO): Scrum**  
+**김범녕 (@김범녕): 도커 크로스 플랫폼 빌드**  
+
+---
+**김형철 (@Yoda / Hyungcheol Kim): 집(or 차) 구매에 대해서**  
+![](/img/struggle/57-62/59_3.jpeg)
+
+---
+**서일구 (@ILGU SEO): Scrum**  
+![](/img/struggle/57-62/59_4.jpeg)
+
+---
+**김범녕 (@김범녕): 도커 크로스 플랫폼 빌드**  
+![](/img/struggle/57-62/59_2.PNG)
+
+### 사진
+
+![](/img/struggle/57-62/59_5.PNG)
+![](/img/struggle/57-62/59_1.PNG)
+
+### 후원
+
+freee K.K.  

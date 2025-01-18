@@ -1,0 +1,38 @@
+---
+author: kodeveloper
+date: 2024-05-23
+layout: post
+title: 제60차 고군분투기
+categories: [고군분투기]
+tags: [AI, 엔지니어링 매니저]
+---
+
+### 일정
+
+제목 : 제60차 Kodeveloper 고군분투기  
+일시 : 2024년5월23일(목) 20시 ~ 22시 (19시 30분부터 접수)  
+장소 : KINTO Technologies Corporation  
+주소 : 〒103-0022 東京都中央区日本橋室町2-3-1 室町古河三井ビルディング(COREDO室町2) 16F  
+
+### 발표자
+
+**장은수님 (@Eunsu Jang): 엔지니어링 매니저의 역할 part 2**  
+**이활석님 : The Ecosystem of LLMs from a Real-World Perspective / Upstage**  
+**KTC会社紹介**  
+
+---
+**장은수님 (@Eunsu Jang): 엔지니어링 매니저의 역할 part 2**  
+![](/img/struggle/57-62/60_3.jpg)
+
+---
+**이활석님 : The Ecosystem of LLMs from a Real-World Perspective / Upstage**  
+![](/img/struggle/57-62/60_1.jpeg)
+
+### 사진
+
+![](/img/struggle/57-62/60_2.jpeg)
+
+### 후원
+
+KINTO Technologies Corporation    
+Upstage  

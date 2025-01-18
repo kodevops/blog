@@ -1,0 +1,35 @@
+---
+author: kodeveloper
+date: 2024-07-18
+layout: post
+title: 제61차 고군분투기
+categories: [고군분투기]
+tags: [AI, serverless]
+---
+
+### 일정
+
+**제목 : 제61차 Kodeveloper 고군분투기**  
+**일시 : 2024년7월18일(목) 20시 ~ 22시 (19시 30분부터 접수)**  
+**장소 : IBM Japan**  
+**주소 : 〒103-8510 東京都中央区日本橋箱崎町１９−２１**  
+
+### 발표자
+
+**내컴에서 돌려보는 생성형 ai @김범녕**  
+**serverless 설계와 운영 관련 테마 @설영래**  
+
+---
+**내컴에서 돌려보는 생성형 ai @김범녕**  
+
+---
+**serverless 설계와 운영 관련 테마 @설영래**  
+![](/img/struggle/57-62/61_1.jpeg)
+
+### 사진
+
+![](/img/struggle/57-62/61_2.jpeg)
+
+### 후원
+
+IBM Japan
