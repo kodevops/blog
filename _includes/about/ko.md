@@ -5,8 +5,8 @@ kodeveloper(일본에서 일하는 한국인 개발자 모임) 입니다.
 개발자 모임이지만 다양한 분야에서 일하시는 분들이 모여 다양한 정보를 공유하고 있습니다.  
 서로 정보 교환, 상담, 교류 해요.  
 
+* **채팅(슬랙) 참가에는 초대가 필요합니다. *[링크](https://goo.gl/5czniN)* 에서 진행해 주세요.**  
 * 채팅(슬랙) : [https://kodevelopers.slack.com](https://kodevelopers.slack.com)  
-**슬랙 가입을 원하시는 분은 *[여기](https://goo.gl/5czniN)* 에서 가입해 주세요.**  
 * Facebook Group : [https://www.facebook.com/groups/kodeveloper/](https://www.facebook.com/groups/kodeveloper/)
 
 ### 미션
