@@ -4,7 +4,7 @@ date: 2025-04-16
 layout: post
 title: 제63차 고군분투기
 categories: [고군분투기]
-tags: [1인개발, ai]
+tags: [ai, 집인프라, 1인개발]
 ---
 
 ### 일정
@@ -18,14 +18,15 @@ tags: [1인개발, ai]
 - 알아서 웹 검색하고 대답하는 AI에이전트 만들기 - OpenAI Agents SDK 핸즈온
 - "AI 개발툴 4대장" Cursor/Cline/Claude Code/Devin을 모두 실무에 사용해보고 느낀점/사용팁
 
-**김범녕님 (@김범녕): 클라우드 탈출기: 내 방이 가장 저렴했다**
+[장은수님 발표자료 링크](https://drive.google.com/file/d/1MKGdEZduMGd4HzMsRbzRvhzPv2NWP_QA/view?usp=sharing){:target="_blank"}
 
-### 참가신청
-[참가신청](https://forms.gle/9BLrTnea53xgTYzi6)은 여기에서!  
-세부내용은 슬랙을 통해서 공지됩니다. [슬랙에 참여해주세요!](https://goo.gl/5czniN)
+**김범녕님 (@김범녕): 클라우드 탈출기: 내 방이 가장 저렴했다**  
+[김범녕님 발표자료 링크](https://docs.google.com/presentation/d/1COcmjNb0g3ny4sBxAphS5nzuShy8r55nnaZ8SK9Sc0k/edit?usp=sharing){:target="_blank"}
 
 ### 사진
-이벤트 후 공개 예정  
+![](/img/struggle/63/1.jpg)
+![](/img/struggle/63/2.jpg)
+![](/img/struggle/63/all.jpg)
 
 ### 도와주신 분
 발표: 장은수님, 김범녕님  
