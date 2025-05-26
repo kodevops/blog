@@ -1,0 +1,78 @@
+active:
+  - name: "LEE SANGJUN"
+    image: "images/staff-avatar-sangjun.jpeg"
+    description: "서비스를 만드는데 필요한 기술 및 사례에 관심이 많아서 이것저것 보고, 듣고, 배우고 있습니다. 생각보다는 행동으로 현재 무수히 많은 점들을 찍기 위해 노력하고 있는중이며, 언젠간 찍은 점들이 하나의 선으로 연결 돼서 사람들에게 도움이 되는 서비스를 만들어 나가는게 작은 꿈입니다."
+    social:
+      email: "richellin7@gmail.com"
+      facebook: "https://www.facebook.com/richellin7"
+      github: "https://richellin.github.com"
+
+  - name: "LEE DAEBUM"
+    image: "images/staff-avatar-daebum.jpeg"
+    description: "Kodeveloper에서 많은 점을 찍고 있는 이대범이라고 합니다. 일본에서 일하고 있는 개발자 커뮤니티에서 만나는 분들에게 항상 많이 배우고 느끼고 있습니다. 저 혼자 배우고 느끼는 것에서 끝나지 않고 많은 분들에게 공유되도록 고군분투하고 있습니다. 고군분투기에서 만나요 여러분 :)"
+    social:
+      email: "deabum1[@]지메일.컴"
+      facebook: "https://www.facebook.com/daebum.lee.0712"
+      github: "https://github.com/BoomLEE"
+
+  - name: "KIM HYUNGCHEOL"
+    image: "images/staff-avatar-yoda.png"
+    description: "May the force be with you"
+    social:
+      email: "applytothe@gmail.com"
+      github: "https://github.com/buzzricksons"
+
+  - name: "KIM BUMNYEONG"
+    image: "images/staff-avatar-bumnyeong.jpg"
+    description: "안녕하세요! 김범녕이라고합니다. 이것저것(?) 개발하고있습니다. 잘부탁드립니다!!!!"
+    social:
+      email: "kimjoin2@gmail.com"
+      github: "https://github.com/kimjoin2"
+
+  - name: "JEONG WOOHYEON"
+    image: "images/staff-avatar-woohyeon.jpg"
+    description: "안녕하세요. 정우현 합니다. 움직이는 것을 좋아합니다. 많이 뛰고 많이 먹고 많이 움직입니다. 잘부탁드립니다."
+    social:
+      email: "whtrade7290@gmail.com"
+      github: "https://github.com/whtrade7290"
+
+  - name: "JANG EUNSU"
+    image: "images/staff-avatar-unsu.png"
+    description: "스타트업에서 GenAI/LLM 영역의 Lead Software Engineer로 새로운 도전을 하고 있습니다. AI 구동개발에 대해 관심있으신 분들 함께 정보 공유 해요!"
+    social:
+      email: "unsu0707@gmail.com"
+      github: "https://github.com/unsu0707"
+      linkedin: "https://www.linkedin.com/in/eunsu-jang-7a6b38169"
+
+inactive:
+  - name: "HAN ERI"
+    image: "images/staff-avatar-haneri.png"
+    description: "I'm an IBMer!"
+    social:
+      linkedin: "https://www.linkedin.com/in/haneri"
+
+  - name: "KIM SUNGWOOK"
+    image: "images/staff-avatar-sungwook.png"
+    description: "'status': 'Web Developer Freelance_beginner', 'photo&video creator'"
+    social:
+
+  - name: "KIM HYEMI"
+    image: "images/staff-avatar-hyemi.jpg"
+    description: "김혜미라고 합니다. 여기저기 기웃거리기를 좋아합니다. 잘부탁드립니다."
+    social:
+      email: "hyemikim0720@gmail.com"
+      github: "https://github.com/hyemikim0720"
+
+  - name: "JEON CHUNG"
+    image: "images/staff-avatar-chung.jpg"
+    description: "안녕하세요. 전청이라고 합니다. 취미가 많아 쓸데없이 바쁜 오타쿠입니다. 잘부탁드립니다!"
+    social:
+      email: "ichung91@naver.com"
+      github: "https://github.com/C4stleB"
+
+  - name: "JUN MINSOO"
+    image: "images/staff-avatar-manggu.jpeg"
+    description: "오늘도 어디선가 한삽 깊게 뜨고 있습니다."
+    social:
+      github: "https://github.com/minsoo-jun"
+      facebook: "https://www.facebook.com/minsoo.jun"
