@@ -1,0 +1,57 @@
+<li>
+  <div class="cbp_tmlabel">
+    <h2 id="boxoffice">{{ include.member.name }}</h2>
+    <img src="{{ include.member.image }}" style="width: 90%; aspect-ratio: 1/1; object-fit: cover; margin: 0 auto; display: block;">
+    <ul>
+      <li>
+        {{ include.member.description }}
+      </li>
+      {% if include.member.social %}
+      <li class="skill">
+        <ul class="list-inline text-right">
+          {% if include.member.social.email and include.member.social.email contains '@' and include.member.social.email contains '.' %}
+          <li>
+            <a href="mailto:{{ include.member.social.email }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if include.member.social.facebook %}
+          <li>
+            <a target="_blank" href="{{ include.member.social.facebook }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if include.member.social.github %}
+          <li>
+            <a target="_blank" href="{{ include.member.social.github }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          {% if include.member.social.linkedin %}
+          <li>
+            <a target="_blank" href="{{ include.member.social.linkedin }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</li>
