@@ -1,0 +1,47 @@
+---
+author: kodeveloper
+date: 2025-07-24
+layout: post
+title: 제64차 고군분투기
+categories: [고군분투기]
+tags: [AI, AI Agent, Vibe Coding, 신규개발]
+---
+
+![](/img/struggle/64/title.png)
+
+### 일정
+
+제목 : 제64차 Kodeveloper 고군분투기  
+일시 : 2025년7월24일(수) 20시 ~ 22시 (19시 15분부터 접수)  
+장소 : Abema Towers (住友不動産渋谷タワー) 10층  
+주소 : 〒150-0042 東京都渋谷区宇田川町４０−１ 住友不動産渋谷タワー  
+
+### 발표자
+
+**1. Seungyoun Yi: Agentic Flow** - [자료](https://drive.google.com/file/d/1Dhi7uqxHUIjhWDUvvMJu7WyLL_Bn1u4w/view?usp=drive_link)
+
+![](/img/struggle/64/Seungyoun-Yi.png)
+
+---
+
+**2. Joonyoung Yoon: 나 혼자 신규 서비스 개발(Front + Back + Infra)을 담당하게 되어 Vibe Coding 도입해봤지만 폭망한건에 대하여** - [자료](https://drive.google.com/file/d/1RH3rUzAFYOlMSuTjKqGPnYjorbFC1MSy/view?usp=drive_link)
+
+![](/img/struggle/64/Joonyoung-Yoon.png)
+
+---
+
+**3. Eunsu Jang: toB SaaS에 도입한 AI Agent 기능개발 고군분투기** - [자료](https://drive.google.com/file/d/1NQRD41aFX6VtY8a_AxskgwGVLIcP6A6p/view?usp=drive_link)
+
+![](/img/struggle/64/Eunsu-Jang.png)
+
+---
+
+### 사진
+![](/img/struggle/64/1.jpg)
+![](/img/struggle/64/2.jpg)
+![](/img/struggle/64/3.jpg)
+![](/img/struggle/64/all.jpg)
+
+### 후원
+
+株式会社サイバーエージェント(@깜모)
