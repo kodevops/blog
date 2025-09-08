@@ -25,7 +25,7 @@ linkedin_group: https://www.linkedin.com/groups/14604820
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor","script","docs"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","AGENTS.md","vendor","script","docs"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN
@@ -37,6 +37,12 @@ anchorjs: true                          # if you want to customize anchor. check
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
+
+
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
 
 
 
