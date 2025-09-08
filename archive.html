@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: Events
 layout: default
 description: 고군분투기
 header-img: "img/tag-bg.jpg"
@@ -15,9 +15,40 @@ https://github.com/kitian616/jekyll-TeXt-theme
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			<!-- Tags (as filter) -->
-			<div id='tag_cloud' class="tags tags-sup js-tags">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <!-- Upcoming Events -->
+            <h2>Upcoming (예정된 고군분투기)</h2>
+            {% assign now_epoch = site.time | date: '%s' %}
+            {% assign now_epoch_i = now_epoch | plus: 0 %}
+            {% assign sorted_events = site.events | sort: 'event_date' %}
+            {% assign has_upcoming = false %}
+            {% for e in sorted_events %}
+              {% if e.event_date %}
+                {% assign event_epoch = e.event_date | date: '%s' %}
+                {% assign event_epoch_i = event_epoch | plus: 0 %}
+                {% assign event_end_epoch = event_epoch_i | plus: 86400 %}
+                {% if event_end_epoch >= now_epoch_i %}
+                {% assign has_upcoming = true %}
+                <div class="post-preview">
+                  <a href="{{ e.url | prepend: site.baseurl }}">
+                    <h3 class="post-title">{{ e.title }}</h3>
+                  </a>
+                  <p>
+                    <strong>Date:</strong> {{ e.event_date | date: '%Y-%m-%d %H:%M' }}
+                    {% if e.location %} &middot; <strong>Location:</strong> {{ e.location }}{% endif %}
+                  </p>
+                  <hr>
+                </div>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            {% unless has_upcoming %}
+              <p>등록된 예정 이벤트가 없습니다.</p>
+            {% endunless %}
+
+            <h2>Past (개최된 고군분투기)</h2>
+            <!-- Tags (as filter) -->
+            <div id='tag_cloud' class="tags tags-sup js-tags">
 				<a class="tag-button--all" data-encode="">
 					Show All
 					<sup>{{site.posts.size}}</sup>
