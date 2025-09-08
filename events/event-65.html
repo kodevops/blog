@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>제65차 Kodeveloper 고군분투기 LT회</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans KR', 'Noto Sans JP', sans-serif;
+            background: #f8f9fa;
+            min-height: 100vh;
+            color: #333;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        body.ja {
+            font-family: 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+        }
+
+        .language-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            display: flex;
+            background: white;
+            border-radius: 50px;
+            padding: 5px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .lang-btn {
+            padding: 10px 20px;
+            border: none;
+            background: transparent;
+            color: #666;
+            font-weight: 700;
+            cursor: pointer;
+            border-radius: 45px;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+
+        .lang-btn.active {
+            background: linear-gradient(135deg, #5B9BD5, #4A8BC2);
+            color: white;
+        }
+
+        .lang-content {
+            display: none;
+        }
+
+        .lang-content.active {
+            display: block;
+        }
+
+        .hero-section {
+            position: relative;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            overflow: visible;
+            background: transparent;
+        }
+
+        .floating-illustration {
+            position: absolute;
+            opacity: 0.8;
+            animation: float 6s ease-in-out infinite;
+            z-index: 2;
+        }
+
+        .background-illustration {
+            position: absolute;
+            opacity: 0.3;
+            z-index: 0;
+            width: 100%;
+            height: auto;
+        }
+
+        .bg-top {
+            top: 0;
+            left: 0;
+            width: 100%;
+        }
+
+        .bg-bottom {
+            bottom: 0;
+            left: 0;
+            width: 100%;
+        }
+
+        .float-1 {
+            top: 10%;
+            left: 5%;
+            width: 80px;
+            animation-delay: 0s;
+        }
+
+        .float-2 {
+            top: 60%;
+            right: 8%;
+            width: 90px;
+            animation-delay: 2.5s;
+        }
+
+        .float-3 {
+            top: 15%;
+            right: 15%;
+            width: 85px;
+            animation-delay: 1s;
+        }
+
+        .float-4 {
+            bottom: 25%;
+            left: 10%;
+            width: 75px;
+            animation-delay: 3s;
+        }
+
+        .float-5 {
+            top: 45%;
+            left: 3%;
+            width: 80px;
+            animation-delay: 4s;
+        }
+
+        .float-6 {
+            top: 30%;
+            right: 5%;
+            width: 100px;
+            animation-delay: 1.5s;
+        }
+
+        .float-7 {
+            bottom: 15%;
+            right: 12%;
+            width: 95px;
+            animation-delay: 2s;
+        }
+
+        .float-8 {
+            bottom: 35%;
+            left: 15%;
+            width: 90px;
+            animation-delay: 3.5s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) rotate(0deg) scale(1);
+            }
+            33% {
+                transform: translateY(-10px) rotate(1deg) scale(1.02);
+            }
+            66% {
+                transform: translateY(10px) rotate(-1deg) scale(0.98);
+            }
+        }
+
+        .main-container {
+            position: relative;
+            z-index: 10;
+            max-width: 1200px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .event-header {
+            background: linear-gradient(135deg, #4A3B8C 0%, #2E2456 100%);
+            border-radius: 20px;
+            padding: 3rem;
+            box-shadow: 0 15px 35px rgba(74, 59, 140, 0.3);
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+            color: white;
+        }
+
+        .badge-korean {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 0.5rem 1.5rem;
+            border-radius: 25px;
+            font-size: 1rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .event-subtitle {
+            font-size: 1.2rem;
+            color: rgba(255, 255, 255, 0.9);
+            margin-bottom: 1rem;
+        }
+
+        .event-title {
+            font-size: 4rem;
+            font-weight: 900;
+            color: white;
+            margin: 1rem 0;
+            line-height: 1.2;
+        }
+
+        .event-title .highlight {
+            color: #FFD700;
+            display: inline-block;
+            position: relative;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .event-number {
+            display: inline-flex;
+            align-items: baseline;
+            font-size: 3rem;
+            color: #5B9BD5;
+            font-weight: 900;
+            margin: 1rem 0;
+        }
+
+        .event-number .th {
+            font-size: 1.5rem;
+            margin-left: 0.2rem;
+        }
+
+        .event-info {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            color: #333;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+            font-size: 1.2rem;
+        }
+
+        .info-icon {
+            width: 40px;
+            height: 40px;
+            background: #E91E63;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            margin-right: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .location-detail {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 0.5rem;
+        }
+
+        .content-section {
+            background: white;
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .section-title {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #2E2456;
+            margin-bottom: 2rem;
+            text-align: center;
+            position: relative;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 4px;
+            background: linear-gradient(90deg, #5B9BD5, #E91E63);
+            border-radius: 2px;
+        }
+
+        .speakers-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 1024px) {
+            .speakers-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .speaker-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 15px;
+            padding: 1.5rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .speaker-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, #5B9BD5, #E91E63);
+        }
+
+        .speaker-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-color: #5B9BD5;
+        }
+
+        .speaker-number {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #5B9BD5;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 40px;
+            font-weight: 700;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .speaker-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #2E2456;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+
+        .speaker-name {
+            font-size: 0.9rem;
+            color: #666;
+            font-weight: 400;
+        }
+
+        .timeline-container {
+            margin-top: 2rem;
+        }
+
+        .timeline-item {
+            display: flex;
+            align-items: center;
+            padding: 1rem;
+            margin-bottom: 0.5rem;
+            background: #F8F8F8;
+            border-radius: 10px;
+            transition: background 0.3s ease;
+        }
+
+        .timeline-item:hover {
+            background: #F0F0F0;
+        }
+
+        .timeline-time {
+            font-weight: 700;
+            color: #5B9BD5;
+            min-width: 120px;
+            font-size: 1rem;
+        }
+
+        .timeline-content {
+            flex: 1;
+            font-size: 1rem;
+            color: #444;
+        }
+
+        .notice-box {
+            background: linear-gradient(135deg, #FFF3E0 0%, #FFE0B2 100%);
+            border-left: 4px solid #FF9800;
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+        }
+
+        .notice-title {
+            font-weight: 700;
+            color: #E65100;
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+
+        .notice-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .notice-list li {
+            padding: 0.5rem 0;
+            color: #666;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        .notice-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #FF9800;
+            font-weight: 700;
+        }
+
+        .sponsor-box {
+            background: linear-gradient(135deg, #E8F5E9 0%, #C8E6C9 100%);
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+
+        .sponsor-label {
+            font-size: 0.9rem;
+            color: #2E7D32;
+            margin-bottom: 0.5rem;
+        }
+
+        .sponsor-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1B5E20;
+        }
+
+        .description-text {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #444;
+            margin: 1rem 0;
+        }
+
+        .cta-section {
+            text-align: center;
+            padding: 3rem;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+            margin-bottom: 3rem;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #5B9BD5 0%, #4A8BC2 100%);
+            color: white;
+            padding: 1rem 3rem;
+            border-radius: 50px;
+            font-size: 1.2rem;
+            font-weight: 700;
+            text-decoration: none;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin: 1rem;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(91, 155, 213, 0.3);
+        }
+
+        .cta-button.secondary {
+            background: linear-gradient(135deg, #E91E63 0%, #C2185B 100%);
+        }
+
+        .cta-button.secondary:hover {
+            box-shadow: 0 10px 20px rgba(233, 30, 99, 0.3);
+        }
+
+        .footer-section {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            background: white;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .website-link {
+            color: #5B9BD5;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .website-link:hover {
+            color: #E91E63;
+        }
+
+        @media (max-width: 768px) {
+            .event-title {
+                font-size: 2.5rem;
+            }
+
+            .event-number {
+                font-size: 2rem;
+            }
+
+            .floating-illustration {
+                width: 60px !important;
+            }
+
+            .background-illustration {
+                opacity: 0.2;
+            }
+
+            .speakers-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .event-header,
+            .content-section {
+                padding: 2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .speakers-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+        }
+
+        .pulse-animation {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.7;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Background large illustration at top -->
+    <img src="isometric3.png" alt="Developer Life" class="background-illustration bg-top">
+    
+    <div class="language-toggle">
+        <button class="lang-btn" onclick="setLanguage('ko')">한국어</button>
+        <button class="lang-btn active" onclick="setLanguage('ja')">日本語</button>
+    </div>
+    <div class="hero-section">
+        
+        <!-- Floating small illustrations -->
+        <img src="isometric0.png" alt="Tokyo Tower" class="floating-illustration float-1">
+        <img src="isometric0.png" alt="Tokyo Tower" class="floating-illustration float-2">
+        <img src="isometric1.png" alt="Sky Tree" class="floating-illustration float-3">
+        <img src="isometric1.png" alt="Sky Tree" class="floating-illustration float-4">
+        <img src="isometric1.png" alt="Sky Tree" class="floating-illustration float-5">
+        <img src="isometric2.png" alt="Japanese Culture" class="floating-illustration float-6">
+        <img src="isometric2.png" alt="Japanese Culture" class="floating-illustration float-7">
+        <img src="isometric2.png" alt="Japanese Culture" class="floating-illustration float-8">
+
+        <div class="main-container">
+            <div class="event-header">
+                <div class="lang-content ko">
+                    <div class="badge-korean">한국어 개최</div>
+                    <div class="event-subtitle">여름 자유연구 대발표회</div>
+                    <h1 class="event-title">
+                        고군분투기<br>
+                        <span class="highlight">LT회</span>
+                    </h1>
+                </div>
+                <div class="lang-content ja active">
+                    <div class="badge-korean">韓国語開催</div>
+                    <div class="event-subtitle">夏の自由研究大発表会</div>
+                    <h1 class="event-title">
+                        孤軍奮闘記<br>
+                        <span class="highlight">LT会</span>
+                    </h1>
+                </div>
+                <div class="event-number">65<span class="th">th</span></div>
+                
+                <div class="event-info">
+                    <div class="info-item">
+                        <div class="info-icon">📅</div>
+                        <div class="lang-content ko">
+                            <strong>2025년 9월 18일</strong> (목요일)
+                            <div class="location-detail">접수: 18:30부터</div>
+                        </div>
+                        <div class="lang-content ja active">
+                            <strong>2025年9月18日</strong> (木曜日)
+                            <div class="location-detail">受付: 18:30から</div>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">🕐</div>
+                        <div>
+                            <strong>19:00 - 21:00</strong> (JST)
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">📍</div>
+                        <div>
+                            <strong>WeWork LINK SQUARE SHINJUKU</strong>
+                            <div class="location-detail lang-content ko">東京都渋谷区千駄ヶ谷5-27-5 リンクスクエア新宿 16F</div>
+                            <div class="location-detail lang-content ja active">東京都渋谷区千駄ヶ谷5-27-5 リンクスクエア新宿 16F</div>
+                            <a href="https://www.google.com/maps/search/?api=1&query=WeWork+%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%96%B0%E5%AE%BF" target="_blank" class="website-link">
+                                <span class="lang-content ko">📍 지도 보기</span>
+                                <span class="lang-content ja active">📍 地図を見る</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">💰</div>
+                        <div>
+                            <span class="lang-content ko"><strong>무료</strong></span>
+                            <span class="lang-content ja active"><strong>無料</strong></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <h2 class="section-title">
+                    <span class="lang-content ko">발표 세션</span>
+                    <span class="lang-content ja active">発表セッション</span>
+                </h2>
+                <div class="speakers-grid">
+                    <div class="speaker-card">
+                        <div class="speaker-number">1</div>
+                        <div class="lang-content ko">
+                            <div class="speaker-title">IoT 스마트홈 고군분투기</div>
+                            <div class="speaker-name">Hyungcheol Kim</div>
+                        </div>
+                        <div class="lang-content ja active">
+                            <div class="speaker-title">IoTスマートホーム化の奮闘記</div>
+                            <div class="speaker-name">Hyungcheol Kim</div>
+                        </div>
+                    </div>
+                    <div class="speaker-card">
+                        <div class="speaker-number">2</div>
+                        <div class="lang-content ko">
+                            <div class="speaker-title">AI로 숏폼영상 생성 자동화해본 이야기</div>
+                            <div class="speaker-name">Eunsu Jang</div>
+                        </div>
+                        <div class="lang-content ja active">
+                            <div class="speaker-title">AIでショート動画生成自動化してみた話</div>
+                            <div class="speaker-name">Eunsu Jang</div>
+                        </div>
+                    </div>
+                    <div class="speaker-card">
+                        <div class="speaker-number">3</div>
+                        <div class="lang-content ko">
+                            <div class="speaker-title">집에서 놀고있는 그래픽카드로 Ollama 활용해본 이야기</div>
+                            <div class="speaker-name">Bumnyeong Kim</div>
+                        </div>
+                        <div class="lang-content ja active">
+                            <div class="speaker-title">家で眠っているグラボでOllama(Local LLM)を活用してみた</div>
+                            <div class="speaker-name">Bumnyeong Kim</div>
+                        </div>
+                    </div>
+                    <div class="speaker-card">
+                        <div class="speaker-number">4</div>
+                        <div class="lang-content ko">
+                            <div class="speaker-title">Rust 모바일개발 고군분투기</div>
+                            <div class="speaker-name">Jaesung Moon</div>
+                        </div>
+                        <div class="lang-content ja active">
+                            <div class="speaker-title">Rustモバイル開発奮闘記</div>
+                            <div class="speaker-name">Jaesung Moon</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <h2 class="section-title">
+                    <span class="lang-content ko">타임라인</span>
+                    <span class="lang-content ja active">タイムライン</span>
+                </h2>
+                <div class="timeline-container">
+                    <div class="timeline-item">
+                        <div class="timeline-time">19:00 - 19:10</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">이벤트 안내</span>
+                            <span class="lang-content ja active">イベント案内</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-time">19:10 - 19:20</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">발표 1: AI로 숏폼영상 생성 자동화해본 이야기 (장은수 님)</span>
+                            <span class="lang-content ja active">発表 1: AIでショート動画生成自動化してみた話 (Eunsu Jang)</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-time">19:20 - 19:40</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">발표 2: IoT 스마트홈 고군분투기 (김형철 님)</span>
+                            <span class="lang-content ja active">発表 2: IoTスマートホーム化の奮闘記 (Hyungcheol Kim)</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-time">19:40 - 20:00</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">발표 3: 집에서 놀고있던 그래픽카드로 Ollama 활용해본 이야기 (김범녕 님)</span>
+                            <span class="lang-content ja active">発表 3: 家で眠っていたグラボでOllama(Local LLM)を活用してみた (Bumnyeong Kim)</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-time">20:00 - 20:20</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">발표 4: Rust 모바일개발 고군분투기 (문재성 님)</span>
+                            <span class="lang-content ja active">発表 4: Rustモバイル開発奮闘記 (Jaesung Moon)</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-time">20:20 - 20:30</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">장소 제공 LAPRAS 소개</span>
+                            <span class="lang-content ja active">会場提供LAPRAS紹介</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-time">20:30 - 21:00</div>
+                        <div class="timeline-content">
+                            <span class="lang-content ko">커뮤니케이션, 정리 및 퇴장</span>
+                            <span class="lang-content ja active">懇親会、片付け及び退場</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <h2 class="section-title">About Kodeveloper</h2>
+                <div class="lang-content ko">
+                    <div class="description-text">
+                        Kodeveloper의 「고군분투기 LT회」는 일본에서 일하는 한국인 IT 종사자들이 새로운 기술・업무・취미・일본에서의 생활에서 얻은 경험을 공유하는 플랫폼입니다. 
+                        서로에게 자극이 되고 성장할 수 있도록 목표로 하고 있습니다.
+                    </div>
+                    <div class="description-text">
+                        매월 개최되는 이 모임에서는 다양한 주제의 라이트닝 토크를 통해 지식을 나누고, 
+                        네트워킹을 통해 새로운 인연을 만들어가고 있습니다.
+                    </div>
+                </div>
+                <div class="lang-content ja active">
+                    <div class="description-text">
+                        Kodeveloperの「孤軍奮闘記LT会」は、日本で働く韓国人IT従事者が新しい技術・業務・趣味・日本での生活で得た経験を共有するプラットフォームです。
+                        お互いに刺激を与え、成長できることを目標としています。
+                    </div>
+                    <div class="description-text">
+                        毎月開催されるこの集まりでは、様々なテーマのライトニングトークを通じて知識を分かち合い、
+                        ネットワーキングを通じて新しいご縁を作っています。
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-section">
+                <h2 class="section-title">
+                    <span class="lang-content ko">알아두시면 좋아요!</span>
+                    <span class="lang-content ja active">お知らせ</span>
+                </h2>
+                <div class="notice-box">
+                    <div class="notice-title">
+                        <span class="lang-content ko">👍 참가자 안내</span>
+                        <span class="lang-content ja active">👍 参加者へのお知らせ</span>
+                    </div>
+                    <ul class="notice-list">
+                        <li>
+                            <span class="lang-content ko"><strong>명함 교환</strong>: 명함이 있으신 분들은 넉넉히 챙겨오세요!</span>
+                            <span class="lang-content ja active"><strong>名刺交換</strong>: 名刺をお持ちの方はたくさんお持ちください！</span>
+                        </li>
+                        <li>
+                            <span class="lang-content ko"><strong>나눔과 공유</strong>: 스티커나 추천하고 싶은 책을 가져오셔서 자유롭게 나눠주세요.</span>
+                            <span class="lang-content ja active"><strong>シェアと共有</strong>: ステッカーやおすすめの本を持ってきて自由にシェアしてください。</span>
+                        </li>
+                        <li>
+                            <span class="lang-content ko"><strong>사진 촬영 안내</strong>: 행사 당일 촬영된 사진은 Kodeveloper 커뮤니티 SNS에 게시될 수 있습니다. 얼굴 공개를 원치 않으시면 스태프에게 말씀해주세요.</span>
+                            <span class="lang-content ja active"><strong>写真撮影のお知らせ</strong>: イベント当日に撮影された写真はKodeveloperコミュニティSNSに投稿される可能性があります。顔出しを望まない方はスタッフにお伝えください。</span>
+                        </li>
+                        <li>
+                            <span class="lang-content ko"><strong>신청 마감</strong>: 2025년 8월 16일 (화) 23:59:59 (인원 제한으로 조기 마감될 수 있습니다)</span>
+                            <span class="lang-content ja active"><strong>申し込み締切</strong>: 2025年8月16日(火) 23:59:59 (人数制限により早期締切の可能性あり)</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="sponsor-box">
+                    <div class="sponsor-label">
+                        <span class="lang-content ko">🙏 후원</span>
+                        <span class="lang-content ja active">🙏 スポンサー</span>
+                    </div>
+                    <div class="sponsor-name">LAPRAS株式会社</div>
+                    <div class="description-text">
+                        <span class="lang-content ko">WeWork 新宿의 멋진 공간을 제공해주셨습니다.</span>
+                        <span class="lang-content ja active">WeWork新宿の素敵なスペースを提供していただきました。</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta-section">
+                <h2 class="section-title">
+                    <span class="lang-content ko">참가 신청</span>
+                    <span class="lang-content ja active">参加申し込み</span>
+                </h2>
+                <div class="description-text pulse-animation">
+                    <span class="lang-content ko">🎉 발표/참가 신청 링크는 추후 공지됩니다 🎉</span>
+                    <span class="lang-content ja active">🎉 発表/参加申し込みリンクは後日お知らせします 🎉</span>
+                </div>
+                <a href="https://calendar.app.google/hYYZhGQ5L3z8vR3U9" class="cta-button" target="_blank">
+                    <span class="lang-content ko">📅 Google Calendar에 추가</span>
+                    <span class="lang-content ja active">📅 Google Calendarに追加</span>
+                </a>
+                <a href="https://goo.gl/5czniN" class="cta-button secondary" target="_blank">
+                    <span class="lang-content ko">💬 Slack 참가하기</span>
+                    <span class="lang-content ja active">💬 Slackに参加</span>
+                </a>
+            </div>
+
+            <div class="content-section">
+                <h2 class="section-title">
+                    <span class="lang-content ko">함께 만들어요!</span>
+                    <span class="lang-content ja active">一緒に作りましょう！</span>
+                </h2>
+                <div class="description-text">
+                    <span class="lang-content ko">
+                        <strong>발표 및 장소 제공</strong>: LT, 본발표나 장소 후원에 관심 있으신 분은 편하게 슬랙 <strong>@김범녕</strong>에게 연락 주세요!
+                        (이번 회차에서도 5~10분 이내의 LT 발표에 빈자리가 있습니다. 편하게 연락 주세요)
+                    </span>
+                    <span class="lang-content ja active">
+                        <strong>発表及び会場提供</strong>: LT、本発表や会場スポンサーに興味がある方はお気軽にSlack <strong>@김범녕</strong>までご連絡ください！
+                        (今回も約5~10分のLT発表枠に空きがあります。お気軽にご連絡ください)
+                    </span>
+                </div>
+                <div class="description-text">
+                    <span class="lang-content ko">
+                        <strong>스태프 모집</strong>: 커뮤니티 스태프 활동에 관심 있으신 분들도 슬랙 <strong>@김범녕</strong>에게 연락 부탁드립니다!
+                    </span>
+                    <span class="lang-content ja active">
+                        <strong>スタッフ募集</strong>: コミュニティスタッフ活動に興味がある方もSlack <strong>@김범녕</strong>までご連絡ください！
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-section">
+        <p>© 2025 Kodeveloper. All rights reserved.</p>
+        <p>Visit us at <a href="https://www.kodeveloper.com" class="website-link" target="_blank">www.kodeveloper.com</a></p>
+    </div>
+    
+    <!-- Background large illustration at bottom -->
+    <img src="isometric4.png" alt="Tech Stack" class="background-illustration bg-bottom">
+
+    <script>
+        function setLanguage(lang) {
+            // Update body class
+            if (lang === 'ja') {
+                document.body.classList.add('ja');
+            } else {
+                document.body.classList.remove('ja');
+            }
+
+            // Update button active states
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Show/hide content based on language
+            document.querySelectorAll('.lang-content').forEach(el => {
+                el.classList.remove('active');
+            });
+            document.querySelectorAll(`.lang-content.${lang}`).forEach(el => {
+                el.classList.add('active');
+            });
+
+            // Save preference
+            localStorage.setItem('preferredLanguage', lang);
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load saved language preference
+            const savedLang = localStorage.getItem('preferredLanguage') || 'ja';
+            if (savedLang === 'ja') {
+                document.body.classList.add('ja');
+                document.querySelector('.lang-btn:nth-child(2)').classList.add('active');
+                document.querySelector('.lang-btn:nth-child(1)').classList.remove('active');
+                document.querySelectorAll('.lang-content').forEach(el => {
+                    el.classList.remove('active');
+                });
+                document.querySelectorAll('.lang-content.ja').forEach(el => {
+                    el.classList.add('active');
+                });
+            }
+
+            // Animation observer
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -100px 0px'
+            };
+
+            const observer = new IntersectionObserver(function(entries) {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, observerOptions);
+
+            const animatedElements = document.querySelectorAll('.speaker-card, .content-section');
+            animatedElements.forEach(el => {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+
+            const illustrations = document.querySelectorAll('.floating-illustration');
+            illustrations.forEach((ill, index) => {
+                ill.style.animationDelay = `${index * 0.5}s`;
+            });
+        });
+    </script>
+</body>
+</html>
