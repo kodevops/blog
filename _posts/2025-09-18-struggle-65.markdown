@@ -1,0 +1,47 @@
+---
+author: kodeveloper
+date: 2025-09-18
+layout: post
+title: 제65차 고군분투기
+categories: [고군분투기]
+tags: [ollama, Local LLM, AI, Rust, Mobile]
+---
+
+![](/img/struggle/65/title.png)
+
+### 일정
+
+제목 : 제65차 Kodeveloper 고군분투기  
+일시 : 2025년9월18일(목) 19시 ~ 21시 (18시 30분부터 접수)  
+장소 : WeWork リンクスクエア新宿 16층  
+주소 : 〒151-0051 東京都渋谷区千駄ヶ谷5-27-5 リンクスクエア新宿 16F
+
+### 발표자
+
+**1. 김범녕: ollama를 활용한 로컬 LLM 실행** - [자료](https://docs.google.com/presentation/d/13a0BNcFNe_AJt-kL6pzyoMsnY8GxNw7g9eHs5ddpyvw/edit?usp=drive_link)
+
+![](/img/struggle/65/김범녕.png)
+
+---
+
+**2. 장은수: n8n으로 AI 숏폼 영상 자동생성 워크플로우 구축해본 이야기** - [자료](https://drive.google.com/file/d/12wAV8x_GlehNGFeEE_GCl1RN4_YjnpBE/view?usp=drive_link)
+
+![](/img/struggle/65/장은수.png)
+
+---
+
+**3. 문재성: Rust 모바일개발 고군분투기** - [자료](https://docs.google.com/presentation/d/1Nc-Y8K6Z64V9kLKptoEKJxisZwkjXDOQLrVelyA_v0k/edit?usp=drive_link)
+
+![](/img/struggle/65/문재성.png)
+
+---
+
+### 사진
+![](/img/struggle/65/1.jpg)
+![](/img/struggle/65/2.jpg)
+![](/img/struggle/65/3.jpg)
+![](/img/struggle/65/all.jpg)
+
+### 후원
+
+株式会社LAPRAS株式会社

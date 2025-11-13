@@ -1,0 +1,47 @@
+---
+author: kodeveloper
+date: 2025-10-20
+layout: post
+title: 제66차 고군분투기
+categories: [고군분투기]
+tags: [IoT, Multi Platform, Data Space]
+---
+
+![](/img/struggle/66/title.png)
+
+### 일정
+
+제목 : 제66차 Kodeveloper 고군분투기  
+일시 : 2025년10월20일(월) 20시 ~ 22시 (19시 30분부터 접수)  
+장소 : LINEヤフー  
+주소 : 〒102-0094 東京都千代田区紀尾井町１−２ 紀尾井タワー17階 ロッジ
+
+### 발표자
+
+**1. 김형철: IoT 고군분투기** - [자료](https://docs.google.com/presentation/d/1y9d76REi7jsJQEW3eE5Tg5r1r0xrcWNb40_QB--qLi0/edit?usp=drive_link)
+
+![](/img/struggle/66/김형철.png)
+
+---
+
+**2. 문재성: 멀티 플랫폼 개발 고군분투기** - [자료](https://docs.google.com/presentation/d/1vxD9RFX_yfBtYN21Qf3O6NJ1d14mG4B1vWf8esVeaHs/mobilepresent?slide=id.p)
+
+![](/img/struggle/66/문재성.png)
+
+---
+
+**3. 김범녕: 데이터 스페이스** - [자료](https://drive.google.com/file/d/1ipr32WD-SPOYts0b75xKogvIpRpci8z9/view?usp=drive_link)
+
+![](/img/struggle/66/김범녕.png)
+
+---
+
+### 사진
+![](/img/struggle/66/1.jpg)
+![](/img/struggle/66/2.jpg)
+![](/img/struggle/66/3.jpg)
+![](/img/struggle/66/all.jpg)
+
+### 후원
+
+LINEヤフー株式会社(@재성 문)
