@@ -44,4 +44,4 @@ tags: [ollama, Local LLM, AI, Rust, Mobile]
 
 ### 후원
 
-株式会社サイバーエージェント(@깜모)
+株式会社LAPRAS株式会社
