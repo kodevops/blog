@@ -15,13 +15,6 @@ active:
       facebook: "https://www.facebook.com/daebum.lee.0712"
       github: "https://github.com/BoomLEE"
 
-  - name: "KIM HYUNGCHEOL"
-    image: "images/staff-avatar-yoda.png"
-    description: "May the force be with you"
-    social:
-      email: "applytothe@gmail.com"
-      github: "https://github.com/buzzricksons"
-
   - name: "KIM BUMNYEONG"
     image: "images/staff-avatar-bumnyeong.jpg"
     description: "안녕하세요! 김범녕이라고합니다. 이것저것(?) 개발하고있습니다. 잘부탁드립니다!!!!"
@@ -76,3 +69,10 @@ inactive:
     social:
       github: "https://github.com/minsoo-jun"
       facebook: "https://www.facebook.com/minsoo.jun"
+
+  - name: "KIM HYUNGCHEOL"
+    image: "images/staff-avatar-yoda.png"
+    description: "May the force be with you"
+    social:
+      email: "applytothe@gmail.com"
+      github: "https://github.com/buzzricksons"
