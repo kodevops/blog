@@ -1,0 +1,50 @@
+---
+author: kodeveloper
+date: 2026-01-15
+layout: post
+title: 제67차 고군분투기
+categories: [고군분투기]
+tags: [Microkernel Architecture, Minecraft AI Bot, Developer Roadmaps]
+---
+
+![](/img/struggle/67/title.png)
+
+### 일정
+
+제목 : 제66차 Kodeveloper 고군분투기  
+일시 : 2026년01월15일(월) 20시 ~ 22시 (19시 45분부터 접수)  
+장소 : セルプロモート株式会社  
+주소 : 〒150-0002 東京渋谷区３丁目28-15 渋谷S.野口Bldg.（渋谷野口ビル）
+
+### 발표자
+
+**1. 조한규: 마이크로커널 아키텍처** - [자료](https://drive.google.com/file/d/1g9uhl185gUPEXMpQefUAgD8fwTe8ERpS/view?usp=sharing)
+
+![](/img/struggle/67/조한규-발표자료.png)
+
+---
+
+**2. 장은수: 멀티 플랫폼 개발 고군분투기** - [자료](https://drive.google.com/file/d/1up1E5a9Uspd1Yr2FPrzsHV63ZqYAvP2R/view?usp=sharing)
+
+![](/img/struggle/67/장은수-발표자료.png)
+
+---
+
+**3. 이웅희: 2026년의 생존 전략: 엔지니어를 위한 「로드맵」 활용 방법** - [자료](https://drive.google.com/file/d/18Eb4-3JDbGTfS-JgzSmII1rJEOHX6Lnx/view?usp=sharing)
+
+![](/img/struggle/67/이웅희-발표자료.png)
+
+---
+
+### 사진
+
+![](/img/struggle/67/조한규.jpg)
+![](/img/struggle/67/장은수.jpg)
+![](/img/struggle/67/이웅희.jpg)
+![](/img/struggle/67/all.jpg)
+
+더 많은 사진은 [구글 드라이브](https://drive.google.com/drive/folders/1Ga7ITdATKD61HbMVHCgREbctT_V4VT8D?usp=sharing)에서 확인해주세요~!
+
+### 후원
+
+セルプロモート株式会社(@이웅희)
