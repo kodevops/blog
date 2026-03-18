@@ -11,7 +11,7 @@ tags: [Microkernel Architecture, Minecraft AI Bot, Developer Roadmaps]
 
 ### 일정
 
-제목 : 제66차 Kodeveloper 고군분투기  
+제목 : 제67차 Kodeveloper 고군분투기  
 일시 : 2026년01월15일(월) 20시 ~ 22시 (19시 45분부터 접수)  
 장소 : セルプロモート株式会社  
 주소 : 〒150-0002 東京渋谷区３丁目28-15 渋谷S.野口Bldg.（渋谷野口ビル）
