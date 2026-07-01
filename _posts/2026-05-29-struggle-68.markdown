@@ -11,63 +11,37 @@ tags: [Authentication, AI Agent, OpenAI Codex, AI Partner]
 
 제목 : 제68차 Kodeveloper 고군분투기
 일시 : 2026년05월29일(금) 20시 ~ 22시 (19시 00분부터 접수)
-신청마감 : 2026년05월27일(수) 23:59:59 까지 (인원수 제한으로 조기 마감 될 수 있습니다)
-장소 : 一橋大学千代田キャンパス (히토츠바시대학 치요다 캠퍼스)
+장소 : 一橋大学千代田キャンパス
 주소 : 〒101-8439 東京都千代田区一ツ橋2-1-2 学術総合センター内
-지도 : [https://maps.app.goo.gl/s8bZUAR29S3bDCi4A](https://maps.app.goo.gl/s8bZUAR29S3bDCi4A)
-회비 : 0엔
 
 ### 발표자
 
-**1. 김태영님(@金太永): 회사에서 상시 로그인 기능 개발하면서 고민했던 것들** - [자료](https://docs.google.com/presentation/d/1inQqhxpxagX10k1pTT78C5Oa8YeP0eo6/edit?usp=sharing&ouid=105621833526474258418&rtpof=true&sd=true)
+**1. 김태영: 회사에서 상시 로그인 기능 개발하면서 고민했던 것들** - [자료](https://docs.google.com/presentation/d/1inQqhxpxagX10k1pTT78C5Oa8YeP0eo6/edit?usp=sharing&ouid=105621833526474258418&rtpof=true&sd=true)
+
+![](/img/struggle/68/김태영-1.jpg)
+![](/img/struggle/68/김태영-2.jpg)
 
 ---
 
-**2. 장은수님(@Eunsu Jang): Hono+OpenAI API+Codex App Server로 24시간 알아서 정보수집하고 개발 완료하는 에이전트 하네스 환경 구축해본 이야기 (仮)** - 자료 (공개 예정)
+**2. 장은수: Hono+OpenAI API+Codex App Server로 24시간 알아서 정보수집하고 개발 완료하는 에이전트 하네스 환경 구축해본 이야기 (仮)** - 자료 (공개 예정)
+
+![](/img/struggle/68/장은수-1.jpg)
+![](/img/struggle/68/장은수-2.jpg)
 
 ---
 
-**3. 윤준영님(@JoonYoung Yoon): 제로 베이스에서 AI 파트너 만들어 본 이야기** - [자료](https://drive.google.com/file/d/1eEPz_UrEqkKzmgVGlRt3NDg1gBoQPrWn/view?usp=share_link)
+**3. 윤준영: 제로 베이스에서 AI 파트너 만들어 본 이야기** - [자료](https://drive.google.com/file/d/1eEPz_UrEqkKzmgVGlRt3NDg1gBoQPrWn/view?usp=share_link)
+
+![](/img/struggle/68/윤준영-1.jpg)
+![](/img/struggle/68/윤준영-2.jpg)
 
 ---
 
 ### 사진
 
-![](/img/struggle/68/김태영-1.jpg)
-![](/img/struggle/68/김태영-2.jpg)
-![](/img/struggle/68/장은수-1.jpg)
-![](/img/struggle/68/장은수-2.jpg)
-![](/img/struggle/68/윤준영-1.jpg)
-![](/img/struggle/68/윤준영-2.jpg)
 ![](/img/struggle/68/all.jpg)
 ![](/img/struggle/68/all-2.jpg)
 
-### 순서
-
-- 19:00 ~ 20:00 접수
-- 20:00 ~ 20:10 인사 및 1분 자기소개
-- 20:10 ~ 20:30 장은수님(@Eunsu Jang) : Hono+OpenAI API+Codex App Server로 24시간 알아서 정보수집하고 개발 완료하는 에이전트 하네스 환경 구축해본 이야기 (仮)
-- 20:30 ~ 21:00 김태영님(@金太永) : 회사에서 상시 로그인 기능 개발하면서 고민했던 것들
-- 21:00 ~ 21:30 윤준영님(@JoonYoung Yoon) : 제로 베이스에서 AI 파트너 만들어 본 이야기
-- 21:40 ~ 21:55 네트워킹 및 커뮤니케이션
-- 21:55 ~ 정리 및 퇴실
-
-### 비고
-
-1. 명함 교환(명함있으신 분은 챙겨 오세요!)
-2. 스티커 및 물품(책) 공유하실 분 환영합니다!
-3. 장소 및 기타 문의사항은 코디벨로퍼 슬랙의 @김범녕으로 연락주세요!
-4. 행사 당일 촬영된 사진은 코디벨로퍼 커뮤니티가 운영하는 SNS에 게시할 예정입니다. 얼굴 모자이크 처리가 필요하신 분은 스태프에게 말씀해 주세요.
-5. 장소 인원관계상 조기 마감될수가 있습니다. 그럴경우 참가신청폼에 신청한 순서대로 참가자를 선정하도록 하겠습니다.
-
-> **장소도움 및 발표에 관심이 있으신분은 가볍게 슬랙의 @김범녕으로 연락 부탁드리겠습니다!**
-> **커뮤니티 스태프 활동에 관심이 있으신분들도 슬랙의 @김범녕으로 연락 부탁드리겠습니다!**
-
 ### 후원
 
-장소 제공 : 一橋大学千代田キャンパス (노성철님 @Sungchul Noh)
-
-### 참가
-
-슬랙 참가 링크 : [https://srt2.link/ecz02k](https://srt2.link/ecz02k)
-[📅 Google Calendar에 추가](https://calendar.google.com/calendar/render?action=TEMPLATE&text=제68차+고군분투기%28Kodeveloper%29&dates=20260529T200000/20260529T220000&details=&sprop=name:kodeveloper)
+一橋大学千代田キャンパス(@Sungchul Noh)
