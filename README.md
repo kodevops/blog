@@ -12,7 +12,10 @@
 
 ```bash
 $ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog && cd $HOME/kodevops/blog
-$ docker run -it -p 4000:4000 -v $PWD:/srv/jekyll --name kodevops-blog jekyll/jekyll:3.8 bash
+$ docker run -it -p 4000:4000 -v $PWD:/srv/jekyll --name kodevops-blog jekyll/jekyll:4.2.2 bash
+
+※ Note: jekyll4.4부터 리팩토링이 필요함. 
+
 
 # if already container started
 # $ docker exec -it kodevops-blog bash
