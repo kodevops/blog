@@ -4,8 +4,10 @@ date: 2026-05-29
 layout: post
 title: 제68차 고군분투기
 categories: [고군분투기]
-tags: [Authentication, AI Agent, OpenAI Codex, AI Partner]
+tags: [Authentication, AI Agent, OpenAI Codex, AI Partner, Harness Engineering]
 ---
+
+![](/img/struggle/68/title.png)
 
 ### 일정
 
@@ -16,24 +18,28 @@ tags: [Authentication, AI Agent, OpenAI Codex, AI Partner]
 
 ### 발표자
 
-**1. 김태영: 회사에서 상시 로그인 기능 개발하면서 고민했던 것들** - [자료](https://docs.google.com/presentation/d/1inQqhxpxagX10k1pTT78C5Oa8YeP0eo6/edit?usp=sharing&ouid=105621833526474258418&rtpof=true&sd=true)
+**1. 장은수: 팀 개발에서 기능하는 에이전트 하네스 운영** - [자료](https://drive.google.com/file/d/16MNRWtfW22wOgTJ4gxWj0iNpHxaTd1Jm/view?usp=sharing)
 
-![](/img/struggle/68/김태영-1.jpg)
-![](/img/struggle/68/김태영-2.jpg)
-
----
-
-**2. 장은수: Hono+OpenAI API+Codex App Server로 24시간 알아서 정보수집하고 개발 완료하는 에이전트 하네스 환경 구축해본 이야기 (仮)** - 자료 (공개 예정)
-
+![](/img/struggle/68/장은수-발표자료.png)
 ![](/img/struggle/68/장은수-1.jpg)
 ![](/img/struggle/68/장은수-2.jpg)
 
 ---
 
+**2. 김태영: 회사에서 상시 로그인 기능 개발하면서 고민했던 것들** - [자료](https://docs.google.com/presentation/d/1inQqhxpxagX10k1pTT78C5Oa8YeP0eo6/edit?usp=sharing&ouid=105621833526474258418&rtpof=true&sd=true)
+
+![](/img/struggle/68/김태영-발표자료.png)
+![](/img/struggle/68/김태영-2.jpg)
+![](/img/struggle/68/김태영-1.jpg)
+
+
+---
+
 **3. 윤준영: 제로 베이스에서 AI 파트너 만들어 본 이야기** - [자료](https://drive.google.com/file/d/1eEPz_UrEqkKzmgVGlRt3NDg1gBoQPrWn/view?usp=share_link)
 
-![](/img/struggle/68/윤준영-1.jpg)
+![](/img/struggle/68/윤준영-발표자료.png)
 ![](/img/struggle/68/윤준영-2.jpg)
+![](/img/struggle/68/윤준영-1.jpg)
 
 ---
 
@@ -41,6 +47,8 @@ tags: [Authentication, AI Agent, OpenAI Codex, AI Partner]
 
 ![](/img/struggle/68/all.jpg)
 ![](/img/struggle/68/all-2.jpg)
+
+더 많은 사진은 [구글 드라이브](https://drive.google.com/drive/folders/19MUMgk28xlXeLPS-iYzWlleWQjCSUh8Q?usp=drive_link)에서 확인해주세요~!
 
 ### 후원
 
