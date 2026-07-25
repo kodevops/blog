@@ -12,7 +12,7 @@
 
 ```bash
 $ git clone https://github.com/kodevops/blog.git $HOME/kodevops/blog && cd $HOME/kodevops/blog
-$ docker run -it -p 4000:4000 -v $PWD:/srv/jekyll --name kodevops-blog jekyll/jekyll bash
+$ docker run -it -p 4000:4000 -v $PWD:/srv/jekyll --name kodevops-blog jekyll/jekyll:3.8 bash
 
 # if already container started
 # $ docker exec -it kodevops-blog bash
