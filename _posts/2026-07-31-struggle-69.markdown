@@ -1,0 +1,57 @@
+---
+author: kodeveloper
+date: 2026-07-31
+layout: post
+title: 제69차 고군분투기
+categories: [고군분투기]
+tags: [AI, Polyglot, Software Engineering, Backend Architecture, Service Launch]
+---
+
+![](/img/struggle/69/title.png)
+
+### 일정
+
+제목 : 제69차 Kodeveloper 고군분투기  
+일시 : 2026년07월31일(금) 20시 ~ 22시 (19시 30분부터 접수)  
+장소 : 赤坂トラストタワー  
+주소 : 〒107-0052 東京都港区赤坂2-17-22
+
+### 발표자
+
+**1. 이웅희: 정신과 시간의 방에서 AI도입을 외치다** - 자료(준비중)  
+
+![](/img/struggle/69/이웅희-발표자료.png)
+![](/img/struggle/69/이웅희-1.jpg)
+
+---
+
+**2. 문재성: AI와 함께한 폴리글랏과 소프트웨어 엔지니어링 여정** - [자료](https://drive.google.com/file/d/1AHh3g4XjdbJ6y9yElF3RpgOs4RD4CyjH/view?usp=sharing)  
+
+![](/img/struggle/69/문재성-발표자료.png)
+![](/img/struggle/69/문재성-1.jpg)
+
+---
+
+**3. 조유신: Backend Architecture Comparison** - [자료](https://drive.google.com/file/d/1Bvlu27OVls_nEIeoIG30HRW63hHiJzjJ/view?usp=sharing)  
+
+![](/img/struggle/69/조유신-발표자료.png)
+![](/img/struggle/69/조유신-1.jpg)
+
+---
+
+**4. 이상준: [LT] 30일 만에 서비스 런칭하기: 아이디어부터 배포까지** - [자료](https://drive.google.com/file/d/16MNRWtfW22wOgTJ4gxWj0iNpHxaTd1Jm/view?usp=sharing)  
+
+![](/img/struggle/69/이상준-발표자료.png)
+![](/img/struggle/69/이상준-1.jpg)
+
+---
+
+### 사진
+
+![](/img/struggle/69/all.jpg)
+
+더 많은 사진은 [구글 드라이브](https://drive.google.com/drive/folders/1Py1EYhL9AptjPMafKcNReRCFXbJE_EFD?usp=sharing)에서 확인해주세요~!
+
+### 후원
+
+LINEヤフー(@문재성)
